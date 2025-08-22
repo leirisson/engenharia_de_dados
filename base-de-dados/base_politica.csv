@@ -1,0 +1,1001 @@
+id,nome,idade,cidade,regiao,nivel_escolaridade,genero,intencao_voto,avaliacao_governo,data_pesquisa
+1,Eleitor_1,29,Brasília,Centro-Oeste,Fundamental,Outro,Candidato B,Desaprova,2025-05-09
+2,Eleitor_2,63,Curitiba,Sul,Médio,Outro,Candidato A,Neutro,2025-06-16
+3,Eleitor_3,22,São Paulo,Sudeste,Pós-Graduação,Masculino,Candidato A,Neutro,2025-04-21
+4,Eleitor_4,47,Salvador,Nordeste,Médio,Masculino,Candidato C,Desaprova,2025-04-04
+5,Eleitor_5,64,São Paulo,Sudeste,Fundamental,Outro,Indeciso,Desaprova,2025-02-12
+6,Eleitor_6,38,São Paulo,Sudeste,Pós-Graduação,Masculino,Candidato A,Desaprova,2025-06-18
+7,Eleitor_7,33,Salvador,Nordeste,Pós-Graduação,Feminino,Candidato B,Desaprova,2025-03-25
+8,Eleitor_8,26,Porto Alegre,Sul,Superior,Outro,Candidato B,Aprova,2025-02-25
+9,Eleitor_9,22,Brasília,Centro-Oeste,Fundamental,Feminino,Candidato C,Aprova,2025-03-04
+10,Eleitor_10,29,Salvador,Nordeste,Pós-Graduação,Outro,Candidato B,Aprova,2025-02-13
+11,Eleitor_11,39,Belém,Norte,Médio,Outro,Candidato B,Aprova,2025-05-28
+12,Eleitor_12,52,Curitiba,Sul,Fundamental,Feminino,Candidato C,Desaprova,2025-07-13
+13,Eleitor_13,31,Manaus,Norte,Superior,Outro,Candidato A,Neutro,2025-06-06
+14,Eleitor_14,65,Curitiba,Sul,Superior,Masculino,Candidato A,Neutro,2025-04-29
+15,Eleitor_15,20,Brasília,Centro-Oeste,Médio,Feminino,Candidato B,Neutro,2025-06-07
+16,Eleitor_16,40,Curitiba,Sul,Fundamental,Feminino,Candidato C,Desaprova,2025-01-24
+17,Eleitor_17,69,Manaus,Norte,Médio,Masculino,Candidato A,Desaprova,2025-04-03
+18,Eleitor_18,50,Salvador,Nordeste,Superior,Masculino,Candidato A,Aprova,2025-07-09
+19,Eleitor_19,46,Brasília,Centro-Oeste,Médio,Feminino,Indeciso,Desaprova,2025-07-10
+20,Eleitor_20,42,Belém,Norte,Pós-Graduação,Masculino,Candidato C,Neutro,2025-01-23
+21,Eleitor_21,27,Curitiba,Sul,Fundamental,Feminino,Candidato C,Aprova,2025-02-20
+22,Eleitor_22,26,Fortaleza,Nordeste,Médio,Feminino,Candidato C,Neutro,2025-02-26
+23,Eleitor_23,20,Fortaleza,Nordeste,Superior,Outro,Candidato B,Aprova,2025-05-10
+24,Eleitor_24,31,Rio de Janeiro,Sudeste,Pós-Graduação,Outro,Candidato A,Desaprova,2025-01-06
+25,Eleitor_25,66,Recife,Nordeste,Pós-Graduação,Feminino,Candidato B,Desaprova,2025-03-19
+26,Eleitor_26,65,Porto Alegre,Sul,Médio,Masculino,Candidato B,Neutro,2025-03-14
+27,Eleitor_27,56,Rio de Janeiro,Sudeste,Médio,Outro,Candidato B,Neutro,2025-06-19
+28,Eleitor_28,53,Fortaleza,Nordeste,Pós-Graduação,Masculino,Candidato B,Desaprova,2025-02-27
+29,Eleitor_29,54,Curitiba,Sul,Fundamental,Feminino,Indeciso,Aprova,2025-04-15
+30,Eleitor_30,50,Manaus,Norte,Superior,Outro,Candidato C,Desaprova,2025-04-22
+31,Eleitor_31,49,Belém,Norte,Fundamental,Masculino,Indeciso,Desaprova,2025-01-06
+32,Eleitor_32,42,Recife,Nordeste,Pós-Graduação,Masculino,Candidato B,Aprova,2025-06-11
+33,Eleitor_33,31,Belém,Norte,Superior,Outro,Candidato B,Aprova,2025-04-27
+34,Eleitor_34,28,Recife,Nordeste,Fundamental,Feminino,Candidato B,Aprova,2025-07-18
+35,Eleitor_35,36,São Paulo,Sudeste,Fundamental,Feminino,Candidato B,Desaprova,2025-04-18
+36,Eleitor_36,38,Brasília,Centro-Oeste,Pós-Graduação,Outro,Candidato B,Neutro,2025-02-25
+37,Eleitor_37,41,Fortaleza,Nordeste,Pós-Graduação,Outro,Indeciso,Aprova,2025-01-26
+38,Eleitor_38,50,São Paulo,Sudeste,Superior,Outro,Indeciso,Aprova,2025-03-31
+39,Eleitor_39,44,Brasília,Centro-Oeste,Médio,Masculino,Candidato A,Neutro,2025-07-05
+40,Eleitor_40,65,Brasília,Centro-Oeste,Médio,Masculino,Indeciso,Neutro,2025-07-20
+41,Eleitor_41,57,Brasília,Centro-Oeste,Médio,Masculino,Indeciso,Neutro,2025-02-09
+42,Eleitor_42,32,Porto Alegre,Sul,Fundamental,Feminino,Candidato C,Aprova,2025-04-17
+43,Eleitor_43,28,Porto Alegre,Sul,Médio,Masculino,Candidato A,Neutro,2025-01-27
+44,Eleitor_44,68,Fortaleza,Nordeste,Médio,Feminino,Candidato B,Desaprova,2025-02-18
+45,Eleitor_45,56,Salvador,Nordeste,Superior,Masculino,Candidato C,Desaprova,2025-03-01
+46,Eleitor_46,66,Fortaleza,Nordeste,Médio,Masculino,Indeciso,Neutro,2025-07-06
+47,Eleitor_47,21,São Paulo,Sudeste,Médio,Feminino,Candidato C,Neutro,2025-05-16
+48,Eleitor_48,53,Manaus,Norte,Superior,Feminino,Candidato C,Aprova,2025-06-13
+49,Eleitor_49,70,Brasília,Centro-Oeste,Pós-Graduação,Outro,Candidato B,Aprova,2025-02-14
+50,Eleitor_50,32,Salvador,Nordeste,Médio,Feminino,Candidato A,Desaprova,2025-07-04
+51,Eleitor_51,58,Curitiba,Sul,Fundamental,Outro,Candidato C,Neutro,2025-06-08
+52,Eleitor_52,38,Manaus,Norte,Fundamental,Feminino,Indeciso,Desaprova,2025-01-15
+53,Eleitor_53,18,Manaus,Norte,Médio,Feminino,Indeciso,Desaprova,2025-03-03
+54,Eleitor_54,29,Recife,Nordeste,Médio,Masculino,Candidato B,Neutro,2025-03-11
+55,Eleitor_55,30,Manaus,Norte,Médio,Masculino,Indeciso,Aprova,2025-05-21
+56,Eleitor_56,56,Curitiba,Sul,Pós-Graduação,Feminino,Candidato C,Aprova,2025-03-02
+57,Eleitor_57,67,São Paulo,Sudeste,Fundamental,Outro,Candidato B,Aprova,2025-04-26
+58,Eleitor_58,39,Manaus,Norte,Fundamental,Feminino,Indeciso,Aprova,2025-06-17
+59,Eleitor_59,70,Fortaleza,Nordeste,Médio,Outro,Indeciso,Desaprova,2025-03-17
+60,Eleitor_60,20,Brasília,Centro-Oeste,Pós-Graduação,Masculino,Candidato B,Desaprova,2025-07-09
+61,Eleitor_61,53,Porto Alegre,Sul,Fundamental,Masculino,Candidato C,Aprova,2025-03-09
+62,Eleitor_62,38,São Paulo,Sudeste,Superior,Feminino,Candidato B,Aprova,2025-06-19
+63,Eleitor_63,31,Manaus,Norte,Fundamental,Feminino,Candidato C,Aprova,2025-05-11
+64,Eleitor_64,53,Manaus,Norte,Fundamental,Feminino,Candidato C,Desaprova,2025-04-01
+65,Eleitor_65,60,Curitiba,Sul,Superior,Feminino,Candidato C,Aprova,2025-04-06
+66,Eleitor_66,30,Belém,Norte,Médio,Outro,Candidato B,Neutro,2025-04-27
+67,Eleitor_67,63,Manaus,Norte,Superior,Feminino,Candidato A,Desaprova,2025-03-17
+68,Eleitor_68,54,Fortaleza,Nordeste,Superior,Masculino,Candidato C,Neutro,2025-06-18
+69,Eleitor_69,30,Recife,Nordeste,Fundamental,Feminino,Candidato B,Desaprova,2025-04-24
+70,Eleitor_70,64,Salvador,Nordeste,Superior,Masculino,Candidato C,Neutro,2025-03-09
+71,Eleitor_71,34,Belém,Norte,Superior,Feminino,Candidato A,Desaprova,2025-03-02
+72,Eleitor_72,45,Manaus,Norte,Fundamental,Masculino,Candidato B,Neutro,2025-01-15
+73,Eleitor_73,40,Brasília,Centro-Oeste,Superior,Masculino,Indeciso,Aprova,2025-07-06
+74,Eleitor_74,29,Brasília,Centro-Oeste,Fundamental,Masculino,Candidato B,Aprova,2025-06-09
+75,Eleitor_75,42,Manaus,Norte,Fundamental,Feminino,Candidato B,Neutro,2025-04-05
+76,Eleitor_76,23,Belém,Norte,Médio,Masculino,Candidato A,Aprova,2025-03-28
+77,Eleitor_77,39,Rio de Janeiro,Sudeste,Fundamental,Outro,Candidato C,Aprova,2025-03-09
+78,Eleitor_78,22,São Paulo,Sudeste,Fundamental,Outro,Candidato C,Desaprova,2025-02-19
+79,Eleitor_79,29,Brasília,Centro-Oeste,Fundamental,Feminino,Candidato C,Neutro,2025-06-26
+80,Eleitor_80,39,São Paulo,Sudeste,Pós-Graduação,Outro,Candidato A,Desaprova,2025-01-15
+81,Eleitor_81,65,Belém,Norte,Superior,Feminino,Indeciso,Aprova,2025-04-18
+82,Eleitor_82,49,Belém,Norte,Fundamental,Feminino,Candidato C,Neutro,2025-01-07
+83,Eleitor_83,49,Salvador,Nordeste,Médio,Outro,Candidato A,Aprova,2025-04-03
+84,Eleitor_84,23,Brasília,Centro-Oeste,Médio,Feminino,Candidato C,Neutro,2025-02-19
+85,Eleitor_85,29,Manaus,Norte,Fundamental,Outro,Candidato B,Desaprova,2025-06-21
+86,Eleitor_86,37,Curitiba,Sul,Pós-Graduação,Masculino,Candidato B,Aprova,2025-02-11
+87,Eleitor_87,18,Curitiba,Sul,Superior,Outro,Candidato B,Desaprova,2025-07-17
+88,Eleitor_88,41,Rio de Janeiro,Sudeste,Superior,Feminino,Candidato A,Neutro,2025-02-24
+89,Eleitor_89,20,Salvador,Nordeste,Pós-Graduação,Outro,Candidato A,Aprova,2025-06-14
+90,Eleitor_90,58,Curitiba,Sul,Superior,Feminino,Candidato C,Desaprova,2025-07-14
+91,Eleitor_91,34,Curitiba,Sul,Fundamental,Outro,Indeciso,Desaprova,2025-01-24
+92,Eleitor_92,24,São Paulo,Sudeste,Pós-Graduação,Feminino,Candidato B,Aprova,2025-03-17
+93,Eleitor_93,65,Manaus,Norte,Fundamental,Feminino,Candidato B,Desaprova,2025-01-19
+94,Eleitor_94,54,Manaus,Norte,Fundamental,Outro,Candidato C,Desaprova,2025-02-28
+95,Eleitor_95,44,Rio de Janeiro,Sudeste,Médio,Outro,Indeciso,Neutro,2025-07-19
+96,Eleitor_96,63,Curitiba,Sul,Médio,Outro,Indeciso,Neutro,2025-01-25
+97,Eleitor_97,30,Rio de Janeiro,Sudeste,Fundamental,Feminino,Indeciso,Neutro,2025-04-02
+98,Eleitor_98,29,Curitiba,Sul,Médio,Masculino,Candidato A,Aprova,2025-03-11
+99,Eleitor_99,26,Brasília,Centro-Oeste,Fundamental,Masculino,Candidato A,Aprova,2025-05-24
+100,Eleitor_100,22,Salvador,Nordeste,Pós-Graduação,Outro,Candidato A,Neutro,2025-02-14
+101,Eleitor_101,67,Salvador,Nordeste,Superior,Outro,Indeciso,Aprova,2025-05-11
+102,Eleitor_102,35,Rio de Janeiro,Sudeste,Superior,Masculino,Indeciso,Aprova,2025-04-04
+103,Eleitor_103,23,Curitiba,Sul,Pós-Graduação,Outro,Candidato A,Desaprova,2025-03-19
+104,Eleitor_104,29,Manaus,Norte,Médio,Outro,Candidato A,Neutro,2025-02-09
+105,Eleitor_105,38,Porto Alegre,Sul,Superior,Feminino,Candidato C,Desaprova,2025-02-09
+106,Eleitor_106,54,Brasília,Centro-Oeste,Médio,Feminino,Candidato C,Aprova,2025-02-24
+107,Eleitor_107,68,Manaus,Norte,Fundamental,Outro,Candidato B,Desaprova,2025-02-01
+108,Eleitor_108,69,Belém,Norte,Médio,Feminino,Candidato B,Desaprova,2025-04-22
+109,Eleitor_109,31,Salvador,Nordeste,Médio,Feminino,Candidato A,Desaprova,2025-02-18
+110,Eleitor_110,63,Curitiba,Sul,Pós-Graduação,Outro,Candidato A,Desaprova,2025-06-26
+111,Eleitor_111,39,Recife,Nordeste,Médio,Feminino,Candidato A,Desaprova,2025-06-26
+112,Eleitor_112,70,São Paulo,Sudeste,Fundamental,Masculino,Candidato B,Desaprova,2025-03-07
+113,Eleitor_113,56,Fortaleza,Nordeste,Fundamental,Outro,Candidato A,Neutro,2025-01-04
+114,Eleitor_114,69,Porto Alegre,Sul,Pós-Graduação,Masculino,Indeciso,Aprova,2025-05-18
+115,Eleitor_115,33,Rio de Janeiro,Sudeste,Superior,Masculino,Candidato C,Neutro,2025-05-04
+116,Eleitor_116,69,Rio de Janeiro,Sudeste,Pós-Graduação,Feminino,Indeciso,Neutro,2025-03-11
+117,Eleitor_117,65,Rio de Janeiro,Sudeste,Superior,Outro,Candidato A,Aprova,2025-05-27
+118,Eleitor_118,44,Belém,Norte,Fundamental,Feminino,Indeciso,Neutro,2025-05-31
+119,Eleitor_119,32,Recife,Nordeste,Fundamental,Feminino,Indeciso,Aprova,2025-02-19
+120,Eleitor_120,18,Brasília,Centro-Oeste,Superior,Masculino,Candidato B,Desaprova,2025-01-07
+121,Eleitor_121,30,São Paulo,Sudeste,Superior,Masculino,Candidato A,Aprova,2025-01-27
+122,Eleitor_122,31,Manaus,Norte,Superior,Masculino,Candidato A,Neutro,2025-04-25
+123,Eleitor_123,63,Porto Alegre,Sul,Pós-Graduação,Feminino,Candidato C,Aprova,2025-06-05
+124,Eleitor_124,55,Curitiba,Sul,Fundamental,Feminino,Indeciso,Neutro,2025-02-28
+125,Eleitor_125,40,Recife,Nordeste,Superior,Masculino,Candidato A,Desaprova,2025-07-17
+126,Eleitor_126,68,Manaus,Norte,Pós-Graduação,Feminino,Candidato B,Neutro,2025-03-10
+127,Eleitor_127,40,Belém,Norte,Superior,Feminino,Indeciso,Desaprova,2025-05-17
+128,Eleitor_128,42,São Paulo,Sudeste,Fundamental,Masculino,Indeciso,Desaprova,2025-06-22
+129,Eleitor_129,40,Salvador,Nordeste,Médio,Outro,Candidato C,Aprova,2025-03-23
+130,Eleitor_130,36,Belém,Norte,Fundamental,Masculino,Indeciso,Desaprova,2025-05-03
+131,Eleitor_131,70,São Paulo,Sudeste,Superior,Outro,Indeciso,Aprova,2025-03-01
+132,Eleitor_132,66,Manaus,Norte,Pós-Graduação,Outro,Candidato A,Aprova,2025-01-07
+133,Eleitor_133,51,Manaus,Norte,Pós-Graduação,Outro,Candidato A,Desaprova,2025-06-10
+134,Eleitor_134,69,Rio de Janeiro,Sudeste,Superior,Feminino,Candidato A,Aprova,2025-01-22
+135,Eleitor_135,39,Fortaleza,Nordeste,Superior,Outro,Candidato C,Aprova,2025-05-26
+136,Eleitor_136,38,São Paulo,Sudeste,Médio,Outro,Candidato A,Desaprova,2025-05-29
+137,Eleitor_137,51,Porto Alegre,Sul,Médio,Feminino,Candidato C,Neutro,2025-02-11
+138,Eleitor_138,58,Manaus,Norte,Superior,Masculino,Candidato C,Aprova,2025-07-13
+139,Eleitor_139,24,Salvador,Nordeste,Médio,Masculino,Indeciso,Aprova,2025-03-21
+140,Eleitor_140,62,Curitiba,Sul,Superior,Masculino,Candidato C,Aprova,2025-03-21
+141,Eleitor_141,63,Brasília,Centro-Oeste,Superior,Feminino,Indeciso,Neutro,2025-01-14
+142,Eleitor_142,39,Curitiba,Sul,Pós-Graduação,Feminino,Candidato C,Aprova,2025-04-22
+143,Eleitor_143,21,Fortaleza,Nordeste,Superior,Outro,Candidato C,Desaprova,2025-01-10
+144,Eleitor_144,61,Porto Alegre,Sul,Superior,Outro,Indeciso,Desaprova,2025-02-08
+145,Eleitor_145,68,Rio de Janeiro,Sudeste,Pós-Graduação,Outro,Candidato B,Aprova,2025-07-06
+146,Eleitor_146,58,Recife,Nordeste,Médio,Feminino,Candidato C,Aprova,2025-05-21
+147,Eleitor_147,20,São Paulo,Sudeste,Pós-Graduação,Outro,Indeciso,Aprova,2025-06-18
+148,Eleitor_148,28,Brasília,Centro-Oeste,Fundamental,Masculino,Candidato B,Neutro,2025-02-16
+149,Eleitor_149,25,São Paulo,Sudeste,Fundamental,Feminino,Candidato C,Aprova,2025-06-09
+150,Eleitor_150,65,Manaus,Norte,Fundamental,Feminino,Candidato B,Desaprova,2025-05-04
+151,Eleitor_151,58,Fortaleza,Nordeste,Superior,Feminino,Candidato C,Desaprova,2025-02-13
+152,Eleitor_152,31,Brasília,Centro-Oeste,Médio,Masculino,Indeciso,Desaprova,2025-04-13
+153,Eleitor_153,61,São Paulo,Sudeste,Fundamental,Masculino,Candidato B,Desaprova,2025-03-26
+154,Eleitor_154,28,Recife,Nordeste,Superior,Outro,Candidato A,Aprova,2025-04-04
+155,Eleitor_155,59,Brasília,Centro-Oeste,Médio,Outro,Candidato C,Aprova,2025-01-10
+156,Eleitor_156,33,Recife,Nordeste,Médio,Feminino,Indeciso,Aprova,2025-04-16
+157,Eleitor_157,35,São Paulo,Sudeste,Pós-Graduação,Masculino,Indeciso,Desaprova,2025-05-03
+158,Eleitor_158,19,Porto Alegre,Sul,Superior,Feminino,Candidato C,Desaprova,2025-06-01
+159,Eleitor_159,52,Fortaleza,Nordeste,Fundamental,Outro,Indeciso,Neutro,2025-04-17
+160,Eleitor_160,53,Fortaleza,Nordeste,Superior,Masculino,Candidato B,Desaprova,2025-03-27
+161,Eleitor_161,31,Porto Alegre,Sul,Pós-Graduação,Outro,Candidato A,Aprova,2025-04-21
+162,Eleitor_162,68,Salvador,Nordeste,Fundamental,Masculino,Candidato A,Aprova,2025-02-09
+163,Eleitor_163,37,Belém,Norte,Pós-Graduação,Outro,Indeciso,Neutro,2025-02-26
+164,Eleitor_164,47,São Paulo,Sudeste,Médio,Masculino,Indeciso,Desaprova,2025-06-13
+165,Eleitor_165,46,São Paulo,Sudeste,Fundamental,Outro,Candidato B,Aprova,2025-05-24
+166,Eleitor_166,44,Porto Alegre,Sul,Pós-Graduação,Masculino,Candidato B,Desaprova,2025-01-16
+167,Eleitor_167,34,Curitiba,Sul,Superior,Masculino,Candidato A,Aprova,2025-02-08
+168,Eleitor_168,32,Porto Alegre,Sul,Fundamental,Masculino,Candidato B,Aprova,2025-04-08
+169,Eleitor_169,68,Porto Alegre,Sul,Fundamental,Outro,Indeciso,Desaprova,2025-05-20
+170,Eleitor_170,35,Rio de Janeiro,Sudeste,Pós-Graduação,Feminino,Candidato B,Neutro,2025-01-21
+171,Eleitor_171,47,Salvador,Nordeste,Médio,Outro,Candidato A,Neutro,2025-03-22
+172,Eleitor_172,26,Recife,Nordeste,Fundamental,Masculino,Candidato B,Neutro,2025-07-07
+173,Eleitor_173,50,Porto Alegre,Sul,Médio,Feminino,Candidato B,Neutro,2025-07-02
+174,Eleitor_174,55,Brasília,Centro-Oeste,Médio,Feminino,Candidato C,Aprova,2025-06-18
+175,Eleitor_175,41,Porto Alegre,Sul,Superior,Masculino,Indeciso,Desaprova,2025-01-27
+176,Eleitor_176,41,Manaus,Norte,Fundamental,Feminino,Candidato A,Desaprova,2025-05-08
+177,Eleitor_177,46,Curitiba,Sul,Fundamental,Outro,Candidato C,Aprova,2025-01-10
+178,Eleitor_178,36,Porto Alegre,Sul,Médio,Masculino,Candidato B,Neutro,2025-03-17
+179,Eleitor_179,38,Fortaleza,Nordeste,Fundamental,Outro,Candidato B,Neutro,2025-01-03
+180,Eleitor_180,28,Fortaleza,Nordeste,Superior,Feminino,Candidato C,Neutro,2025-05-14
+181,Eleitor_181,29,Salvador,Nordeste,Fundamental,Masculino,Candidato B,Neutro,2025-03-18
+182,Eleitor_182,25,Manaus,Norte,Fundamental,Masculino,Candidato B,Desaprova,2025-05-27
+183,Eleitor_183,70,Manaus,Norte,Fundamental,Outro,Candidato B,Aprova,2025-02-24
+184,Eleitor_184,41,Manaus,Norte,Fundamental,Outro,Indeciso,Aprova,2025-03-22
+185,Eleitor_185,49,Salvador,Nordeste,Médio,Masculino,Indeciso,Neutro,2025-03-10
+186,Eleitor_186,23,Fortaleza,Nordeste,Médio,Outro,Candidato B,Neutro,2025-01-04
+187,Eleitor_187,47,São Paulo,Sudeste,Médio,Feminino,Candidato A,Aprova,2025-01-25
+188,Eleitor_188,26,Brasília,Centro-Oeste,Médio,Outro,Candidato A,Aprova,2025-06-12
+189,Eleitor_189,43,Curitiba,Sul,Fundamental,Outro,Indeciso,Desaprova,2025-03-21
+190,Eleitor_190,51,Recife,Nordeste,Médio,Masculino,Candidato C,Neutro,2025-05-22
+191,Eleitor_191,54,Belém,Norte,Médio,Masculino,Candidato B,Aprova,2025-07-17
+192,Eleitor_192,45,Recife,Nordeste,Fundamental,Feminino,Candidato B,Desaprova,2025-02-15
+193,Eleitor_193,63,Recife,Nordeste,Pós-Graduação,Feminino,Indeciso,Neutro,2025-05-25
+194,Eleitor_194,21,Salvador,Nordeste,Fundamental,Feminino,Candidato A,Neutro,2025-06-06
+195,Eleitor_195,49,Fortaleza,Nordeste,Pós-Graduação,Outro,Candidato A,Desaprova,2025-04-29
+196,Eleitor_196,41,Porto Alegre,Sul,Superior,Masculino,Candidato A,Aprova,2025-03-20
+197,Eleitor_197,51,Rio de Janeiro,Sudeste,Fundamental,Outro,Indeciso,Aprova,2025-05-07
+198,Eleitor_198,54,Belém,Norte,Médio,Outro,Candidato A,Aprova,2025-06-04
+199,Eleitor_199,19,Manaus,Norte,Superior,Masculino,Candidato C,Aprova,2025-05-06
+200,Eleitor_200,44,Belém,Norte,Pós-Graduação,Masculino,Candidato C,Desaprova,2025-02-11
+201,Eleitor_201,22,Brasília,Centro-Oeste,Pós-Graduação,Outro,Candidato C,Desaprova,2025-02-05
+202,Eleitor_202,52,Recife,Nordeste,Pós-Graduação,Masculino,Candidato B,Aprova,2025-04-01
+203,Eleitor_203,30,Belém,Norte,Pós-Graduação,Outro,Candidato C,Aprova,2025-05-03
+204,Eleitor_204,54,Brasília,Centro-Oeste,Pós-Graduação,Outro,Candidato B,Neutro,2025-03-17
+205,Eleitor_205,68,Recife,Nordeste,Superior,Masculino,Indeciso,Desaprova,2025-01-16
+206,Eleitor_206,18,Curitiba,Sul,Fundamental,Feminino,Candidato B,Neutro,2025-04-29
+207,Eleitor_207,22,Porto Alegre,Sul,Fundamental,Masculino,Candidato A,Desaprova,2025-05-08
+208,Eleitor_208,61,Manaus,Norte,Médio,Masculino,Candidato A,Desaprova,2025-05-02
+209,Eleitor_209,34,Recife,Nordeste,Pós-Graduação,Feminino,Indeciso,Neutro,2025-01-13
+210,Eleitor_210,51,Recife,Nordeste,Pós-Graduação,Feminino,Candidato A,Neutro,2025-06-09
+211,Eleitor_211,20,Fortaleza,Nordeste,Médio,Feminino,Candidato A,Desaprova,2025-02-25
+212,Eleitor_212,62,Salvador,Nordeste,Pós-Graduação,Feminino,Candidato B,Aprova,2025-04-23
+213,Eleitor_213,65,Brasília,Centro-Oeste,Fundamental,Outro,Candidato A,Desaprova,2025-04-22
+214,Eleitor_214,30,Brasília,Centro-Oeste,Pós-Graduação,Outro,Candidato A,Desaprova,2025-04-25
+215,Eleitor_215,44,Curitiba,Sul,Pós-Graduação,Feminino,Candidato A,Desaprova,2025-06-01
+216,Eleitor_216,42,Fortaleza,Nordeste,Fundamental,Masculino,Candidato B,Neutro,2025-06-01
+217,Eleitor_217,52,Rio de Janeiro,Sudeste,Pós-Graduação,Feminino,Indeciso,Aprova,2025-07-14
+218,Eleitor_218,57,Salvador,Nordeste,Médio,Feminino,Indeciso,Desaprova,2025-01-29
+219,Eleitor_219,38,Brasília,Centro-Oeste,Médio,Masculino,Candidato A,Desaprova,2025-02-07
+220,Eleitor_220,61,Brasília,Centro-Oeste,Pós-Graduação,Masculino,Candidato A,Desaprova,2025-04-05
+221,Eleitor_221,36,Rio de Janeiro,Sudeste,Superior,Outro,Candidato C,Desaprova,2025-03-13
+222,Eleitor_222,57,Fortaleza,Nordeste,Pós-Graduação,Outro,Candidato B,Neutro,2025-07-04
+223,Eleitor_223,62,Salvador,Nordeste,Superior,Masculino,Candidato B,Neutro,2025-01-31
+224,Eleitor_224,40,Salvador,Nordeste,Fundamental,Outro,Indeciso,Neutro,2025-03-11
+225,Eleitor_225,59,Brasília,Centro-Oeste,Pós-Graduação,Outro,Indeciso,Desaprova,2025-06-12
+226,Eleitor_226,49,Brasília,Centro-Oeste,Pós-Graduação,Masculino,Candidato A,Neutro,2025-06-30
+227,Eleitor_227,32,Fortaleza,Nordeste,Superior,Masculino,Candidato A,Desaprova,2025-07-05
+228,Eleitor_228,53,Porto Alegre,Sul,Médio,Outro,Candidato A,Aprova,2025-01-11
+229,Eleitor_229,24,Belém,Norte,Médio,Feminino,Candidato C,Aprova,2025-07-11
+230,Eleitor_230,50,Salvador,Nordeste,Superior,Feminino,Candidato A,Aprova,2025-03-16
+231,Eleitor_231,31,Rio de Janeiro,Sudeste,Pós-Graduação,Masculino,Candidato A,Desaprova,2025-03-22
+232,Eleitor_232,54,Belém,Norte,Superior,Feminino,Indeciso,Neutro,2025-06-07
+233,Eleitor_233,18,Curitiba,Sul,Superior,Feminino,Candidato B,Desaprova,2025-04-15
+234,Eleitor_234,64,Rio de Janeiro,Sudeste,Fundamental,Masculino,Candidato C,Desaprova,2025-06-19
+235,Eleitor_235,42,Manaus,Norte,Superior,Feminino,Candidato A,Aprova,2025-02-25
+236,Eleitor_236,54,Brasília,Centro-Oeste,Pós-Graduação,Feminino,Candidato B,Neutro,2025-05-11
+237,Eleitor_237,25,Rio de Janeiro,Sudeste,Médio,Outro,Indeciso,Aprova,2025-03-10
+238,Eleitor_238,35,Brasília,Centro-Oeste,Superior,Masculino,Candidato A,Desaprova,2025-01-29
+239,Eleitor_239,66,Rio de Janeiro,Sudeste,Pós-Graduação,Feminino,Candidato B,Neutro,2025-03-26
+240,Eleitor_240,63,São Paulo,Sudeste,Fundamental,Masculino,Candidato C,Desaprova,2025-04-17
+241,Eleitor_241,48,São Paulo,Sudeste,Fundamental,Masculino,Indeciso,Desaprova,2025-01-09
+242,Eleitor_242,70,Fortaleza,Nordeste,Fundamental,Feminino,Candidato A,Aprova,2025-07-19
+243,Eleitor_243,32,Porto Alegre,Sul,Fundamental,Masculino,Candidato B,Neutro,2025-04-26
+244,Eleitor_244,48,Brasília,Centro-Oeste,Pós-Graduação,Outro,Candidato C,Aprova,2025-04-09
+245,Eleitor_245,67,Brasília,Centro-Oeste,Fundamental,Outro,Candidato B,Desaprova,2025-07-18
+246,Eleitor_246,33,Curitiba,Sul,Superior,Feminino,Candidato A,Neutro,2025-03-10
+247,Eleitor_247,23,Brasília,Centro-Oeste,Fundamental,Feminino,Candidato A,Desaprova,2025-02-22
+248,Eleitor_248,48,Salvador,Nordeste,Pós-Graduação,Feminino,Indeciso,Neutro,2025-06-30
+249,Eleitor_249,29,Brasília,Centro-Oeste,Superior,Feminino,Candidato B,Aprova,2025-03-01
+250,Eleitor_250,41,Rio de Janeiro,Sudeste,Pós-Graduação,Feminino,Indeciso,Desaprova,2025-04-10
+251,Eleitor_251,30,Porto Alegre,Sul,Superior,Masculino,Candidato C,Neutro,2025-02-08
+252,Eleitor_252,28,Porto Alegre,Sul,Médio,Masculino,Candidato A,Aprova,2025-02-28
+253,Eleitor_253,22,Belém,Norte,Fundamental,Masculino,Candidato A,Neutro,2025-04-08
+254,Eleitor_254,19,Porto Alegre,Sul,Médio,Outro,Candidato A,Aprova,2025-02-14
+255,Eleitor_255,36,Belém,Norte,Superior,Feminino,Indeciso,Aprova,2025-04-26
+256,Eleitor_256,35,Rio de Janeiro,Sudeste,Superior,Outro,Candidato B,Aprova,2025-05-27
+257,Eleitor_257,61,Curitiba,Sul,Pós-Graduação,Outro,Candidato C,Aprova,2025-02-02
+258,Eleitor_258,34,Porto Alegre,Sul,Superior,Masculino,Candidato B,Neutro,2025-05-01
+259,Eleitor_259,36,Manaus,Norte,Fundamental,Outro,Candidato B,Aprova,2025-07-06
+260,Eleitor_260,59,Rio de Janeiro,Sudeste,Superior,Feminino,Indeciso,Aprova,2025-06-24
+261,Eleitor_261,34,Manaus,Norte,Fundamental,Feminino,Candidato A,Neutro,2025-04-10
+262,Eleitor_262,47,São Paulo,Sudeste,Pós-Graduação,Outro,Candidato A,Neutro,2025-04-04
+263,Eleitor_263,24,Brasília,Centro-Oeste,Médio,Masculino,Candidato A,Aprova,2025-01-13
+264,Eleitor_264,39,Porto Alegre,Sul,Pós-Graduação,Masculino,Candidato A,Neutro,2025-05-20
+265,Eleitor_265,46,Curitiba,Sul,Médio,Feminino,Candidato C,Neutro,2025-01-22
+266,Eleitor_266,42,Salvador,Nordeste,Fundamental,Outro,Candidato B,Aprova,2025-04-17
+267,Eleitor_267,26,Fortaleza,Nordeste,Superior,Feminino,Candidato C,Desaprova,2025-01-08
+268,Eleitor_268,19,Salvador,Nordeste,Fundamental,Feminino,Candidato C,Neutro,2025-07-05
+269,Eleitor_269,36,Recife,Nordeste,Pós-Graduação,Feminino,Indeciso,Neutro,2025-03-22
+270,Eleitor_270,47,Salvador,Nordeste,Fundamental,Masculino,Candidato A,Desaprova,2025-07-18
+271,Eleitor_271,38,Salvador,Nordeste,Superior,Feminino,Candidato B,Neutro,2025-03-26
+272,Eleitor_272,38,Fortaleza,Nordeste,Superior,Outro,Candidato C,Neutro,2025-07-05
+273,Eleitor_273,27,Recife,Nordeste,Superior,Outro,Candidato B,Aprova,2025-01-16
+274,Eleitor_274,35,Brasília,Centro-Oeste,Fundamental,Feminino,Indeciso,Aprova,2025-06-16
+275,Eleitor_275,57,Curitiba,Sul,Superior,Masculino,Candidato C,Desaprova,2025-01-21
+276,Eleitor_276,44,Manaus,Norte,Médio,Outro,Indeciso,Aprova,2025-01-29
+277,Eleitor_277,70,Porto Alegre,Sul,Médio,Masculino,Candidato B,Desaprova,2025-04-08
+278,Eleitor_278,44,Rio de Janeiro,Sudeste,Superior,Feminino,Candidato A,Neutro,2025-03-31
+279,Eleitor_279,33,Manaus,Norte,Fundamental,Masculino,Candidato C,Neutro,2025-03-20
+280,Eleitor_280,21,Manaus,Norte,Médio,Feminino,Candidato B,Aprova,2025-05-09
+281,Eleitor_281,26,São Paulo,Sudeste,Superior,Masculino,Candidato A,Aprova,2025-06-29
+282,Eleitor_282,28,Brasília,Centro-Oeste,Fundamental,Outro,Indeciso,Aprova,2025-04-12
+283,Eleitor_283,29,Recife,Nordeste,Médio,Masculino,Candidato B,Aprova,2025-06-21
+284,Eleitor_284,30,Salvador,Nordeste,Médio,Feminino,Candidato A,Aprova,2025-02-19
+285,Eleitor_285,63,Fortaleza,Nordeste,Médio,Outro,Candidato A,Desaprova,2025-07-05
+286,Eleitor_286,65,Curitiba,Sul,Médio,Outro,Candidato B,Neutro,2025-01-03
+287,Eleitor_287,70,Brasília,Centro-Oeste,Superior,Feminino,Candidato B,Aprova,2025-05-18
+288,Eleitor_288,24,Belém,Norte,Médio,Masculino,Candidato C,Desaprova,2025-01-05
+289,Eleitor_289,63,Salvador,Nordeste,Fundamental,Masculino,Candidato B,Neutro,2025-04-02
+290,Eleitor_290,49,Manaus,Norte,Fundamental,Feminino,Indeciso,Aprova,2025-03-13
+291,Eleitor_291,29,Manaus,Norte,Fundamental,Outro,Candidato C,Aprova,2025-01-31
+292,Eleitor_292,35,Manaus,Norte,Fundamental,Masculino,Candidato B,Neutro,2025-04-09
+293,Eleitor_293,56,Brasília,Centro-Oeste,Fundamental,Feminino,Candidato C,Aprova,2025-06-18
+294,Eleitor_294,45,Curitiba,Sul,Fundamental,Outro,Candidato B,Desaprova,2025-05-05
+295,Eleitor_295,63,São Paulo,Sudeste,Superior,Feminino,Candidato B,Aprova,2025-05-30
+296,Eleitor_296,54,Brasília,Centro-Oeste,Pós-Graduação,Feminino,Candidato B,Aprova,2025-02-25
+297,Eleitor_297,52,Rio de Janeiro,Sudeste,Fundamental,Masculino,Candidato C,Aprova,2025-01-23
+298,Eleitor_298,43,Rio de Janeiro,Sudeste,Superior,Masculino,Candidato B,Aprova,2025-06-22
+299,Eleitor_299,45,Manaus,Norte,Fundamental,Feminino,Candidato A,Desaprova,2025-02-09
+300,Eleitor_300,67,Recife,Nordeste,Superior,Feminino,Candidato C,Desaprova,2025-05-31
+301,Eleitor_301,25,Brasília,Centro-Oeste,Médio,Feminino,Candidato A,Neutro,2025-01-05
+302,Eleitor_302,27,Porto Alegre,Sul,Superior,Feminino,Candidato C,Aprova,2025-01-15
+303,Eleitor_303,46,Rio de Janeiro,Sudeste,Superior,Outro,Candidato B,Neutro,2025-03-13
+304,Eleitor_304,52,Recife,Nordeste,Pós-Graduação,Outro,Candidato C,Desaprova,2025-02-20
+305,Eleitor_305,18,Recife,Nordeste,Fundamental,Masculino,Candidato C,Aprova,2025-02-16
+306,Eleitor_306,57,Recife,Nordeste,Médio,Feminino,Candidato A,Aprova,2025-02-21
+307,Eleitor_307,61,Brasília,Centro-Oeste,Pós-Graduação,Outro,Candidato C,Neutro,2025-02-15
+308,Eleitor_308,57,Fortaleza,Nordeste,Pós-Graduação,Masculino,Candidato A,Aprova,2025-04-21
+309,Eleitor_309,60,Manaus,Norte,Médio,Feminino,Candidato B,Neutro,2025-03-06
+310,Eleitor_310,29,Brasília,Centro-Oeste,Fundamental,Feminino,Indeciso,Neutro,2025-02-09
+311,Eleitor_311,25,Recife,Nordeste,Pós-Graduação,Masculino,Indeciso,Aprova,2025-05-29
+312,Eleitor_312,45,Curitiba,Sul,Fundamental,Masculino,Candidato B,Desaprova,2025-02-05
+313,Eleitor_313,60,Fortaleza,Nordeste,Fundamental,Feminino,Candidato A,Aprova,2025-01-19
+314,Eleitor_314,63,Brasília,Centro-Oeste,Médio,Masculino,Candidato A,Desaprova,2025-05-03
+315,Eleitor_315,19,Belém,Norte,Pós-Graduação,Masculino,Candidato B,Neutro,2025-02-15
+316,Eleitor_316,49,Belém,Norte,Médio,Feminino,Candidato C,Desaprova,2025-02-25
+317,Eleitor_317,57,Brasília,Centro-Oeste,Superior,Outro,Candidato C,Desaprova,2025-02-21
+318,Eleitor_318,36,Rio de Janeiro,Sudeste,Médio,Feminino,Candidato B,Neutro,2025-02-13
+319,Eleitor_319,46,Recife,Nordeste,Médio,Feminino,Candidato C,Neutro,2025-04-14
+320,Eleitor_320,21,Salvador,Nordeste,Pós-Graduação,Outro,Indeciso,Aprova,2025-03-13
+321,Eleitor_321,44,Recife,Nordeste,Médio,Masculino,Candidato A,Desaprova,2025-04-08
+322,Eleitor_322,66,São Paulo,Sudeste,Médio,Feminino,Candidato A,Neutro,2025-01-10
+323,Eleitor_323,24,Curitiba,Sul,Médio,Feminino,Indeciso,Neutro,2025-03-17
+324,Eleitor_324,24,Curitiba,Sul,Médio,Outro,Candidato B,Desaprova,2025-03-01
+325,Eleitor_325,29,Curitiba,Sul,Médio,Masculino,Candidato B,Neutro,2025-04-12
+326,Eleitor_326,65,Recife,Nordeste,Superior,Outro,Candidato B,Desaprova,2025-02-15
+327,Eleitor_327,54,Rio de Janeiro,Sudeste,Fundamental,Masculino,Candidato C,Neutro,2025-06-16
+328,Eleitor_328,58,Recife,Nordeste,Médio,Masculino,Candidato B,Aprova,2025-04-23
+329,Eleitor_329,41,São Paulo,Sudeste,Superior,Feminino,Indeciso,Desaprova,2025-04-10
+330,Eleitor_330,53,São Paulo,Sudeste,Médio,Feminino,Indeciso,Aprova,2025-05-24
+331,Eleitor_331,29,Rio de Janeiro,Sudeste,Fundamental,Feminino,Indeciso,Neutro,2025-02-10
+332,Eleitor_332,20,Curitiba,Sul,Superior,Feminino,Candidato A,Desaprova,2025-06-30
+333,Eleitor_333,18,Rio de Janeiro,Sudeste,Médio,Masculino,Candidato B,Neutro,2025-04-15
+334,Eleitor_334,52,Porto Alegre,Sul,Pós-Graduação,Masculino,Candidato B,Desaprova,2025-07-02
+335,Eleitor_335,46,Salvador,Nordeste,Pós-Graduação,Feminino,Indeciso,Neutro,2025-04-27
+336,Eleitor_336,30,Belém,Norte,Médio,Masculino,Candidato A,Desaprova,2025-04-28
+337,Eleitor_337,30,Rio de Janeiro,Sudeste,Pós-Graduação,Masculino,Candidato B,Neutro,2025-06-11
+338,Eleitor_338,44,Porto Alegre,Sul,Médio,Outro,Indeciso,Aprova,2025-04-08
+339,Eleitor_339,48,São Paulo,Sudeste,Superior,Feminino,Candidato C,Neutro,2025-02-15
+340,Eleitor_340,64,Salvador,Nordeste,Pós-Graduação,Feminino,Indeciso,Neutro,2025-03-17
+341,Eleitor_341,54,Salvador,Nordeste,Pós-Graduação,Feminino,Candidato B,Neutro,2025-05-18
+342,Eleitor_342,53,Salvador,Nordeste,Pós-Graduação,Outro,Candidato A,Desaprova,2025-01-20
+343,Eleitor_343,48,São Paulo,Sudeste,Pós-Graduação,Outro,Candidato B,Neutro,2025-04-07
+344,Eleitor_344,27,Rio de Janeiro,Sudeste,Superior,Feminino,Candidato C,Aprova,2025-07-08
+345,Eleitor_345,19,Brasília,Centro-Oeste,Médio,Feminino,Candidato A,Neutro,2025-01-28
+346,Eleitor_346,38,Manaus,Norte,Pós-Graduação,Feminino,Candidato A,Neutro,2025-02-02
+347,Eleitor_347,25,Brasília,Centro-Oeste,Fundamental,Feminino,Candidato C,Neutro,2025-01-31
+348,Eleitor_348,53,Rio de Janeiro,Sudeste,Médio,Feminino,Indeciso,Aprova,2025-06-05
+349,Eleitor_349,23,Porto Alegre,Sul,Superior,Feminino,Candidato C,Aprova,2025-01-05
+350,Eleitor_350,40,Fortaleza,Nordeste,Fundamental,Outro,Candidato A,Neutro,2025-06-19
+351,Eleitor_351,64,Brasília,Centro-Oeste,Fundamental,Feminino,Candidato B,Neutro,2025-03-02
+352,Eleitor_352,37,São Paulo,Sudeste,Pós-Graduação,Outro,Candidato A,Neutro,2025-05-11
+353,Eleitor_353,56,Fortaleza,Nordeste,Pós-Graduação,Feminino,Candidato B,Neutro,2025-06-17
+354,Eleitor_354,33,Brasília,Centro-Oeste,Superior,Feminino,Candidato A,Neutro,2025-03-02
+355,Eleitor_355,60,Recife,Nordeste,Superior,Outro,Indeciso,Desaprova,2025-02-16
+356,Eleitor_356,36,Fortaleza,Nordeste,Superior,Masculino,Candidato B,Desaprova,2025-03-28
+357,Eleitor_357,38,Porto Alegre,Sul,Pós-Graduação,Feminino,Candidato A,Aprova,2025-02-08
+358,Eleitor_358,48,Salvador,Nordeste,Fundamental,Outro,Indeciso,Desaprova,2025-07-03
+359,Eleitor_359,38,Porto Alegre,Sul,Médio,Outro,Candidato B,Aprova,2025-05-09
+360,Eleitor_360,48,Manaus,Norte,Fundamental,Outro,Candidato A,Desaprova,2025-04-17
+361,Eleitor_361,36,Recife,Nordeste,Superior,Feminino,Indeciso,Aprova,2025-01-10
+362,Eleitor_362,51,Manaus,Norte,Fundamental,Masculino,Indeciso,Neutro,2025-05-11
+363,Eleitor_363,29,Salvador,Nordeste,Superior,Feminino,Indeciso,Neutro,2025-01-15
+364,Eleitor_364,44,Manaus,Norte,Médio,Feminino,Candidato C,Aprova,2025-01-23
+365,Eleitor_365,63,Belém,Norte,Pós-Graduação,Masculino,Indeciso,Neutro,2025-02-15
+366,Eleitor_366,41,Manaus,Norte,Pós-Graduação,Outro,Candidato B,Neutro,2025-06-06
+367,Eleitor_367,28,Salvador,Nordeste,Pós-Graduação,Outro,Candidato B,Desaprova,2025-01-13
+368,Eleitor_368,44,Salvador,Nordeste,Pós-Graduação,Feminino,Indeciso,Neutro,2025-06-16
+369,Eleitor_369,28,Porto Alegre,Sul,Médio,Outro,Candidato A,Desaprova,2025-03-31
+370,Eleitor_370,54,São Paulo,Sudeste,Superior,Feminino,Candidato A,Neutro,2025-05-30
+371,Eleitor_371,69,Manaus,Norte,Superior,Feminino,Indeciso,Aprova,2025-04-08
+372,Eleitor_372,19,Curitiba,Sul,Médio,Outro,Indeciso,Neutro,2025-03-21
+373,Eleitor_373,36,Manaus,Norte,Médio,Feminino,Indeciso,Aprova,2025-01-24
+374,Eleitor_374,38,Belém,Norte,Fundamental,Outro,Candidato B,Neutro,2025-06-13
+375,Eleitor_375,20,Porto Alegre,Sul,Pós-Graduação,Masculino,Candidato A,Neutro,2025-07-05
+376,Eleitor_376,49,Porto Alegre,Sul,Pós-Graduação,Masculino,Candidato A,Desaprova,2025-02-01
+377,Eleitor_377,40,Fortaleza,Nordeste,Superior,Feminino,Indeciso,Aprova,2025-03-29
+378,Eleitor_378,64,Brasília,Centro-Oeste,Médio,Outro,Indeciso,Neutro,2025-04-18
+379,Eleitor_379,54,Manaus,Norte,Médio,Masculino,Candidato A,Desaprova,2025-05-19
+380,Eleitor_380,62,Rio de Janeiro,Sudeste,Pós-Graduação,Feminino,Candidato C,Neutro,2025-06-10
+381,Eleitor_381,54,Curitiba,Sul,Pós-Graduação,Feminino,Candidato C,Aprova,2025-06-17
+382,Eleitor_382,38,São Paulo,Sudeste,Médio,Feminino,Candidato B,Neutro,2025-06-07
+383,Eleitor_383,45,Fortaleza,Nordeste,Pós-Graduação,Feminino,Candidato C,Aprova,2025-04-19
+384,Eleitor_384,23,Porto Alegre,Sul,Superior,Outro,Candidato B,Desaprova,2025-02-15
+385,Eleitor_385,33,Manaus,Norte,Superior,Feminino,Candidato A,Desaprova,2025-04-04
+386,Eleitor_386,40,São Paulo,Sudeste,Superior,Feminino,Candidato C,Aprova,2025-02-28
+387,Eleitor_387,53,Recife,Nordeste,Pós-Graduação,Outro,Candidato B,Aprova,2025-05-29
+388,Eleitor_388,24,Salvador,Nordeste,Fundamental,Masculino,Candidato C,Neutro,2025-06-19
+389,Eleitor_389,69,Salvador,Nordeste,Médio,Outro,Indeciso,Desaprova,2025-06-02
+390,Eleitor_390,55,Curitiba,Sul,Médio,Masculino,Candidato A,Desaprova,2025-05-19
+391,Eleitor_391,49,Brasília,Centro-Oeste,Pós-Graduação,Outro,Candidato C,Desaprova,2025-04-27
+392,Eleitor_392,54,São Paulo,Sudeste,Pós-Graduação,Outro,Candidato A,Aprova,2025-03-29
+393,Eleitor_393,51,Fortaleza,Nordeste,Médio,Feminino,Candidato B,Neutro,2025-05-31
+394,Eleitor_394,56,Belém,Norte,Superior,Outro,Candidato C,Desaprova,2025-05-05
+395,Eleitor_395,25,Manaus,Norte,Superior,Masculino,Indeciso,Neutro,2025-07-16
+396,Eleitor_396,66,Manaus,Norte,Fundamental,Outro,Candidato A,Desaprova,2025-05-12
+397,Eleitor_397,29,São Paulo,Sudeste,Superior,Feminino,Indeciso,Neutro,2025-01-08
+398,Eleitor_398,28,São Paulo,Sudeste,Superior,Masculino,Indeciso,Neutro,2025-07-09
+399,Eleitor_399,19,Rio de Janeiro,Sudeste,Fundamental,Outro,Candidato B,Neutro,2025-05-08
+400,Eleitor_400,18,Curitiba,Sul,Médio,Masculino,Candidato C,Aprova,2025-01-25
+401,Eleitor_401,19,Salvador,Nordeste,Médio,Feminino,Indeciso,Aprova,2025-07-12
+402,Eleitor_402,64,Curitiba,Sul,Superior,Outro,Candidato C,Aprova,2025-06-21
+403,Eleitor_403,40,Belém,Norte,Superior,Feminino,Candidato A,Neutro,2025-07-18
+404,Eleitor_404,45,Manaus,Norte,Fundamental,Outro,Candidato A,Neutro,2025-07-06
+405,Eleitor_405,69,Recife,Nordeste,Médio,Feminino,Candidato B,Aprova,2025-06-25
+406,Eleitor_406,45,Rio de Janeiro,Sudeste,Pós-Graduação,Feminino,Candidato C,Neutro,2025-04-02
+407,Eleitor_407,27,Manaus,Norte,Fundamental,Outro,Candidato C,Aprova,2025-03-15
+408,Eleitor_408,31,Manaus,Norte,Pós-Graduação,Outro,Candidato A,Aprova,2025-05-05
+409,Eleitor_409,65,Manaus,Norte,Fundamental,Feminino,Indeciso,Desaprova,2025-06-13
+410,Eleitor_410,34,Rio de Janeiro,Sudeste,Fundamental,Feminino,Candidato A,Neutro,2025-04-01
+411,Eleitor_411,69,Belém,Norte,Médio,Outro,Candidato C,Desaprova,2025-06-12
+412,Eleitor_412,37,Recife,Nordeste,Superior,Outro,Candidato C,Desaprova,2025-02-03
+413,Eleitor_413,29,Porto Alegre,Sul,Médio,Outro,Candidato B,Desaprova,2025-06-15
+414,Eleitor_414,34,Brasília,Centro-Oeste,Fundamental,Feminino,Indeciso,Neutro,2025-03-14
+415,Eleitor_415,60,Recife,Nordeste,Médio,Outro,Candidato A,Neutro,2025-06-22
+416,Eleitor_416,67,Salvador,Nordeste,Pós-Graduação,Feminino,Candidato B,Desaprova,2025-01-25
+417,Eleitor_417,42,Salvador,Nordeste,Fundamental,Masculino,Candidato B,Neutro,2025-04-29
+418,Eleitor_418,31,Fortaleza,Nordeste,Superior,Feminino,Candidato A,Neutro,2025-03-02
+419,Eleitor_419,68,São Paulo,Sudeste,Pós-Graduação,Outro,Candidato A,Neutro,2025-05-06
+420,Eleitor_420,37,Fortaleza,Nordeste,Fundamental,Feminino,Candidato A,Aprova,2025-04-14
+421,Eleitor_421,26,Porto Alegre,Sul,Fundamental,Outro,Candidato C,Aprova,2025-06-16
+422,Eleitor_422,34,Belém,Norte,Superior,Feminino,Candidato A,Aprova,2025-06-20
+423,Eleitor_423,70,Curitiba,Sul,Médio,Masculino,Candidato C,Desaprova,2025-01-10
+424,Eleitor_424,39,São Paulo,Sudeste,Superior,Masculino,Candidato C,Aprova,2025-07-20
+425,Eleitor_425,54,Porto Alegre,Sul,Superior,Feminino,Indeciso,Neutro,2025-05-27
+426,Eleitor_426,35,Recife,Nordeste,Superior,Masculino,Indeciso,Neutro,2025-06-29
+427,Eleitor_427,29,Brasília,Centro-Oeste,Superior,Masculino,Candidato C,Neutro,2025-05-16
+428,Eleitor_428,48,Porto Alegre,Sul,Superior,Feminino,Candidato B,Aprova,2025-03-07
+429,Eleitor_429,28,Rio de Janeiro,Sudeste,Médio,Outro,Indeciso,Neutro,2025-03-11
+430,Eleitor_430,28,São Paulo,Sudeste,Pós-Graduação,Masculino,Candidato B,Aprova,2025-01-11
+431,Eleitor_431,22,São Paulo,Sudeste,Fundamental,Feminino,Candidato A,Neutro,2025-06-01
+432,Eleitor_432,57,Brasília,Centro-Oeste,Médio,Outro,Candidato C,Neutro,2025-07-11
+433,Eleitor_433,56,São Paulo,Sudeste,Médio,Outro,Indeciso,Neutro,2025-06-27
+434,Eleitor_434,69,Recife,Nordeste,Médio,Outro,Indeciso,Desaprova,2025-02-04
+435,Eleitor_435,23,Salvador,Nordeste,Pós-Graduação,Masculino,Candidato A,Desaprova,2025-03-21
+436,Eleitor_436,30,Porto Alegre,Sul,Fundamental,Outro,Candidato B,Desaprova,2025-01-27
+437,Eleitor_437,42,Porto Alegre,Sul,Superior,Outro,Candidato A,Desaprova,2025-06-16
+438,Eleitor_438,53,Rio de Janeiro,Sudeste,Fundamental,Feminino,Candidato A,Aprova,2025-06-23
+439,Eleitor_439,43,Curitiba,Sul,Médio,Outro,Candidato B,Desaprova,2025-06-26
+440,Eleitor_440,27,Recife,Nordeste,Fundamental,Outro,Candidato A,Neutro,2025-04-08
+441,Eleitor_441,55,São Paulo,Sudeste,Superior,Masculino,Candidato C,Neutro,2025-04-23
+442,Eleitor_442,45,Porto Alegre,Sul,Médio,Masculino,Candidato B,Aprova,2025-05-26
+443,Eleitor_443,43,Fortaleza,Nordeste,Superior,Feminino,Candidato A,Desaprova,2025-02-08
+444,Eleitor_444,61,Porto Alegre,Sul,Fundamental,Masculino,Candidato C,Neutro,2025-04-21
+445,Eleitor_445,55,São Paulo,Sudeste,Médio,Feminino,Candidato C,Neutro,2025-05-23
+446,Eleitor_446,41,Belém,Norte,Superior,Masculino,Candidato C,Aprova,2025-04-27
+447,Eleitor_447,68,Manaus,Norte,Médio,Masculino,Candidato C,Neutro,2025-07-02
+448,Eleitor_448,63,Salvador,Nordeste,Fundamental,Outro,Candidato A,Desaprova,2025-02-19
+449,Eleitor_449,42,Fortaleza,Nordeste,Superior,Feminino,Candidato B,Desaprova,2025-03-09
+450,Eleitor_450,68,Fortaleza,Nordeste,Fundamental,Masculino,Candidato A,Neutro,2025-04-06
+451,Eleitor_451,46,Brasília,Centro-Oeste,Fundamental,Feminino,Candidato B,Desaprova,2025-03-08
+452,Eleitor_452,36,Recife,Nordeste,Superior,Feminino,Candidato B,Neutro,2025-01-27
+453,Eleitor_453,29,Brasília,Centro-Oeste,Médio,Masculino,Indeciso,Desaprova,2025-01-01
+454,Eleitor_454,49,Curitiba,Sul,Superior,Outro,Candidato C,Desaprova,2025-05-23
+455,Eleitor_455,25,Rio de Janeiro,Sudeste,Fundamental,Masculino,Candidato B,Neutro,2025-07-10
+456,Eleitor_456,57,São Paulo,Sudeste,Fundamental,Outro,Candidato B,Aprova,2025-01-13
+457,Eleitor_457,67,Curitiba,Sul,Pós-Graduação,Feminino,Indeciso,Neutro,2025-02-08
+458,Eleitor_458,29,Belém,Norte,Superior,Feminino,Candidato B,Aprova,2025-03-20
+459,Eleitor_459,43,Curitiba,Sul,Fundamental,Outro,Candidato B,Neutro,2025-07-18
+460,Eleitor_460,33,Rio de Janeiro,Sudeste,Superior,Feminino,Candidato A,Desaprova,2025-05-02
+461,Eleitor_461,57,Brasília,Centro-Oeste,Fundamental,Outro,Indeciso,Desaprova,2025-06-11
+462,Eleitor_462,33,Curitiba,Sul,Pós-Graduação,Feminino,Indeciso,Desaprova,2025-03-26
+463,Eleitor_463,59,Belém,Norte,Pós-Graduação,Feminino,Candidato A,Desaprova,2025-02-05
+464,Eleitor_464,51,Porto Alegre,Sul,Superior,Masculino,Candidato B,Desaprova,2025-03-05
+465,Eleitor_465,62,Curitiba,Sul,Fundamental,Masculino,Candidato B,Aprova,2025-02-23
+466,Eleitor_466,54,Rio de Janeiro,Sudeste,Médio,Outro,Indeciso,Aprova,2025-06-19
+467,Eleitor_467,31,Rio de Janeiro,Sudeste,Superior,Feminino,Candidato B,Desaprova,2025-02-16
+468,Eleitor_468,29,Manaus,Norte,Pós-Graduação,Feminino,Candidato A,Neutro,2025-05-05
+469,Eleitor_469,61,Belém,Norte,Superior,Outro,Candidato C,Desaprova,2025-01-30
+470,Eleitor_470,30,Salvador,Nordeste,Pós-Graduação,Outro,Candidato A,Aprova,2025-03-07
+471,Eleitor_471,44,Rio de Janeiro,Sudeste,Médio,Masculino,Indeciso,Neutro,2025-06-23
+472,Eleitor_472,55,Recife,Nordeste,Fundamental,Feminino,Candidato B,Aprova,2025-05-02
+473,Eleitor_473,52,São Paulo,Sudeste,Superior,Masculino,Candidato C,Desaprova,2025-04-22
+474,Eleitor_474,37,Curitiba,Sul,Fundamental,Masculino,Candidato A,Aprova,2025-01-11
+475,Eleitor_475,57,São Paulo,Sudeste,Fundamental,Feminino,Candidato C,Neutro,2025-02-03
+476,Eleitor_476,47,Brasília,Centro-Oeste,Fundamental,Outro,Candidato B,Neutro,2025-05-18
+477,Eleitor_477,64,Curitiba,Sul,Pós-Graduação,Masculino,Candidato A,Neutro,2025-02-18
+478,Eleitor_478,18,São Paulo,Sudeste,Pós-Graduação,Feminino,Candidato B,Neutro,2025-04-20
+479,Eleitor_479,25,Recife,Nordeste,Pós-Graduação,Feminino,Candidato A,Desaprova,2025-06-15
+480,Eleitor_480,50,Salvador,Nordeste,Pós-Graduação,Masculino,Candidato C,Neutro,2025-03-20
+481,Eleitor_481,44,Salvador,Nordeste,Pós-Graduação,Outro,Candidato A,Neutro,2025-03-21
+482,Eleitor_482,28,São Paulo,Sudeste,Fundamental,Masculino,Candidato B,Aprova,2025-07-14
+483,Eleitor_483,19,Brasília,Centro-Oeste,Superior,Feminino,Candidato B,Aprova,2025-03-30
+484,Eleitor_484,61,Curitiba,Sul,Fundamental,Masculino,Candidato B,Neutro,2025-04-06
+485,Eleitor_485,59,Rio de Janeiro,Sudeste,Médio,Masculino,Candidato B,Neutro,2025-06-16
+486,Eleitor_486,26,Salvador,Nordeste,Superior,Masculino,Candidato B,Desaprova,2025-05-27
+487,Eleitor_487,23,Recife,Nordeste,Superior,Feminino,Indeciso,Aprova,2025-07-08
+488,Eleitor_488,45,Manaus,Norte,Superior,Outro,Candidato B,Aprova,2025-01-22
+489,Eleitor_489,52,Brasília,Centro-Oeste,Pós-Graduação,Feminino,Candidato B,Neutro,2025-06-22
+490,Eleitor_490,27,Recife,Nordeste,Superior,Masculino,Candidato C,Desaprova,2025-05-18
+491,Eleitor_491,40,Fortaleza,Nordeste,Superior,Outro,Indeciso,Desaprova,2025-07-09
+492,Eleitor_492,47,Fortaleza,Nordeste,Superior,Masculino,Indeciso,Neutro,2025-04-05
+493,Eleitor_493,58,Fortaleza,Nordeste,Médio,Feminino,Candidato B,Desaprova,2025-01-09
+494,Eleitor_494,68,Recife,Nordeste,Superior,Outro,Candidato C,Neutro,2025-07-13
+495,Eleitor_495,39,Curitiba,Sul,Fundamental,Masculino,Candidato C,Neutro,2025-01-06
+496,Eleitor_496,19,Brasília,Centro-Oeste,Pós-Graduação,Outro,Candidato B,Desaprova,2025-04-14
+497,Eleitor_497,19,São Paulo,Sudeste,Fundamental,Feminino,Candidato C,Aprova,2025-02-16
+498,Eleitor_498,27,Salvador,Nordeste,Superior,Masculino,Candidato C,Aprova,2025-01-07
+499,Eleitor_499,32,Rio de Janeiro,Sudeste,Fundamental,Masculino,Candidato B,Desaprova,2025-02-18
+500,Eleitor_500,51,Porto Alegre,Sul,Pós-Graduação,Feminino,Candidato B,Desaprova,2025-04-16
+501,Eleitor_501,20,Recife,Nordeste,Médio,Outro,Candidato A,Desaprova,2025-05-24
+502,Eleitor_502,60,Rio de Janeiro,Sudeste,Superior,Masculino,Candidato C,Aprova,2025-05-23
+503,Eleitor_503,27,Porto Alegre,Sul,Superior,Outro,Candidato A,Neutro,2025-06-24
+504,Eleitor_504,51,Fortaleza,Nordeste,Médio,Masculino,Candidato B,Desaprova,2025-07-15
+505,Eleitor_505,35,São Paulo,Sudeste,Médio,Outro,Candidato C,Desaprova,2025-04-04
+506,Eleitor_506,23,Recife,Nordeste,Pós-Graduação,Feminino,Candidato A,Desaprova,2025-03-24
+507,Eleitor_507,26,Belém,Norte,Superior,Feminino,Candidato A,Neutro,2025-02-27
+508,Eleitor_508,23,Curitiba,Sul,Superior,Feminino,Candidato A,Neutro,2025-04-14
+509,Eleitor_509,35,Fortaleza,Nordeste,Médio,Masculino,Indeciso,Desaprova,2025-06-16
+510,Eleitor_510,47,Rio de Janeiro,Sudeste,Fundamental,Masculino,Candidato B,Aprova,2025-07-16
+511,Eleitor_511,35,Rio de Janeiro,Sudeste,Fundamental,Masculino,Candidato B,Desaprova,2025-07-08
+512,Eleitor_512,60,Salvador,Nordeste,Superior,Masculino,Candidato A,Neutro,2025-04-21
+513,Eleitor_513,24,Manaus,Norte,Médio,Masculino,Indeciso,Neutro,2025-03-05
+514,Eleitor_514,44,São Paulo,Sudeste,Fundamental,Feminino,Candidato C,Aprova,2025-05-16
+515,Eleitor_515,58,Rio de Janeiro,Sudeste,Superior,Feminino,Candidato C,Desaprova,2025-07-18
+516,Eleitor_516,36,Fortaleza,Nordeste,Fundamental,Masculino,Candidato A,Neutro,2025-04-25
+517,Eleitor_517,41,São Paulo,Sudeste,Médio,Masculino,Candidato A,Neutro,2025-02-25
+518,Eleitor_518,47,Fortaleza,Nordeste,Médio,Outro,Candidato B,Aprova,2025-04-14
+519,Eleitor_519,40,São Paulo,Sudeste,Superior,Feminino,Indeciso,Aprova,2025-07-18
+520,Eleitor_520,32,São Paulo,Sudeste,Fundamental,Feminino,Candidato C,Neutro,2025-03-13
+521,Eleitor_521,55,Belém,Norte,Pós-Graduação,Outro,Candidato C,Desaprova,2025-05-14
+522,Eleitor_522,29,Porto Alegre,Sul,Superior,Feminino,Candidato B,Neutro,2025-02-25
+523,Eleitor_523,70,Curitiba,Sul,Pós-Graduação,Outro,Candidato A,Neutro,2025-05-18
+524,Eleitor_524,63,Manaus,Norte,Fundamental,Masculino,Candidato B,Desaprova,2025-02-10
+525,Eleitor_525,62,Rio de Janeiro,Sudeste,Fundamental,Outro,Indeciso,Neutro,2025-04-28
+526,Eleitor_526,66,Fortaleza,Nordeste,Pós-Graduação,Outro,Candidato C,Aprova,2025-06-03
+527,Eleitor_527,18,Curitiba,Sul,Superior,Outro,Candidato C,Desaprova,2025-03-01
+528,Eleitor_528,46,Curitiba,Sul,Fundamental,Feminino,Candidato A,Aprova,2025-03-19
+529,Eleitor_529,51,São Paulo,Sudeste,Fundamental,Outro,Candidato A,Neutro,2025-03-01
+530,Eleitor_530,57,Rio de Janeiro,Sudeste,Fundamental,Masculino,Candidato C,Aprova,2025-06-10
+531,Eleitor_531,22,Salvador,Nordeste,Pós-Graduação,Masculino,Indeciso,Aprova,2025-04-19
+532,Eleitor_532,19,Recife,Nordeste,Médio,Feminino,Candidato C,Aprova,2025-01-20
+533,Eleitor_533,33,Salvador,Nordeste,Médio,Masculino,Indeciso,Desaprova,2025-01-24
+534,Eleitor_534,58,Manaus,Norte,Pós-Graduação,Masculino,Candidato C,Aprova,2025-01-07
+535,Eleitor_535,40,Rio de Janeiro,Sudeste,Fundamental,Masculino,Candidato A,Neutro,2025-04-28
+536,Eleitor_536,26,Belém,Norte,Superior,Masculino,Indeciso,Desaprova,2025-02-20
+537,Eleitor_537,61,Porto Alegre,Sul,Fundamental,Feminino,Candidato B,Aprova,2025-01-17
+538,Eleitor_538,64,São Paulo,Sudeste,Superior,Outro,Indeciso,Desaprova,2025-06-27
+539,Eleitor_539,63,Manaus,Norte,Fundamental,Masculino,Candidato C,Neutro,2025-03-06
+540,Eleitor_540,62,Belém,Norte,Médio,Feminino,Indeciso,Neutro,2025-05-19
+541,Eleitor_541,51,Belém,Norte,Médio,Feminino,Candidato A,Neutro,2025-01-11
+542,Eleitor_542,55,Rio de Janeiro,Sudeste,Médio,Outro,Candidato C,Neutro,2025-01-17
+543,Eleitor_543,32,Salvador,Nordeste,Médio,Outro,Candidato C,Aprova,2025-03-30
+544,Eleitor_544,34,Curitiba,Sul,Médio,Masculino,Candidato A,Desaprova,2025-03-27
+545,Eleitor_545,56,Fortaleza,Nordeste,Fundamental,Outro,Candidato A,Neutro,2025-03-22
+546,Eleitor_546,54,Rio de Janeiro,Sudeste,Médio,Outro,Candidato C,Neutro,2025-06-12
+547,Eleitor_547,35,Fortaleza,Nordeste,Pós-Graduação,Masculino,Candidato A,Neutro,2025-03-01
+548,Eleitor_548,67,Salvador,Nordeste,Pós-Graduação,Outro,Candidato C,Aprova,2025-01-15
+549,Eleitor_549,70,Manaus,Norte,Fundamental,Outro,Candidato A,Neutro,2025-01-13
+550,Eleitor_550,55,São Paulo,Sudeste,Médio,Feminino,Indeciso,Neutro,2025-02-11
+551,Eleitor_551,38,São Paulo,Sudeste,Superior,Feminino,Candidato B,Desaprova,2025-06-30
+552,Eleitor_552,56,Porto Alegre,Sul,Médio,Outro,Indeciso,Desaprova,2025-03-18
+553,Eleitor_553,22,Fortaleza,Nordeste,Médio,Masculino,Candidato A,Aprova,2025-03-18
+554,Eleitor_554,58,Belém,Norte,Médio,Masculino,Candidato C,Aprova,2025-06-25
+555,Eleitor_555,51,Curitiba,Sul,Pós-Graduação,Outro,Indeciso,Neutro,2025-07-07
+556,Eleitor_556,51,Fortaleza,Nordeste,Médio,Masculino,Candidato A,Aprova,2025-05-25
+557,Eleitor_557,18,Fortaleza,Nordeste,Superior,Outro,Candidato B,Neutro,2025-01-19
+558,Eleitor_558,44,Rio de Janeiro,Sudeste,Pós-Graduação,Feminino,Candidato C,Neutro,2025-07-06
+559,Eleitor_559,32,Fortaleza,Nordeste,Superior,Masculino,Indeciso,Desaprova,2025-05-07
+560,Eleitor_560,52,Rio de Janeiro,Sudeste,Médio,Masculino,Candidato C,Neutro,2025-01-16
+561,Eleitor_561,66,Fortaleza,Nordeste,Pós-Graduação,Outro,Indeciso,Neutro,2025-01-04
+562,Eleitor_562,32,São Paulo,Sudeste,Pós-Graduação,Masculino,Candidato B,Desaprova,2025-02-06
+563,Eleitor_563,39,Salvador,Nordeste,Médio,Feminino,Candidato C,Neutro,2025-04-30
+564,Eleitor_564,62,Brasília,Centro-Oeste,Médio,Feminino,Indeciso,Neutro,2025-04-19
+565,Eleitor_565,64,Salvador,Nordeste,Médio,Masculino,Candidato A,Neutro,2025-04-29
+566,Eleitor_566,69,Brasília,Centro-Oeste,Fundamental,Outro,Candidato A,Neutro,2025-01-06
+567,Eleitor_567,62,Brasília,Centro-Oeste,Fundamental,Outro,Candidato C,Aprova,2025-02-07
+568,Eleitor_568,31,Manaus,Norte,Fundamental,Feminino,Candidato C,Neutro,2025-04-25
+569,Eleitor_569,60,Rio de Janeiro,Sudeste,Fundamental,Outro,Indeciso,Neutro,2025-05-10
+570,Eleitor_570,41,Salvador,Nordeste,Médio,Feminino,Candidato B,Desaprova,2025-07-02
+571,Eleitor_571,40,Fortaleza,Nordeste,Médio,Outro,Indeciso,Desaprova,2025-06-23
+572,Eleitor_572,43,Brasília,Centro-Oeste,Pós-Graduação,Feminino,Candidato B,Aprova,2025-06-30
+573,Eleitor_573,52,Belém,Norte,Pós-Graduação,Outro,Candidato C,Desaprova,2025-02-20
+574,Eleitor_574,28,Belém,Norte,Médio,Outro,Candidato B,Desaprova,2025-04-15
+575,Eleitor_575,49,Rio de Janeiro,Sudeste,Fundamental,Outro,Candidato B,Desaprova,2025-07-16
+576,Eleitor_576,62,Manaus,Norte,Médio,Outro,Candidato A,Neutro,2025-07-04
+577,Eleitor_577,27,Belém,Norte,Pós-Graduação,Masculino,Candidato C,Aprova,2025-04-07
+578,Eleitor_578,21,Manaus,Norte,Fundamental,Outro,Candidato C,Neutro,2025-03-21
+579,Eleitor_579,54,Manaus,Norte,Médio,Outro,Indeciso,Aprova,2025-03-04
+580,Eleitor_580,59,Recife,Nordeste,Fundamental,Masculino,Candidato C,Aprova,2025-03-09
+581,Eleitor_581,42,Porto Alegre,Sul,Superior,Masculino,Indeciso,Aprova,2025-01-26
+582,Eleitor_582,47,São Paulo,Sudeste,Fundamental,Masculino,Candidato B,Aprova,2025-06-05
+583,Eleitor_583,56,Fortaleza,Nordeste,Superior,Outro,Candidato B,Aprova,2025-03-22
+584,Eleitor_584,63,Curitiba,Sul,Médio,Feminino,Indeciso,Neutro,2025-07-19
+585,Eleitor_585,66,São Paulo,Sudeste,Superior,Masculino,Indeciso,Desaprova,2025-05-11
+586,Eleitor_586,41,Brasília,Centro-Oeste,Superior,Outro,Candidato C,Aprova,2025-05-05
+587,Eleitor_587,47,Salvador,Nordeste,Superior,Outro,Candidato B,Neutro,2025-04-03
+588,Eleitor_588,36,Salvador,Nordeste,Pós-Graduação,Masculino,Candidato C,Aprova,2025-03-21
+589,Eleitor_589,53,Salvador,Nordeste,Médio,Masculino,Candidato B,Neutro,2025-06-12
+590,Eleitor_590,18,Porto Alegre,Sul,Superior,Outro,Indeciso,Neutro,2025-04-02
+591,Eleitor_591,32,São Paulo,Sudeste,Fundamental,Outro,Candidato A,Desaprova,2025-05-16
+592,Eleitor_592,32,Manaus,Norte,Pós-Graduação,Masculino,Candidato C,Neutro,2025-06-17
+593,Eleitor_593,41,São Paulo,Sudeste,Superior,Feminino,Candidato C,Desaprova,2025-05-13
+594,Eleitor_594,30,São Paulo,Sudeste,Superior,Masculino,Candidato A,Neutro,2025-04-24
+595,Eleitor_595,37,Porto Alegre,Sul,Médio,Masculino,Indeciso,Desaprova,2025-04-08
+596,Eleitor_596,68,Belém,Norte,Superior,Masculino,Candidato C,Desaprova,2025-05-01
+597,Eleitor_597,69,Salvador,Nordeste,Médio,Masculino,Candidato C,Aprova,2025-06-29
+598,Eleitor_598,63,Salvador,Nordeste,Fundamental,Outro,Candidato A,Desaprova,2025-06-05
+599,Eleitor_599,51,Belém,Norte,Fundamental,Outro,Candidato B,Aprova,2025-06-01
+600,Eleitor_600,26,Manaus,Norte,Fundamental,Masculino,Indeciso,Desaprova,2025-05-11
+601,Eleitor_601,57,São Paulo,Sudeste,Superior,Feminino,Candidato C,Desaprova,2025-07-06
+602,Eleitor_602,38,Rio de Janeiro,Sudeste,Pós-Graduação,Feminino,Candidato A,Desaprova,2025-03-08
+603,Eleitor_603,40,Porto Alegre,Sul,Pós-Graduação,Outro,Candidato A,Neutro,2025-02-11
+604,Eleitor_604,22,Belém,Norte,Superior,Feminino,Candidato B,Desaprova,2025-05-17
+605,Eleitor_605,37,Belém,Norte,Superior,Masculino,Indeciso,Aprova,2025-01-14
+606,Eleitor_606,47,Brasília,Centro-Oeste,Superior,Masculino,Candidato B,Neutro,2025-02-04
+607,Eleitor_607,41,Recife,Nordeste,Médio,Masculino,Candidato C,Neutro,2025-02-25
+608,Eleitor_608,38,Porto Alegre,Sul,Fundamental,Feminino,Candidato C,Aprova,2025-03-17
+609,Eleitor_609,46,Porto Alegre,Sul,Fundamental,Outro,Indeciso,Desaprova,2025-06-03
+610,Eleitor_610,61,Fortaleza,Nordeste,Pós-Graduação,Masculino,Candidato C,Desaprova,2025-03-25
+611,Eleitor_611,54,Brasília,Centro-Oeste,Médio,Outro,Candidato B,Aprova,2025-01-07
+612,Eleitor_612,43,Porto Alegre,Sul,Médio,Feminino,Candidato C,Aprova,2025-06-14
+613,Eleitor_613,69,Brasília,Centro-Oeste,Pós-Graduação,Feminino,Indeciso,Neutro,2025-03-23
+614,Eleitor_614,38,Recife,Nordeste,Pós-Graduação,Outro,Candidato A,Neutro,2025-04-01
+615,Eleitor_615,69,Curitiba,Sul,Pós-Graduação,Masculino,Candidato C,Desaprova,2025-07-06
+616,Eleitor_616,69,Curitiba,Sul,Pós-Graduação,Feminino,Candidato C,Desaprova,2025-01-23
+617,Eleitor_617,24,Curitiba,Sul,Pós-Graduação,Outro,Candidato C,Neutro,2025-03-30
+618,Eleitor_618,22,Rio de Janeiro,Sudeste,Pós-Graduação,Masculino,Candidato B,Aprova,2025-01-11
+619,Eleitor_619,42,Curitiba,Sul,Pós-Graduação,Outro,Indeciso,Neutro,2025-04-02
+620,Eleitor_620,68,Recife,Nordeste,Pós-Graduação,Masculino,Indeciso,Desaprova,2025-06-26
+621,Eleitor_621,66,Fortaleza,Nordeste,Superior,Feminino,Candidato A,Aprova,2025-05-31
+622,Eleitor_622,21,Salvador,Nordeste,Médio,Outro,Candidato A,Neutro,2025-05-04
+623,Eleitor_623,49,São Paulo,Sudeste,Superior,Masculino,Candidato A,Neutro,2025-02-13
+624,Eleitor_624,68,Fortaleza,Nordeste,Pós-Graduação,Masculino,Indeciso,Desaprova,2025-01-09
+625,Eleitor_625,19,Rio de Janeiro,Sudeste,Superior,Feminino,Candidato B,Neutro,2025-05-29
+626,Eleitor_626,51,Porto Alegre,Sul,Superior,Feminino,Indeciso,Neutro,2025-04-09
+627,Eleitor_627,44,Manaus,Norte,Médio,Feminino,Candidato C,Aprova,2025-04-28
+628,Eleitor_628,59,Porto Alegre,Sul,Pós-Graduação,Feminino,Candidato C,Neutro,2025-06-26
+629,Eleitor_629,26,Belém,Norte,Superior,Masculino,Candidato C,Aprova,2025-03-29
+630,Eleitor_630,66,Belém,Norte,Médio,Masculino,Candidato A,Aprova,2025-02-27
+631,Eleitor_631,49,Porto Alegre,Sul,Fundamental,Outro,Candidato C,Neutro,2025-04-19
+632,Eleitor_632,68,Curitiba,Sul,Superior,Outro,Indeciso,Aprova,2025-06-26
+633,Eleitor_633,67,Fortaleza,Nordeste,Superior,Masculino,Candidato A,Desaprova,2025-02-27
+634,Eleitor_634,61,São Paulo,Sudeste,Superior,Outro,Indeciso,Aprova,2025-06-23
+635,Eleitor_635,24,Curitiba,Sul,Médio,Feminino,Candidato B,Aprova,2025-02-20
+636,Eleitor_636,37,Manaus,Norte,Pós-Graduação,Outro,Candidato B,Neutro,2025-05-26
+637,Eleitor_637,68,Belém,Norte,Pós-Graduação,Feminino,Candidato C,Neutro,2025-04-16
+638,Eleitor_638,67,Rio de Janeiro,Sudeste,Médio,Feminino,Indeciso,Neutro,2025-02-09
+639,Eleitor_639,36,Rio de Janeiro,Sudeste,Pós-Graduação,Masculino,Candidato A,Desaprova,2025-04-23
+640,Eleitor_640,20,Rio de Janeiro,Sudeste,Superior,Feminino,Indeciso,Neutro,2025-03-05
+641,Eleitor_641,66,Rio de Janeiro,Sudeste,Superior,Feminino,Candidato A,Aprova,2025-06-26
+642,Eleitor_642,23,Brasília,Centro-Oeste,Fundamental,Outro,Candidato C,Aprova,2025-03-07
+643,Eleitor_643,30,Manaus,Norte,Médio,Outro,Indeciso,Desaprova,2025-01-15
+644,Eleitor_644,53,Curitiba,Sul,Superior,Outro,Indeciso,Desaprova,2025-04-02
+645,Eleitor_645,43,Recife,Nordeste,Superior,Feminino,Candidato B,Aprova,2025-04-16
+646,Eleitor_646,21,Fortaleza,Nordeste,Fundamental,Masculino,Indeciso,Neutro,2025-02-10
+647,Eleitor_647,40,Fortaleza,Nordeste,Médio,Outro,Candidato B,Aprova,2025-01-06
+648,Eleitor_648,28,Belém,Norte,Pós-Graduação,Masculino,Indeciso,Aprova,2025-06-12
+649,Eleitor_649,26,Belém,Norte,Fundamental,Outro,Candidato A,Aprova,2025-04-12
+650,Eleitor_650,39,Manaus,Norte,Fundamental,Outro,Candidato A,Aprova,2025-06-01
+651,Eleitor_651,22,Recife,Nordeste,Pós-Graduação,Feminino,Candidato A,Desaprova,2025-01-26
+652,Eleitor_652,53,São Paulo,Sudeste,Médio,Feminino,Candidato B,Desaprova,2025-06-20
+653,Eleitor_653,58,Belém,Norte,Superior,Masculino,Candidato C,Desaprova,2025-04-24
+654,Eleitor_654,66,São Paulo,Sudeste,Pós-Graduação,Masculino,Candidato B,Neutro,2025-04-01
+655,Eleitor_655,24,Manaus,Norte,Superior,Outro,Candidato A,Neutro,2025-05-10
+656,Eleitor_656,60,Manaus,Norte,Fundamental,Outro,Candidato C,Neutro,2025-02-02
+657,Eleitor_657,31,Curitiba,Sul,Fundamental,Masculino,Candidato B,Aprova,2025-04-21
+658,Eleitor_658,49,Porto Alegre,Sul,Superior,Masculino,Indeciso,Neutro,2025-05-19
+659,Eleitor_659,32,São Paulo,Sudeste,Médio,Outro,Indeciso,Desaprova,2025-03-29
+660,Eleitor_660,50,Salvador,Nordeste,Pós-Graduação,Feminino,Candidato A,Desaprova,2025-04-29
+661,Eleitor_661,24,Manaus,Norte,Superior,Masculino,Candidato B,Neutro,2025-03-19
+662,Eleitor_662,51,São Paulo,Sudeste,Pós-Graduação,Masculino,Candidato C,Neutro,2025-02-12
+663,Eleitor_663,67,Belém,Norte,Médio,Masculino,Candidato C,Aprova,2025-04-26
+664,Eleitor_664,31,Salvador,Nordeste,Superior,Outro,Candidato B,Desaprova,2025-03-19
+665,Eleitor_665,60,Rio de Janeiro,Sudeste,Fundamental,Feminino,Candidato A,Desaprova,2025-06-17
+666,Eleitor_666,18,São Paulo,Sudeste,Fundamental,Feminino,Candidato B,Desaprova,2025-05-16
+667,Eleitor_667,48,Recife,Nordeste,Superior,Feminino,Indeciso,Neutro,2025-04-01
+668,Eleitor_668,19,Fortaleza,Nordeste,Fundamental,Masculino,Candidato A,Neutro,2025-04-05
+669,Eleitor_669,18,Belém,Norte,Médio,Feminino,Candidato A,Desaprova,2025-01-09
+670,Eleitor_670,42,Belém,Norte,Fundamental,Masculino,Candidato C,Aprova,2025-02-01
+671,Eleitor_671,41,Curitiba,Sul,Fundamental,Feminino,Candidato C,Aprova,2025-07-18
+672,Eleitor_672,45,Manaus,Norte,Fundamental,Masculino,Candidato B,Desaprova,2025-06-04
+673,Eleitor_673,31,Belém,Norte,Médio,Outro,Indeciso,Desaprova,2025-06-26
+674,Eleitor_674,25,Brasília,Centro-Oeste,Médio,Masculino,Candidato B,Aprova,2025-04-12
+675,Eleitor_675,27,Porto Alegre,Sul,Médio,Outro,Candidato C,Neutro,2025-05-03
+676,Eleitor_676,63,Fortaleza,Nordeste,Fundamental,Outro,Indeciso,Desaprova,2025-01-25
+677,Eleitor_677,68,Manaus,Norte,Fundamental,Masculino,Candidato A,Desaprova,2025-01-22
+678,Eleitor_678,49,São Paulo,Sudeste,Pós-Graduação,Outro,Candidato A,Desaprova,2025-05-08
+679,Eleitor_679,66,Curitiba,Sul,Superior,Feminino,Candidato C,Desaprova,2025-01-05
+680,Eleitor_680,46,Brasília,Centro-Oeste,Fundamental,Masculino,Candidato B,Aprova,2025-02-16
+681,Eleitor_681,34,Brasília,Centro-Oeste,Superior,Outro,Candidato A,Aprova,2025-05-25
+682,Eleitor_682,64,Fortaleza,Nordeste,Médio,Feminino,Indeciso,Desaprova,2025-02-23
+683,Eleitor_683,28,Curitiba,Sul,Superior,Feminino,Candidato B,Neutro,2025-07-09
+684,Eleitor_684,57,Belém,Norte,Superior,Masculino,Candidato B,Desaprova,2025-05-06
+685,Eleitor_685,33,Curitiba,Sul,Pós-Graduação,Feminino,Candidato A,Desaprova,2025-03-23
+686,Eleitor_686,60,Porto Alegre,Sul,Superior,Masculino,Candidato B,Aprova,2025-01-13
+687,Eleitor_687,26,São Paulo,Sudeste,Pós-Graduação,Outro,Candidato C,Aprova,2025-06-21
+688,Eleitor_688,39,Brasília,Centro-Oeste,Médio,Masculino,Indeciso,Aprova,2025-06-11
+689,Eleitor_689,19,São Paulo,Sudeste,Médio,Feminino,Indeciso,Neutro,2025-05-27
+690,Eleitor_690,47,Salvador,Nordeste,Superior,Feminino,Candidato B,Desaprova,2025-01-11
+691,Eleitor_691,61,Brasília,Centro-Oeste,Superior,Masculino,Candidato B,Desaprova,2025-05-15
+692,Eleitor_692,57,Manaus,Norte,Médio,Outro,Candidato C,Desaprova,2025-01-02
+693,Eleitor_693,33,Brasília,Centro-Oeste,Médio,Outro,Candidato B,Aprova,2025-07-19
+694,Eleitor_694,64,Belém,Norte,Superior,Masculino,Candidato C,Desaprova,2025-02-06
+695,Eleitor_695,46,Brasília,Centro-Oeste,Fundamental,Feminino,Candidato A,Neutro,2025-02-26
+696,Eleitor_696,32,Fortaleza,Nordeste,Médio,Masculino,Candidato C,Desaprova,2025-03-02
+697,Eleitor_697,63,Recife,Nordeste,Fundamental,Masculino,Candidato B,Desaprova,2025-05-14
+698,Eleitor_698,30,Fortaleza,Nordeste,Pós-Graduação,Masculino,Candidato B,Aprova,2025-05-09
+699,Eleitor_699,56,São Paulo,Sudeste,Fundamental,Masculino,Candidato C,Aprova,2025-04-26
+700,Eleitor_700,53,Fortaleza,Nordeste,Fundamental,Feminino,Candidato A,Aprova,2025-03-10
+701,Eleitor_701,30,Fortaleza,Nordeste,Médio,Outro,Candidato B,Desaprova,2025-04-23
+702,Eleitor_702,32,Belém,Norte,Fundamental,Masculino,Indeciso,Neutro,2025-04-15
+703,Eleitor_703,26,Rio de Janeiro,Sudeste,Médio,Outro,Candidato A,Aprova,2025-01-24
+704,Eleitor_704,50,Brasília,Centro-Oeste,Superior,Outro,Candidato C,Neutro,2025-04-22
+705,Eleitor_705,40,Belém,Norte,Fundamental,Outro,Candidato A,Aprova,2025-05-27
+706,Eleitor_706,67,Porto Alegre,Sul,Médio,Feminino,Indeciso,Aprova,2025-03-04
+707,Eleitor_707,55,Curitiba,Sul,Médio,Feminino,Candidato B,Aprova,2025-02-15
+708,Eleitor_708,55,Fortaleza,Nordeste,Superior,Outro,Indeciso,Neutro,2025-05-02
+709,Eleitor_709,53,Salvador,Nordeste,Pós-Graduação,Feminino,Candidato C,Neutro,2025-03-31
+710,Eleitor_710,55,Manaus,Norte,Pós-Graduação,Masculino,Candidato C,Aprova,2025-03-04
+711,Eleitor_711,40,São Paulo,Sudeste,Médio,Outro,Candidato C,Desaprova,2025-01-19
+712,Eleitor_712,25,Salvador,Nordeste,Pós-Graduação,Outro,Candidato A,Desaprova,2025-01-18
+713,Eleitor_713,18,Recife,Nordeste,Médio,Masculino,Indeciso,Desaprova,2025-01-02
+714,Eleitor_714,44,Porto Alegre,Sul,Médio,Feminino,Indeciso,Neutro,2025-02-13
+715,Eleitor_715,48,Manaus,Norte,Pós-Graduação,Feminino,Candidato B,Neutro,2025-07-03
+716,Eleitor_716,39,Salvador,Nordeste,Pós-Graduação,Outro,Candidato A,Desaprova,2025-07-11
+717,Eleitor_717,51,Brasília,Centro-Oeste,Superior,Feminino,Indeciso,Desaprova,2025-04-13
+718,Eleitor_718,47,Fortaleza,Nordeste,Pós-Graduação,Outro,Candidato C,Neutro,2025-01-19
+719,Eleitor_719,60,Belém,Norte,Superior,Feminino,Candidato A,Desaprova,2025-06-13
+720,Eleitor_720,19,Recife,Nordeste,Fundamental,Feminino,Candidato C,Neutro,2025-04-12
+721,Eleitor_721,44,Brasília,Centro-Oeste,Pós-Graduação,Outro,Candidato A,Desaprova,2025-03-30
+722,Eleitor_722,50,Belém,Norte,Médio,Masculino,Candidato A,Aprova,2025-03-30
+723,Eleitor_723,25,Porto Alegre,Sul,Fundamental,Masculino,Indeciso,Desaprova,2025-05-21
+724,Eleitor_724,28,Brasília,Centro-Oeste,Superior,Masculino,Indeciso,Aprova,2025-03-12
+725,Eleitor_725,28,Brasília,Centro-Oeste,Superior,Outro,Indeciso,Desaprova,2025-01-10
+726,Eleitor_726,48,Manaus,Norte,Superior,Feminino,Indeciso,Aprova,2025-01-21
+727,Eleitor_727,19,Manaus,Norte,Superior,Feminino,Indeciso,Desaprova,2025-04-07
+728,Eleitor_728,30,Manaus,Norte,Pós-Graduação,Feminino,Indeciso,Neutro,2025-06-01
+729,Eleitor_729,69,Salvador,Nordeste,Pós-Graduação,Outro,Candidato A,Desaprova,2025-01-14
+730,Eleitor_730,49,Brasília,Centro-Oeste,Médio,Outro,Indeciso,Aprova,2025-06-18
+731,Eleitor_731,23,Recife,Nordeste,Pós-Graduação,Masculino,Indeciso,Desaprova,2025-01-30
+732,Eleitor_732,46,Salvador,Nordeste,Pós-Graduação,Feminino,Candidato B,Neutro,2025-04-20
+733,Eleitor_733,27,Porto Alegre,Sul,Médio,Outro,Candidato C,Neutro,2025-04-01
+734,Eleitor_734,68,São Paulo,Sudeste,Superior,Outro,Candidato A,Desaprova,2025-03-30
+735,Eleitor_735,37,Rio de Janeiro,Sudeste,Fundamental,Outro,Candidato B,Aprova,2025-07-11
+736,Eleitor_736,70,Recife,Nordeste,Superior,Outro,Candidato C,Neutro,2025-02-02
+737,Eleitor_737,27,Curitiba,Sul,Médio,Masculino,Candidato B,Desaprova,2025-06-03
+738,Eleitor_738,39,São Paulo,Sudeste,Fundamental,Outro,Indeciso,Desaprova,2025-01-28
+739,Eleitor_739,69,São Paulo,Sudeste,Pós-Graduação,Outro,Candidato C,Aprova,2025-02-05
+740,Eleitor_740,18,Recife,Nordeste,Superior,Outro,Candidato A,Neutro,2025-06-22
+741,Eleitor_741,66,Belém,Norte,Superior,Masculino,Candidato A,Desaprova,2025-03-06
+742,Eleitor_742,62,Manaus,Norte,Fundamental,Feminino,Indeciso,Aprova,2025-05-03
+743,Eleitor_743,23,Brasília,Centro-Oeste,Superior,Masculino,Candidato B,Desaprova,2025-03-08
+744,Eleitor_744,23,São Paulo,Sudeste,Pós-Graduação,Outro,Candidato A,Desaprova,2025-02-08
+745,Eleitor_745,20,Salvador,Nordeste,Pós-Graduação,Masculino,Indeciso,Neutro,2025-02-21
+746,Eleitor_746,53,Rio de Janeiro,Sudeste,Fundamental,Masculino,Candidato A,Desaprova,2025-07-16
+747,Eleitor_747,23,Fortaleza,Nordeste,Superior,Feminino,Candidato A,Aprova,2025-06-06
+748,Eleitor_748,29,Recife,Nordeste,Médio,Outro,Indeciso,Aprova,2025-06-07
+749,Eleitor_749,62,Belém,Norte,Fundamental,Outro,Candidato A,Neutro,2025-01-22
+750,Eleitor_750,41,Belém,Norte,Superior,Feminino,Candidato A,Neutro,2025-01-02
+751,Eleitor_751,61,Salvador,Nordeste,Pós-Graduação,Masculino,Indeciso,Desaprova,2025-07-17
+752,Eleitor_752,40,Porto Alegre,Sul,Fundamental,Masculino,Candidato A,Neutro,2025-04-17
+753,Eleitor_753,69,Manaus,Norte,Médio,Feminino,Candidato B,Desaprova,2025-02-06
+754,Eleitor_754,48,Porto Alegre,Sul,Médio,Feminino,Candidato B,Desaprova,2025-05-28
+755,Eleitor_755,42,Curitiba,Sul,Médio,Masculino,Candidato B,Aprova,2025-03-13
+756,Eleitor_756,35,Recife,Nordeste,Superior,Outro,Candidato A,Desaprova,2025-03-10
+757,Eleitor_757,19,Fortaleza,Nordeste,Fundamental,Feminino,Indeciso,Neutro,2025-03-16
+758,Eleitor_758,57,Recife,Nordeste,Médio,Feminino,Candidato C,Neutro,2025-04-27
+759,Eleitor_759,45,Brasília,Centro-Oeste,Médio,Masculino,Indeciso,Aprova,2025-02-22
+760,Eleitor_760,55,Manaus,Norte,Pós-Graduação,Masculino,Candidato A,Neutro,2025-05-31
+761,Eleitor_761,48,Manaus,Norte,Médio,Feminino,Candidato C,Desaprova,2025-07-16
+762,Eleitor_762,60,Curitiba,Sul,Médio,Outro,Indeciso,Neutro,2025-05-12
+763,Eleitor_763,27,Brasília,Centro-Oeste,Médio,Feminino,Candidato A,Neutro,2025-02-20
+764,Eleitor_764,48,Belém,Norte,Médio,Masculino,Candidato B,Neutro,2025-05-24
+765,Eleitor_765,52,Porto Alegre,Sul,Superior,Feminino,Candidato B,Desaprova,2025-01-06
+766,Eleitor_766,48,Brasília,Centro-Oeste,Superior,Masculino,Candidato A,Aprova,2025-07-07
+767,Eleitor_767,63,Recife,Nordeste,Médio,Outro,Candidato B,Neutro,2025-02-21
+768,Eleitor_768,24,Brasília,Centro-Oeste,Médio,Feminino,Candidato A,Desaprova,2025-03-12
+769,Eleitor_769,30,Curitiba,Sul,Médio,Outro,Candidato B,Neutro,2025-05-20
+770,Eleitor_770,50,Brasília,Centro-Oeste,Médio,Outro,Candidato A,Neutro,2025-07-14
+771,Eleitor_771,38,São Paulo,Sudeste,Pós-Graduação,Feminino,Indeciso,Aprova,2025-01-11
+772,Eleitor_772,70,Porto Alegre,Sul,Pós-Graduação,Outro,Candidato B,Desaprova,2025-02-11
+773,Eleitor_773,19,São Paulo,Sudeste,Superior,Feminino,Candidato C,Neutro,2025-04-16
+774,Eleitor_774,69,Porto Alegre,Sul,Médio,Masculino,Candidato B,Aprova,2025-03-22
+775,Eleitor_775,53,Porto Alegre,Sul,Médio,Outro,Indeciso,Desaprova,2025-05-30
+776,Eleitor_776,62,Belém,Norte,Pós-Graduação,Masculino,Candidato B,Aprova,2025-06-29
+777,Eleitor_777,64,Curitiba,Sul,Médio,Masculino,Candidato C,Desaprova,2025-05-22
+778,Eleitor_778,25,Salvador,Nordeste,Fundamental,Feminino,Candidato C,Neutro,2025-07-01
+779,Eleitor_779,55,São Paulo,Sudeste,Pós-Graduação,Feminino,Candidato C,Aprova,2025-03-29
+780,Eleitor_780,48,Belém,Norte,Pós-Graduação,Masculino,Indeciso,Neutro,2025-03-22
+781,Eleitor_781,19,Fortaleza,Nordeste,Médio,Masculino,Candidato C,Neutro,2025-03-11
+782,Eleitor_782,47,Fortaleza,Nordeste,Pós-Graduação,Feminino,Candidato C,Aprova,2025-07-16
+783,Eleitor_783,22,Porto Alegre,Sul,Superior,Feminino,Indeciso,Neutro,2025-01-20
+784,Eleitor_784,45,Curitiba,Sul,Superior,Outro,Indeciso,Neutro,2025-03-09
+785,Eleitor_785,29,Curitiba,Sul,Superior,Masculino,Candidato B,Aprova,2025-02-06
+786,Eleitor_786,28,Manaus,Norte,Fundamental,Feminino,Candidato B,Aprova,2025-07-04
+787,Eleitor_787,56,Recife,Nordeste,Superior,Outro,Candidato A,Neutro,2025-01-18
+788,Eleitor_788,57,Porto Alegre,Sul,Superior,Masculino,Candidato C,Desaprova,2025-06-17
+789,Eleitor_789,48,Brasília,Centro-Oeste,Médio,Feminino,Candidato A,Neutro,2025-04-12
+790,Eleitor_790,21,Fortaleza,Nordeste,Superior,Feminino,Candidato C,Aprova,2025-01-18
+791,Eleitor_791,31,Salvador,Nordeste,Pós-Graduação,Feminino,Candidato C,Desaprova,2025-06-07
+792,Eleitor_792,41,Brasília,Centro-Oeste,Superior,Outro,Candidato C,Neutro,2025-01-18
+793,Eleitor_793,23,Brasília,Centro-Oeste,Superior,Outro,Indeciso,Desaprova,2025-03-22
+794,Eleitor_794,25,Belém,Norte,Pós-Graduação,Outro,Candidato B,Neutro,2025-06-04
+795,Eleitor_795,65,Rio de Janeiro,Sudeste,Fundamental,Masculino,Indeciso,Neutro,2025-04-11
+796,Eleitor_796,23,Rio de Janeiro,Sudeste,Fundamental,Feminino,Indeciso,Desaprova,2025-05-28
+797,Eleitor_797,57,São Paulo,Sudeste,Médio,Feminino,Candidato A,Desaprova,2025-06-22
+798,Eleitor_798,60,Belém,Norte,Superior,Masculino,Candidato B,Desaprova,2025-02-08
+799,Eleitor_799,56,Curitiba,Sul,Fundamental,Outro,Candidato B,Aprova,2025-02-12
+800,Eleitor_800,61,Curitiba,Sul,Fundamental,Feminino,Candidato B,Neutro,2025-02-07
+801,Eleitor_801,40,Curitiba,Sul,Médio,Outro,Candidato A,Neutro,2025-06-01
+802,Eleitor_802,33,São Paulo,Sudeste,Superior,Masculino,Candidato C,Aprova,2025-01-31
+803,Eleitor_803,34,Brasília,Centro-Oeste,Superior,Feminino,Indeciso,Desaprova,2025-07-05
+804,Eleitor_804,40,Recife,Nordeste,Fundamental,Masculino,Candidato B,Desaprova,2025-03-07
+805,Eleitor_805,68,Recife,Nordeste,Médio,Feminino,Candidato C,Neutro,2025-03-25
+806,Eleitor_806,44,Rio de Janeiro,Sudeste,Médio,Masculino,Candidato B,Desaprova,2025-02-07
+807,Eleitor_807,61,Salvador,Nordeste,Fundamental,Outro,Indeciso,Neutro,2025-01-05
+808,Eleitor_808,21,Belém,Norte,Superior,Feminino,Candidato B,Desaprova,2025-06-21
+809,Eleitor_809,65,Recife,Nordeste,Superior,Masculino,Candidato A,Aprova,2025-01-13
+810,Eleitor_810,37,São Paulo,Sudeste,Superior,Outro,Candidato C,Desaprova,2025-05-16
+811,Eleitor_811,20,Belém,Norte,Médio,Feminino,Candidato B,Desaprova,2025-05-03
+812,Eleitor_812,46,Recife,Nordeste,Pós-Graduação,Masculino,Candidato A,Neutro,2025-01-05
+813,Eleitor_813,26,Fortaleza,Nordeste,Fundamental,Masculino,Candidato B,Neutro,2025-07-19
+814,Eleitor_814,51,Fortaleza,Nordeste,Fundamental,Outro,Candidato A,Aprova,2025-02-28
+815,Eleitor_815,28,São Paulo,Sudeste,Médio,Masculino,Indeciso,Aprova,2025-03-05
+816,Eleitor_816,64,Recife,Nordeste,Fundamental,Masculino,Indeciso,Neutro,2025-06-06
+817,Eleitor_817,20,Brasília,Centro-Oeste,Pós-Graduação,Masculino,Candidato A,Neutro,2025-04-13
+818,Eleitor_818,36,Brasília,Centro-Oeste,Pós-Graduação,Masculino,Candidato C,Neutro,2025-07-18
+819,Eleitor_819,36,Porto Alegre,Sul,Superior,Outro,Indeciso,Desaprova,2025-02-23
+820,Eleitor_820,33,São Paulo,Sudeste,Superior,Masculino,Candidato C,Aprova,2025-01-08
+821,Eleitor_821,62,Belém,Norte,Superior,Outro,Candidato B,Desaprova,2025-06-30
+822,Eleitor_822,39,Recife,Nordeste,Médio,Feminino,Candidato A,Desaprova,2025-05-23
+823,Eleitor_823,20,Porto Alegre,Sul,Fundamental,Masculino,Candidato C,Neutro,2025-03-08
+824,Eleitor_824,65,Recife,Nordeste,Fundamental,Feminino,Candidato B,Aprova,2025-01-02
+825,Eleitor_825,67,Manaus,Norte,Pós-Graduação,Feminino,Candidato C,Aprova,2025-01-11
+826,Eleitor_826,21,Fortaleza,Nordeste,Fundamental,Outro,Candidato C,Desaprova,2025-01-04
+827,Eleitor_827,33,Brasília,Centro-Oeste,Fundamental,Feminino,Candidato C,Aprova,2025-04-23
+828,Eleitor_828,42,Recife,Nordeste,Fundamental,Masculino,Candidato B,Aprova,2025-06-03
+829,Eleitor_829,70,Salvador,Nordeste,Superior,Outro,Candidato C,Aprova,2025-04-03
+830,Eleitor_830,58,Rio de Janeiro,Sudeste,Pós-Graduação,Feminino,Candidato C,Aprova,2025-03-25
+831,Eleitor_831,27,Brasília,Centro-Oeste,Pós-Graduação,Outro,Candidato B,Aprova,2025-06-15
+832,Eleitor_832,25,Curitiba,Sul,Superior,Outro,Indeciso,Aprova,2025-06-21
+833,Eleitor_833,59,São Paulo,Sudeste,Médio,Feminino,Candidato B,Desaprova,2025-02-06
+834,Eleitor_834,41,Rio de Janeiro,Sudeste,Médio,Feminino,Candidato C,Neutro,2025-04-22
+835,Eleitor_835,28,Salvador,Nordeste,Médio,Outro,Candidato A,Aprova,2025-07-18
+836,Eleitor_836,23,Fortaleza,Nordeste,Fundamental,Feminino,Candidato A,Neutro,2025-06-20
+837,Eleitor_837,45,Manaus,Norte,Pós-Graduação,Feminino,Candidato B,Desaprova,2025-03-29
+838,Eleitor_838,58,Brasília,Centro-Oeste,Fundamental,Feminino,Indeciso,Aprova,2025-02-01
+839,Eleitor_839,27,Brasília,Centro-Oeste,Superior,Masculino,Indeciso,Aprova,2025-07-07
+840,Eleitor_840,30,Brasília,Centro-Oeste,Médio,Masculino,Candidato C,Aprova,2025-06-20
+841,Eleitor_841,51,Brasília,Centro-Oeste,Superior,Feminino,Candidato A,Neutro,2025-03-30
+842,Eleitor_842,27,Manaus,Norte,Superior,Masculino,Candidato A,Neutro,2025-06-20
+843,Eleitor_843,30,Rio de Janeiro,Sudeste,Pós-Graduação,Outro,Candidato A,Neutro,2025-01-12
+844,Eleitor_844,28,Salvador,Nordeste,Médio,Masculino,Candidato A,Aprova,2025-07-11
+845,Eleitor_845,60,Fortaleza,Nordeste,Pós-Graduação,Feminino,Candidato C,Aprova,2025-04-24
+846,Eleitor_846,70,Manaus,Norte,Fundamental,Feminino,Candidato B,Neutro,2025-01-21
+847,Eleitor_847,70,Rio de Janeiro,Sudeste,Pós-Graduação,Masculino,Candidato C,Neutro,2025-06-12
+848,Eleitor_848,32,Fortaleza,Nordeste,Pós-Graduação,Masculino,Candidato C,Neutro,2025-05-28
+849,Eleitor_849,40,Salvador,Nordeste,Médio,Masculino,Candidato B,Desaprova,2025-05-23
+850,Eleitor_850,24,Recife,Nordeste,Fundamental,Masculino,Candidato B,Aprova,2025-07-13
+851,Eleitor_851,25,Fortaleza,Nordeste,Fundamental,Feminino,Indeciso,Desaprova,2025-03-14
+852,Eleitor_852,41,Belém,Norte,Médio,Feminino,Candidato C,Aprova,2025-04-08
+853,Eleitor_853,36,Curitiba,Sul,Pós-Graduação,Masculino,Candidato A,Neutro,2025-05-24
+854,Eleitor_854,29,São Paulo,Sudeste,Pós-Graduação,Feminino,Candidato A,Aprova,2025-07-20
+855,Eleitor_855,49,Brasília,Centro-Oeste,Fundamental,Feminino,Candidato A,Aprova,2025-02-28
+856,Eleitor_856,52,Belém,Norte,Superior,Feminino,Candidato A,Neutro,2025-01-07
+857,Eleitor_857,22,Brasília,Centro-Oeste,Superior,Outro,Candidato C,Desaprova,2025-05-10
+858,Eleitor_858,32,Manaus,Norte,Superior,Feminino,Candidato A,Desaprova,2025-06-03
+859,Eleitor_859,39,Salvador,Nordeste,Médio,Feminino,Candidato A,Desaprova,2025-07-09
+860,Eleitor_860,38,Belém,Norte,Fundamental,Outro,Candidato C,Aprova,2025-05-20
+861,Eleitor_861,69,Salvador,Nordeste,Fundamental,Feminino,Indeciso,Desaprova,2025-05-29
+862,Eleitor_862,23,Rio de Janeiro,Sudeste,Superior,Feminino,Candidato C,Aprova,2025-03-17
+863,Eleitor_863,22,Belém,Norte,Fundamental,Outro,Candidato B,Desaprova,2025-02-04
+864,Eleitor_864,54,Curitiba,Sul,Superior,Masculino,Candidato C,Desaprova,2025-04-14
+865,Eleitor_865,52,Porto Alegre,Sul,Médio,Feminino,Indeciso,Neutro,2025-01-31
+866,Eleitor_866,61,Brasília,Centro-Oeste,Médio,Feminino,Candidato A,Aprova,2025-06-10
+867,Eleitor_867,47,Salvador,Nordeste,Pós-Graduação,Feminino,Candidato C,Desaprova,2025-05-19
+868,Eleitor_868,25,Fortaleza,Nordeste,Fundamental,Feminino,Candidato C,Neutro,2025-03-14
+869,Eleitor_869,57,Recife,Nordeste,Superior,Masculino,Candidato C,Aprova,2025-05-12
+870,Eleitor_870,57,Belém,Norte,Fundamental,Feminino,Indeciso,Neutro,2025-06-03
+871,Eleitor_871,56,Salvador,Nordeste,Fundamental,Feminino,Candidato A,Desaprova,2025-05-30
+872,Eleitor_872,52,Belém,Norte,Fundamental,Masculino,Candidato A,Aprova,2025-06-29
+873,Eleitor_873,40,Porto Alegre,Sul,Médio,Masculino,Candidato C,Neutro,2025-06-08
+874,Eleitor_874,36,Salvador,Nordeste,Superior,Feminino,Candidato A,Neutro,2025-07-06
+875,Eleitor_875,47,Porto Alegre,Sul,Fundamental,Masculino,Indeciso,Neutro,2025-02-18
+876,Eleitor_876,37,Fortaleza,Nordeste,Superior,Feminino,Candidato C,Desaprova,2025-02-26
+877,Eleitor_877,28,Rio de Janeiro,Sudeste,Pós-Graduação,Masculino,Indeciso,Desaprova,2025-01-01
+878,Eleitor_878,43,Belém,Norte,Superior,Feminino,Candidato A,Neutro,2025-02-05
+879,Eleitor_879,57,São Paulo,Sudeste,Pós-Graduação,Outro,Candidato B,Desaprova,2025-02-25
+880,Eleitor_880,29,Fortaleza,Nordeste,Superior,Outro,Candidato C,Neutro,2025-01-25
+881,Eleitor_881,61,São Paulo,Sudeste,Pós-Graduação,Masculino,Candidato A,Desaprova,2025-02-17
+882,Eleitor_882,26,Salvador,Nordeste,Pós-Graduação,Outro,Indeciso,Aprova,2025-01-03
+883,Eleitor_883,19,São Paulo,Sudeste,Médio,Feminino,Indeciso,Aprova,2025-07-12
+884,Eleitor_884,58,Manaus,Norte,Médio,Masculino,Candidato C,Aprova,2025-01-01
+885,Eleitor_885,51,Recife,Nordeste,Pós-Graduação,Outro,Indeciso,Aprova,2025-06-14
+886,Eleitor_886,44,São Paulo,Sudeste,Fundamental,Masculino,Candidato B,Neutro,2025-02-14
+887,Eleitor_887,24,Fortaleza,Nordeste,Médio,Masculino,Candidato A,Neutro,2025-02-25
+888,Eleitor_888,43,Manaus,Norte,Médio,Feminino,Candidato B,Neutro,2025-04-12
+889,Eleitor_889,18,Rio de Janeiro,Sudeste,Pós-Graduação,Outro,Candidato B,Neutro,2025-05-02
+890,Eleitor_890,22,São Paulo,Sudeste,Superior,Masculino,Candidato B,Desaprova,2025-07-15
+891,Eleitor_891,32,Brasília,Centro-Oeste,Superior,Outro,Candidato A,Aprova,2025-01-19
+892,Eleitor_892,57,Belém,Norte,Pós-Graduação,Masculino,Candidato C,Desaprova,2025-05-08
+893,Eleitor_893,65,Belém,Norte,Pós-Graduação,Masculino,Candidato B,Aprova,2025-02-07
+894,Eleitor_894,61,Fortaleza,Nordeste,Médio,Feminino,Candidato C,Neutro,2025-03-09
+895,Eleitor_895,34,Belém,Norte,Médio,Masculino,Candidato C,Neutro,2025-05-02
+896,Eleitor_896,34,São Paulo,Sudeste,Fundamental,Outro,Candidato C,Aprova,2025-05-13
+897,Eleitor_897,56,Rio de Janeiro,Sudeste,Médio,Feminino,Candidato C,Neutro,2025-03-19
+898,Eleitor_898,34,Curitiba,Sul,Pós-Graduação,Feminino,Candidato B,Aprova,2025-04-17
+899,Eleitor_899,70,Rio de Janeiro,Sudeste,Superior,Outro,Indeciso,Desaprova,2025-04-24
+900,Eleitor_900,36,Manaus,Norte,Fundamental,Feminino,Candidato C,Neutro,2025-07-03
+901,Eleitor_901,42,São Paulo,Sudeste,Médio,Masculino,Indeciso,Desaprova,2025-06-03
+902,Eleitor_902,66,Rio de Janeiro,Sudeste,Pós-Graduação,Feminino,Candidato A,Aprova,2025-07-16
+903,Eleitor_903,60,Recife,Nordeste,Fundamental,Outro,Candidato B,Neutro,2025-07-15
+904,Eleitor_904,67,Brasília,Centro-Oeste,Médio,Masculino,Indeciso,Neutro,2025-05-22
+905,Eleitor_905,34,Rio de Janeiro,Sudeste,Fundamental,Outro,Indeciso,Desaprova,2025-03-04
+906,Eleitor_906,24,Manaus,Norte,Superior,Feminino,Candidato C,Aprova,2025-05-12
+907,Eleitor_907,35,Porto Alegre,Sul,Superior,Feminino,Indeciso,Neutro,2025-06-23
+908,Eleitor_908,53,Manaus,Norte,Superior,Masculino,Candidato C,Aprova,2025-06-29
+909,Eleitor_909,61,Manaus,Norte,Médio,Feminino,Candidato A,Neutro,2025-03-19
+910,Eleitor_910,48,Recife,Nordeste,Superior,Feminino,Candidato C,Aprova,2025-02-09
+911,Eleitor_911,26,Brasília,Centro-Oeste,Pós-Graduação,Feminino,Candidato A,Aprova,2025-06-26
+912,Eleitor_912,23,Recife,Nordeste,Médio,Outro,Indeciso,Neutro,2025-05-05
+913,Eleitor_913,26,São Paulo,Sudeste,Médio,Masculino,Indeciso,Aprova,2025-05-28
+914,Eleitor_914,41,Curitiba,Sul,Fundamental,Masculino,Candidato C,Neutro,2025-06-11
+915,Eleitor_915,25,Rio de Janeiro,Sudeste,Fundamental,Feminino,Candidato B,Desaprova,2025-02-02
+916,Eleitor_916,63,Recife,Nordeste,Médio,Outro,Candidato B,Aprova,2025-04-10
+917,Eleitor_917,67,Manaus,Norte,Superior,Masculino,Candidato B,Desaprova,2025-03-10
+918,Eleitor_918,44,Manaus,Norte,Fundamental,Outro,Candidato B,Desaprova,2025-02-26
+919,Eleitor_919,60,Brasília,Centro-Oeste,Superior,Masculino,Candidato C,Desaprova,2025-06-28
+920,Eleitor_920,58,Recife,Nordeste,Médio,Masculino,Indeciso,Desaprova,2025-04-18
+921,Eleitor_921,47,Curitiba,Sul,Superior,Masculino,Candidato C,Aprova,2025-05-05
+922,Eleitor_922,42,Fortaleza,Nordeste,Médio,Masculino,Indeciso,Aprova,2025-04-07
+923,Eleitor_923,19,Belém,Norte,Médio,Outro,Indeciso,Desaprova,2025-01-19
+924,Eleitor_924,24,Recife,Nordeste,Médio,Feminino,Candidato C,Desaprova,2025-01-07
+925,Eleitor_925,29,Rio de Janeiro,Sudeste,Fundamental,Feminino,Candidato A,Desaprova,2025-01-12
+926,Eleitor_926,37,Rio de Janeiro,Sudeste,Fundamental,Feminino,Candidato B,Desaprova,2025-01-03
+927,Eleitor_927,44,Belém,Norte,Pós-Graduação,Outro,Candidato A,Desaprova,2025-03-13
+928,Eleitor_928,34,Rio de Janeiro,Sudeste,Médio,Masculino,Indeciso,Desaprova,2025-03-17
+929,Eleitor_929,32,Belém,Norte,Médio,Feminino,Candidato A,Aprova,2025-03-05
+930,Eleitor_930,52,Fortaleza,Nordeste,Médio,Masculino,Candidato C,Desaprova,2025-06-14
+931,Eleitor_931,63,Salvador,Nordeste,Superior,Feminino,Candidato B,Aprova,2025-01-04
+932,Eleitor_932,22,Rio de Janeiro,Sudeste,Pós-Graduação,Masculino,Candidato B,Neutro,2025-05-10
+933,Eleitor_933,55,Recife,Nordeste,Pós-Graduação,Feminino,Candidato B,Neutro,2025-04-05
+934,Eleitor_934,59,Curitiba,Sul,Superior,Outro,Candidato B,Desaprova,2025-02-21
+935,Eleitor_935,32,Manaus,Norte,Pós-Graduação,Outro,Candidato A,Neutro,2025-01-23
+936,Eleitor_936,61,Recife,Nordeste,Pós-Graduação,Feminino,Candidato C,Desaprova,2025-04-08
+937,Eleitor_937,36,São Paulo,Sudeste,Pós-Graduação,Masculino,Indeciso,Desaprova,2025-02-24
+938,Eleitor_938,30,São Paulo,Sudeste,Médio,Feminino,Indeciso,Aprova,2025-01-24
+939,Eleitor_939,43,Rio de Janeiro,Sudeste,Médio,Outro,Candidato C,Aprova,2025-01-02
+940,Eleitor_940,56,Fortaleza,Nordeste,Superior,Feminino,Indeciso,Neutro,2025-05-08
+941,Eleitor_941,55,Manaus,Norte,Pós-Graduação,Feminino,Candidato C,Aprova,2025-02-09
+942,Eleitor_942,40,Recife,Nordeste,Fundamental,Feminino,Indeciso,Neutro,2025-04-28
+943,Eleitor_943,66,Brasília,Centro-Oeste,Superior,Masculino,Candidato A,Desaprova,2025-04-14
+944,Eleitor_944,63,Manaus,Norte,Fundamental,Feminino,Candidato A,Desaprova,2025-07-10
+945,Eleitor_945,51,Salvador,Nordeste,Superior,Outro,Candidato C,Desaprova,2025-06-13
+946,Eleitor_946,45,Salvador,Nordeste,Fundamental,Masculino,Indeciso,Aprova,2025-01-03
+947,Eleitor_947,63,Porto Alegre,Sul,Fundamental,Masculino,Candidato B,Desaprova,2025-03-17
+948,Eleitor_948,67,Belém,Norte,Médio,Outro,Candidato A,Neutro,2025-04-07
+949,Eleitor_949,46,Manaus,Norte,Médio,Masculino,Candidato B,Neutro,2025-07-17
+950,Eleitor_950,30,Recife,Nordeste,Médio,Outro,Candidato A,Neutro,2025-03-31
+951,Eleitor_951,21,Belém,Norte,Pós-Graduação,Masculino,Candidato B,Neutro,2025-01-18
+952,Eleitor_952,22,Fortaleza,Nordeste,Pós-Graduação,Feminino,Candidato A,Neutro,2025-06-01
+953,Eleitor_953,58,São Paulo,Sudeste,Médio,Outro,Candidato C,Neutro,2025-06-18
+954,Eleitor_954,49,Porto Alegre,Sul,Pós-Graduação,Outro,Indeciso,Neutro,2025-05-20
+955,Eleitor_955,35,Salvador,Nordeste,Superior,Feminino,Candidato A,Aprova,2025-03-27
+956,Eleitor_956,28,Brasília,Centro-Oeste,Pós-Graduação,Masculino,Candidato A,Aprova,2025-02-28
+957,Eleitor_957,69,Fortaleza,Nordeste,Médio,Outro,Candidato B,Neutro,2025-01-02
+958,Eleitor_958,21,Curitiba,Sul,Médio,Masculino,Candidato B,Aprova,2025-04-28
+959,Eleitor_959,50,Salvador,Nordeste,Fundamental,Outro,Candidato B,Desaprova,2025-02-24
+960,Eleitor_960,65,Rio de Janeiro,Sudeste,Pós-Graduação,Feminino,Candidato B,Aprova,2025-02-17
+961,Eleitor_961,60,Curitiba,Sul,Médio,Outro,Candidato C,Neutro,2025-07-15
+962,Eleitor_962,22,Fortaleza,Nordeste,Fundamental,Feminino,Indeciso,Desaprova,2025-06-21
+963,Eleitor_963,41,Curitiba,Sul,Superior,Feminino,Candidato B,Aprova,2025-02-21
+964,Eleitor_964,34,Manaus,Norte,Superior,Masculino,Candidato A,Desaprova,2025-03-20
+965,Eleitor_965,69,Recife,Nordeste,Médio,Feminino,Candidato C,Aprova,2025-02-18
+966,Eleitor_966,62,Brasília,Centro-Oeste,Fundamental,Masculino,Candidato A,Aprova,2025-02-04
+967,Eleitor_967,23,Rio de Janeiro,Sudeste,Superior,Masculino,Candidato B,Desaprova,2025-04-01
+968,Eleitor_968,45,Recife,Nordeste,Médio,Feminino,Candidato C,Neutro,2025-04-14
+969,Eleitor_969,53,Porto Alegre,Sul,Médio,Outro,Candidato C,Aprova,2025-04-16
+970,Eleitor_970,57,Curitiba,Sul,Médio,Masculino,Candidato B,Aprova,2025-03-10
+971,Eleitor_971,30,Fortaleza,Nordeste,Pós-Graduação,Feminino,Candidato A,Desaprova,2025-04-13
+972,Eleitor_972,66,Manaus,Norte,Fundamental,Feminino,Candidato B,Neutro,2025-05-31
+973,Eleitor_973,33,Rio de Janeiro,Sudeste,Médio,Masculino,Candidato A,Neutro,2025-05-15
+974,Eleitor_974,22,São Paulo,Sudeste,Pós-Graduação,Feminino,Candidato C,Desaprova,2025-04-30
+975,Eleitor_975,40,Recife,Nordeste,Fundamental,Masculino,Candidato C,Neutro,2025-02-16
+976,Eleitor_976,68,São Paulo,Sudeste,Pós-Graduação,Masculino,Candidato A,Neutro,2025-02-16
+977,Eleitor_977,53,Fortaleza,Nordeste,Pós-Graduação,Feminino,Candidato C,Neutro,2025-07-11
+978,Eleitor_978,64,Rio de Janeiro,Sudeste,Superior,Masculino,Candidato A,Desaprova,2025-05-14
+979,Eleitor_979,58,Fortaleza,Nordeste,Superior,Masculino,Candidato A,Neutro,2025-03-25
+980,Eleitor_980,21,Curitiba,Sul,Pós-Graduação,Outro,Candidato C,Aprova,2025-02-09
+981,Eleitor_981,20,Recife,Nordeste,Fundamental,Masculino,Candidato C,Aprova,2025-07-01
+982,Eleitor_982,26,Curitiba,Sul,Pós-Graduação,Outro,Indeciso,Desaprova,2025-05-29
+983,Eleitor_983,53,Belém,Norte,Superior,Feminino,Candidato A,Aprova,2025-06-09
+984,Eleitor_984,24,Belém,Norte,Médio,Feminino,Candidato C,Desaprova,2025-06-05
+985,Eleitor_985,48,Fortaleza,Nordeste,Médio,Masculino,Indeciso,Neutro,2025-05-06
+986,Eleitor_986,51,Porto Alegre,Sul,Fundamental,Masculino,Candidato B,Desaprova,2025-07-04
+987,Eleitor_987,34,Fortaleza,Nordeste,Fundamental,Feminino,Candidato A,Desaprova,2025-07-19
+988,Eleitor_988,70,Curitiba,Sul,Fundamental,Feminino,Indeciso,Neutro,2025-03-12
+989,Eleitor_989,52,Belém,Norte,Fundamental,Feminino,Candidato A,Neutro,2025-07-04
+990,Eleitor_990,64,Porto Alegre,Sul,Superior,Masculino,Candidato B,Aprova,2025-07-11
+991,Eleitor_991,29,Manaus,Norte,Médio,Masculino,Indeciso,Neutro,2025-07-02
+992,Eleitor_992,70,São Paulo,Sudeste,Pós-Graduação,Outro,Candidato B,Desaprova,2025-04-06
+993,Eleitor_993,25,Belém,Norte,Superior,Outro,Candidato A,Aprova,2025-01-08
+994,Eleitor_994,66,Brasília,Centro-Oeste,Médio,Outro,Candidato C,Aprova,2025-02-21
+995,Eleitor_995,30,Recife,Nordeste,Superior,Feminino,Indeciso,Aprova,2025-04-29
+996,Eleitor_996,22,Rio de Janeiro,Sudeste,Superior,Masculino,Candidato B,Neutro,2025-05-17
+997,Eleitor_997,58,São Paulo,Sudeste,Médio,Outro,Candidato C,Aprova,2025-05-04
+998,Eleitor_998,19,Porto Alegre,Sul,Médio,Outro,Candidato A,Neutro,2025-03-14
+999,Eleitor_999,46,Fortaleza,Nordeste,Superior,Masculino,Candidato C,Aprova,2025-07-06
+1000,Eleitor_1000,38,Belém,Norte,Médio,Masculino,Candidato A,Desaprova,2025-06-11
