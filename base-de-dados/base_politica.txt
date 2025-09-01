@@ -1,0 +1,1001 @@
+id,candidato,partido,idade,cidade,propostas,votos_estimados,ano_eleicao
+1,Candidato_1,Partido C,41,Salvador,Segurança,18611,2024
+2,Candidato_2,Partido D,33,Manaus,Educação,40105,2024
+3,Candidato_3,Partido A,57,Salvador,Segurança,12944,2022
+4,Candidato_4,Partido C,44,Salvador,Economia,16906,2024
+5,Candidato_5,Partido C,37,Rio de Janeiro,Infraestrutura,21536,2020
+6,Candidato_6,Partido D,52,Brasília,Meio Ambiente,28810,2022
+7,Candidato_7,Partido A,53,São Paulo,Segurança,13306,2018
+8,Candidato_8,Partido A,37,Fortaleza,Infraestrutura,11503,2018
+9,Candidato_9,Partido C,59,Brasília,Infraestrutura,20225,2018
+10,Candidato_10,Partido B,30,Fortaleza,Saúde,37976,2022
+11,Candidato_11,Partido C,42,Rio de Janeiro,Segurança,12590,2020
+12,Candidato_12,Partido C,29,Rio de Janeiro,Meio Ambiente,11886,2024
+13,Candidato_13,Partido C,49,Rio de Janeiro,Segurança,13866,2024
+14,Candidato_14,Partido C,26,Manaus,Infraestrutura,2088,2018
+15,Candidato_15,Partido D,34,Fortaleza,Meio Ambiente,4363,2018
+16,Candidato_16,Partido A,54,Brasília,Economia,33792,2022
+17,Candidato_17,Partido D,69,Brasília,Saúde,10764,2020
+18,Candidato_18,Partido D,29,Salvador,Infraestrutura,21620,2024
+19,Candidato_19,Partido D,57,Salvador,Educação,43727,2022
+20,Candidato_20,Partido C,25,Salvador,Educação,13935,2024
+21,Candidato_21,Partido B,42,Rio de Janeiro,Saúde,9068,2018
+22,Candidato_22,Partido A,56,Brasília,Economia,8295,2024
+23,Candidato_23,Partido B,35,Fortaleza,Infraestrutura,42160,2020
+24,Candidato_24,Partido D,45,Rio de Janeiro,Segurança,12390,2020
+25,Candidato_25,Partido D,50,Manaus,Saúde,42216,2018
+26,Candidato_26,Partido B,49,Salvador,Economia,21131,2020
+27,Candidato_27,Partido B,46,Rio de Janeiro,Segurança,30218,2020
+28,Candidato_28,Partido B,51,Rio de Janeiro,Educação,11433,2022
+29,Candidato_29,Partido D,37,Manaus,Educação,16038,2024
+30,Candidato_30,Partido D,57,São Paulo,Segurança,29182,2018
+31,Candidato_31,Partido A,58,Brasília,Saúde,12528,2018
+32,Candidato_32,Partido A,65,Fortaleza,Educação,22281,2018
+33,Candidato_33,Partido D,59,São Paulo,Infraestrutura,49511,2018
+34,Candidato_34,Partido B,25,Salvador,Meio Ambiente,9605,2018
+35,Candidato_35,Partido B,45,Rio de Janeiro,Segurança,35782,2020
+36,Candidato_36,Partido A,30,Manaus,Segurança,2381,2022
+37,Candidato_37,Partido D,52,Manaus,Educação,2098,2018
+38,Candidato_38,Partido A,41,Brasília,Saúde,20810,2022
+39,Candidato_39,Partido A,29,São Paulo,Infraestrutura,25322,2022
+40,Candidato_40,Partido C,55,Brasília,Saúde,42869,2020
+41,Candidato_41,Partido C,29,Rio de Janeiro,Economia,33955,2018
+42,Candidato_42,Partido C,62,Brasília,Economia,45716,2020
+43,Candidato_43,Partido B,27,Fortaleza,Meio Ambiente,11207,2018
+44,Candidato_44,Partido D,47,Manaus,Educação,22793,2020
+45,Candidato_45,Partido D,61,Manaus,Educação,3092,2022
+46,Candidato_46,Partido D,61,Salvador,Educação,29220,2018
+47,Candidato_47,Partido D,34,Salvador,Meio Ambiente,19514,2024
+48,Candidato_48,Partido C,34,Rio de Janeiro,Economia,39010,2022
+49,Candidato_49,Partido B,43,Fortaleza,Saúde,9549,2024
+50,Candidato_50,Partido B,41,São Paulo,Meio Ambiente,23031,2022
+51,Candidato_51,Partido C,45,Brasília,Meio Ambiente,6185,2020
+52,Candidato_52,Partido B,38,Rio de Janeiro,Saúde,16271,2018
+53,Candidato_53,Partido C,33,Salvador,Educação,6776,2022
+54,Candidato_54,Partido D,25,Brasília,Infraestrutura,13449,2020
+55,Candidato_55,Partido C,69,Salvador,Saúde,25297,2018
+56,Candidato_56,Partido D,37,Brasília,Economia,41591,2018
+57,Candidato_57,Partido D,28,São Paulo,Segurança,16717,2022
+58,Candidato_58,Partido A,25,Rio de Janeiro,Segurança,41123,2018
+59,Candidato_59,Partido C,64,Brasília,Meio Ambiente,40233,2022
+60,Candidato_60,Partido A,56,Fortaleza,Segurança,46505,2018
+61,Candidato_61,Partido C,58,Manaus,Infraestrutura,47092,2024
+62,Candidato_62,Partido C,52,Fortaleza,Educação,11350,2020
+63,Candidato_63,Partido A,55,Fortaleza,Economia,31622,2024
+64,Candidato_64,Partido A,32,Manaus,Infraestrutura,36323,2022
+65,Candidato_65,Partido C,63,Fortaleza,Economia,3951,2024
+66,Candidato_66,Partido B,50,Brasília,Economia,18622,2022
+67,Candidato_67,Partido D,58,Brasília,Educação,5727,2018
+68,Candidato_68,Partido A,27,Brasília,Meio Ambiente,39454,2018
+69,Candidato_69,Partido D,36,Manaus,Segurança,37469,2022
+70,Candidato_70,Partido B,25,Fortaleza,Educação,36548,2024
+71,Candidato_71,Partido B,68,Manaus,Infraestrutura,24782,2018
+72,Candidato_72,Partido B,29,Brasília,Meio Ambiente,29454,2020
+73,Candidato_73,Partido A,54,Fortaleza,Infraestrutura,3368,2018
+74,Candidato_74,Partido B,54,Fortaleza,Meio Ambiente,16592,2020
+75,Candidato_75,Partido A,41,Salvador,Infraestrutura,23173,2024
+76,Candidato_76,Partido B,47,Salvador,Educação,34204,2020
+77,Candidato_77,Partido D,39,São Paulo,Meio Ambiente,36596,2020
+78,Candidato_78,Partido D,61,Rio de Janeiro,Meio Ambiente,35324,2020
+79,Candidato_79,Partido C,45,Salvador,Economia,47132,2020
+80,Candidato_80,Partido D,38,Manaus,Economia,24864,2018
+81,Candidato_81,Partido C,26,Salvador,Saúde,48829,2020
+82,Candidato_82,Partido D,35,São Paulo,Infraestrutura,31750,2018
+83,Candidato_83,Partido A,63,Fortaleza,Economia,11576,2020
+84,Candidato_84,Partido D,62,São Paulo,Saúde,17566,2022
+85,Candidato_85,Partido C,58,Fortaleza,Economia,8190,2024
+86,Candidato_86,Partido C,62,Fortaleza,Infraestrutura,24071,2020
+87,Candidato_87,Partido B,58,Rio de Janeiro,Meio Ambiente,39333,2022
+88,Candidato_88,Partido A,42,Salvador,Segurança,16369,2020
+89,Candidato_89,Partido D,54,Manaus,Infraestrutura,25035,2020
+90,Candidato_90,Partido B,39,Manaus,Educação,2589,2020
+91,Candidato_91,Partido D,51,Brasília,Economia,26235,2022
+92,Candidato_92,Partido D,58,Fortaleza,Economia,1159,2024
+93,Candidato_93,Partido B,62,Manaus,Meio Ambiente,13145,2022
+94,Candidato_94,Partido B,57,Rio de Janeiro,Educação,16373,2024
+95,Candidato_95,Partido B,48,Fortaleza,Meio Ambiente,32921,2020
+96,Candidato_96,Partido B,39,Rio de Janeiro,Educação,40323,2018
+97,Candidato_97,Partido B,54,Manaus,Segurança,17237,2020
+98,Candidato_98,Partido D,66,Manaus,Economia,42971,2024
+99,Candidato_99,Partido B,41,Brasília,Economia,9244,2022
+100,Candidato_100,Partido A,29,Manaus,Segurança,15743,2020
+101,Candidato_101,Partido C,53,Fortaleza,Saúde,32566,2022
+102,Candidato_102,Partido B,28,Fortaleza,Meio Ambiente,47101,2022
+103,Candidato_103,Partido B,34,Fortaleza,Segurança,47109,2022
+104,Candidato_104,Partido D,41,Brasília,Meio Ambiente,19691,2020
+105,Candidato_105,Partido B,34,Brasília,Infraestrutura,34996,2022
+106,Candidato_106,Partido B,41,Manaus,Economia,6590,2022
+107,Candidato_107,Partido B,44,São Paulo,Meio Ambiente,6585,2020
+108,Candidato_108,Partido D,48,São Paulo,Educação,10227,2022
+109,Candidato_109,Partido B,29,Brasília,Meio Ambiente,29278,2020
+110,Candidato_110,Partido C,58,Manaus,Infraestrutura,39814,2024
+111,Candidato_111,Partido D,30,São Paulo,Economia,13237,2024
+112,Candidato_112,Partido C,26,Manaus,Segurança,16649,2024
+113,Candidato_113,Partido D,37,Manaus,Infraestrutura,38713,2022
+114,Candidato_114,Partido B,67,Manaus,Economia,8927,2018
+115,Candidato_115,Partido C,67,Salvador,Meio Ambiente,46409,2018
+116,Candidato_116,Partido D,35,Fortaleza,Saúde,49766,2022
+117,Candidato_117,Partido A,47,Manaus,Saúde,47154,2018
+118,Candidato_118,Partido B,40,Salvador,Educação,8016,2020
+119,Candidato_119,Partido D,55,Brasília,Economia,15027,2018
+120,Candidato_120,Partido A,35,São Paulo,Saúde,49688,2022
+121,Candidato_121,Partido D,40,Fortaleza,Segurança,25142,2022
+122,Candidato_122,Partido A,32,São Paulo,Economia,47520,2020
+123,Candidato_123,Partido B,28,Fortaleza,Segurança,24545,2024
+124,Candidato_124,Partido C,64,São Paulo,Segurança,32897,2022
+125,Candidato_125,Partido A,28,Fortaleza,Saúde,4167,2020
+126,Candidato_126,Partido D,49,São Paulo,Economia,45757,2018
+127,Candidato_127,Partido B,27,São Paulo,Meio Ambiente,27917,2018
+128,Candidato_128,Partido A,56,São Paulo,Infraestrutura,23736,2020
+129,Candidato_129,Partido D,27,São Paulo,Saúde,28990,2020
+130,Candidato_130,Partido D,51,Brasília,Saúde,15087,2022
+131,Candidato_131,Partido D,53,Manaus,Meio Ambiente,23440,2018
+132,Candidato_132,Partido A,56,Rio de Janeiro,Economia,36205,2020
+133,Candidato_133,Partido A,43,Salvador,Economia,16275,2018
+134,Candidato_134,Partido A,45,Rio de Janeiro,Segurança,6276,2020
+135,Candidato_135,Partido C,29,Rio de Janeiro,Meio Ambiente,42627,2018
+136,Candidato_136,Partido A,42,Fortaleza,Meio Ambiente,41586,2024
+137,Candidato_137,Partido A,52,Manaus,Economia,38496,2022
+138,Candidato_138,Partido A,66,Fortaleza,Segurança,20008,2018
+139,Candidato_139,Partido C,46,Manaus,Saúde,6738,2024
+140,Candidato_140,Partido A,45,Manaus,Educação,33402,2018
+141,Candidato_141,Partido D,30,São Paulo,Infraestrutura,6793,2018
+142,Candidato_142,Partido A,25,Brasília,Saúde,38291,2024
+143,Candidato_143,Partido D,29,São Paulo,Economia,6571,2018
+144,Candidato_144,Partido D,65,Brasília,Infraestrutura,32331,2018
+145,Candidato_145,Partido D,36,Fortaleza,Educação,17209,2022
+146,Candidato_146,Partido C,50,Brasília,Educação,49014,2024
+147,Candidato_147,Partido C,58,Fortaleza,Segurança,26394,2024
+148,Candidato_148,Partido C,38,Rio de Janeiro,Infraestrutura,44148,2020
+149,Candidato_149,Partido A,50,Rio de Janeiro,Segurança,26682,2018
+150,Candidato_150,Partido D,69,Brasília,Saúde,3224,2022
+151,Candidato_151,Partido C,51,Brasília,Meio Ambiente,42157,2018
+152,Candidato_152,Partido C,33,Fortaleza,Meio Ambiente,49695,2018
+153,Candidato_153,Partido A,50,São Paulo,Meio Ambiente,45452,2020
+154,Candidato_154,Partido C,46,Fortaleza,Infraestrutura,44408,2018
+155,Candidato_155,Partido A,54,São Paulo,Meio Ambiente,33441,2022
+156,Candidato_156,Partido B,67,Rio de Janeiro,Saúde,42430,2022
+157,Candidato_157,Partido C,41,Manaus,Segurança,40129,2020
+158,Candidato_158,Partido B,50,Brasília,Infraestrutura,35716,2018
+159,Candidato_159,Partido A,60,São Paulo,Segurança,45859,2022
+160,Candidato_160,Partido D,25,Fortaleza,Infraestrutura,27586,2018
+161,Candidato_161,Partido C,32,Rio de Janeiro,Segurança,45760,2018
+162,Candidato_162,Partido A,59,São Paulo,Educação,24478,2018
+163,Candidato_163,Partido D,39,Fortaleza,Segurança,7318,2020
+164,Candidato_164,Partido D,46,Brasília,Meio Ambiente,29694,2018
+165,Candidato_165,Partido B,38,Brasília,Educação,21180,2022
+166,Candidato_166,Partido A,50,Salvador,Segurança,13180,2018
+167,Candidato_167,Partido D,52,Manaus,Infraestrutura,34002,2022
+168,Candidato_168,Partido C,47,Salvador,Infraestrutura,16372,2018
+169,Candidato_169,Partido C,38,Rio de Janeiro,Infraestrutura,30796,2022
+170,Candidato_170,Partido B,48,São Paulo,Economia,25427,2022
+171,Candidato_171,Partido D,26,Rio de Janeiro,Saúde,34290,2018
+172,Candidato_172,Partido A,69,Fortaleza,Infraestrutura,29099,2018
+173,Candidato_173,Partido C,50,Brasília,Educação,46486,2022
+174,Candidato_174,Partido D,38,Salvador,Infraestrutura,10821,2024
+175,Candidato_175,Partido D,31,Salvador,Economia,6832,2020
+176,Candidato_176,Partido B,27,Salvador,Meio Ambiente,13820,2024
+177,Candidato_177,Partido C,47,Rio de Janeiro,Educação,17211,2024
+178,Candidato_178,Partido C,67,Brasília,Economia,40890,2018
+179,Candidato_179,Partido A,69,São Paulo,Meio Ambiente,6842,2020
+180,Candidato_180,Partido C,42,Fortaleza,Educação,2316,2024
+181,Candidato_181,Partido A,62,São Paulo,Segurança,46968,2018
+182,Candidato_182,Partido C,59,Rio de Janeiro,Saúde,18508,2024
+183,Candidato_183,Partido B,39,Fortaleza,Saúde,23005,2024
+184,Candidato_184,Partido C,49,Salvador,Economia,16206,2018
+185,Candidato_185,Partido A,61,Manaus,Meio Ambiente,19971,2018
+186,Candidato_186,Partido A,52,Rio de Janeiro,Saúde,26599,2018
+187,Candidato_187,Partido B,34,Rio de Janeiro,Meio Ambiente,23056,2020
+188,Candidato_188,Partido C,63,Brasília,Meio Ambiente,2378,2024
+189,Candidato_189,Partido C,41,São Paulo,Economia,2519,2018
+190,Candidato_190,Partido B,63,Rio de Janeiro,Economia,23161,2022
+191,Candidato_191,Partido C,46,Rio de Janeiro,Economia,41703,2024
+192,Candidato_192,Partido C,50,Salvador,Saúde,39861,2022
+193,Candidato_193,Partido A,68,Salvador,Economia,6355,2020
+194,Candidato_194,Partido C,49,Fortaleza,Saúde,10083,2018
+195,Candidato_195,Partido C,41,Manaus,Economia,39342,2022
+196,Candidato_196,Partido B,37,Brasília,Infraestrutura,21456,2020
+197,Candidato_197,Partido B,44,Manaus,Meio Ambiente,14324,2018
+198,Candidato_198,Partido D,49,Fortaleza,Economia,3257,2022
+199,Candidato_199,Partido A,28,Salvador,Educação,28364,2022
+200,Candidato_200,Partido C,34,São Paulo,Meio Ambiente,25972,2020
+201,Candidato_201,Partido C,27,Salvador,Meio Ambiente,47179,2018
+202,Candidato_202,Partido D,65,Brasília,Economia,27654,2018
+203,Candidato_203,Partido C,69,Salvador,Segurança,16233,2022
+204,Candidato_204,Partido A,42,Brasília,Economia,16887,2022
+205,Candidato_205,Partido D,60,Brasília,Meio Ambiente,30320,2022
+206,Candidato_206,Partido A,46,Brasília,Educação,21808,2018
+207,Candidato_207,Partido D,58,Fortaleza,Meio Ambiente,31154,2020
+208,Candidato_208,Partido D,32,Brasília,Educação,35773,2020
+209,Candidato_209,Partido B,64,Brasília,Saúde,28747,2018
+210,Candidato_210,Partido A,68,São Paulo,Infraestrutura,11860,2024
+211,Candidato_211,Partido C,43,Manaus,Meio Ambiente,43838,2020
+212,Candidato_212,Partido C,66,Rio de Janeiro,Economia,43156,2022
+213,Candidato_213,Partido A,65,Manaus,Saúde,19156,2024
+214,Candidato_214,Partido C,61,Brasília,Infraestrutura,21360,2024
+215,Candidato_215,Partido C,30,São Paulo,Economia,19135,2020
+216,Candidato_216,Partido A,50,Salvador,Segurança,26351,2024
+217,Candidato_217,Partido D,58,São Paulo,Economia,31499,2024
+218,Candidato_218,Partido A,69,Brasília,Educação,48377,2020
+219,Candidato_219,Partido D,30,São Paulo,Educação,24554,2020
+220,Candidato_220,Partido C,61,São Paulo,Segurança,20604,2024
+221,Candidato_221,Partido C,57,Brasília,Saúde,17923,2022
+222,Candidato_222,Partido C,46,Fortaleza,Infraestrutura,48591,2018
+223,Candidato_223,Partido B,45,São Paulo,Economia,9547,2024
+224,Candidato_224,Partido D,30,Rio de Janeiro,Educação,45283,2024
+225,Candidato_225,Partido B,30,Rio de Janeiro,Saúde,34002,2022
+226,Candidato_226,Partido B,28,São Paulo,Segurança,15562,2024
+227,Candidato_227,Partido A,54,Fortaleza,Meio Ambiente,8480,2024
+228,Candidato_228,Partido B,35,Salvador,Educação,27672,2018
+229,Candidato_229,Partido A,54,Brasília,Segurança,5213,2018
+230,Candidato_230,Partido A,55,Rio de Janeiro,Economia,11293,2018
+231,Candidato_231,Partido B,48,Salvador,Infraestrutura,35441,2020
+232,Candidato_232,Partido D,33,São Paulo,Educação,3100,2020
+233,Candidato_233,Partido D,27,Salvador,Educação,45617,2018
+234,Candidato_234,Partido D,55,Manaus,Economia,29172,2018
+235,Candidato_235,Partido D,64,Rio de Janeiro,Meio Ambiente,21132,2020
+236,Candidato_236,Partido D,61,São Paulo,Saúde,19199,2022
+237,Candidato_237,Partido B,60,Brasília,Infraestrutura,37609,2024
+238,Candidato_238,Partido B,48,Fortaleza,Educação,43965,2024
+239,Candidato_239,Partido C,55,São Paulo,Infraestrutura,9016,2018
+240,Candidato_240,Partido D,30,Brasília,Educação,40779,2022
+241,Candidato_241,Partido B,26,Fortaleza,Infraestrutura,38261,2020
+242,Candidato_242,Partido C,44,Fortaleza,Segurança,32881,2018
+243,Candidato_243,Partido D,52,São Paulo,Educação,18058,2022
+244,Candidato_244,Partido A,35,Salvador,Infraestrutura,25472,2022
+245,Candidato_245,Partido C,28,Salvador,Saúde,42346,2022
+246,Candidato_246,Partido B,39,Fortaleza,Segurança,35926,2020
+247,Candidato_247,Partido A,30,Salvador,Segurança,35832,2020
+248,Candidato_248,Partido A,54,Manaus,Saúde,37021,2024
+249,Candidato_249,Partido A,62,Fortaleza,Infraestrutura,25087,2024
+250,Candidato_250,Partido C,26,Fortaleza,Economia,13828,2022
+251,Candidato_251,Partido B,39,Brasília,Saúde,32128,2022
+252,Candidato_252,Partido A,35,Salvador,Infraestrutura,2401,2020
+253,Candidato_253,Partido D,32,Fortaleza,Saúde,20643,2024
+254,Candidato_254,Partido A,50,Manaus,Saúde,16193,2022
+255,Candidato_255,Partido A,69,Brasília,Educação,27853,2024
+256,Candidato_256,Partido C,68,São Paulo,Infraestrutura,45864,2024
+257,Candidato_257,Partido C,29,Fortaleza,Economia,21307,2022
+258,Candidato_258,Partido B,30,Manaus,Educação,37982,2020
+259,Candidato_259,Partido D,50,Rio de Janeiro,Saúde,20611,2022
+260,Candidato_260,Partido C,28,Manaus,Meio Ambiente,44791,2022
+261,Candidato_261,Partido A,43,Manaus,Saúde,12950,2024
+262,Candidato_262,Partido B,44,Brasília,Saúde,11704,2022
+263,Candidato_263,Partido A,57,São Paulo,Infraestrutura,44111,2020
+264,Candidato_264,Partido A,44,Rio de Janeiro,Infraestrutura,12867,2022
+265,Candidato_265,Partido C,36,Salvador,Educação,3745,2020
+266,Candidato_266,Partido B,25,Salvador,Economia,4866,2020
+267,Candidato_267,Partido D,50,Manaus,Educação,33245,2024
+268,Candidato_268,Partido D,38,Brasília,Segurança,45724,2018
+269,Candidato_269,Partido C,62,Brasília,Saúde,6818,2018
+270,Candidato_270,Partido C,61,Salvador,Meio Ambiente,49861,2024
+271,Candidato_271,Partido B,35,Rio de Janeiro,Saúde,31116,2022
+272,Candidato_272,Partido D,60,São Paulo,Saúde,16493,2024
+273,Candidato_273,Partido D,37,Rio de Janeiro,Educação,29038,2020
+274,Candidato_274,Partido D,67,Fortaleza,Meio Ambiente,21447,2018
+275,Candidato_275,Partido A,27,Fortaleza,Meio Ambiente,31431,2024
+276,Candidato_276,Partido D,57,São Paulo,Meio Ambiente,18908,2022
+277,Candidato_277,Partido A,30,Salvador,Educação,30336,2024
+278,Candidato_278,Partido B,34,São Paulo,Saúde,41992,2018
+279,Candidato_279,Partido A,29,Brasília,Educação,5025,2024
+280,Candidato_280,Partido B,47,Fortaleza,Infraestrutura,21093,2024
+281,Candidato_281,Partido D,34,Manaus,Infraestrutura,7155,2018
+282,Candidato_282,Partido D,68,Manaus,Educação,47607,2020
+283,Candidato_283,Partido B,26,Salvador,Meio Ambiente,34487,2020
+284,Candidato_284,Partido C,37,Brasília,Saúde,48658,2018
+285,Candidato_285,Partido B,64,Rio de Janeiro,Educação,21963,2024
+286,Candidato_286,Partido C,26,Brasília,Educação,21936,2018
+287,Candidato_287,Partido A,44,Manaus,Educação,5426,2020
+288,Candidato_288,Partido A,25,Manaus,Segurança,24303,2022
+289,Candidato_289,Partido A,61,Fortaleza,Infraestrutura,46280,2024
+290,Candidato_290,Partido D,33,Brasília,Meio Ambiente,28606,2020
+291,Candidato_291,Partido A,41,Brasília,Economia,48832,2024
+292,Candidato_292,Partido C,33,Manaus,Meio Ambiente,29151,2018
+293,Candidato_293,Partido A,35,Rio de Janeiro,Economia,14767,2022
+294,Candidato_294,Partido B,39,Salvador,Segurança,12308,2018
+295,Candidato_295,Partido B,48,Salvador,Educação,45245,2022
+296,Candidato_296,Partido D,62,Brasília,Segurança,46671,2024
+297,Candidato_297,Partido B,59,Salvador,Segurança,25770,2024
+298,Candidato_298,Partido C,54,Manaus,Saúde,29572,2018
+299,Candidato_299,Partido A,55,Manaus,Infraestrutura,42448,2022
+300,Candidato_300,Partido D,29,Brasília,Economia,3204,2022
+301,Candidato_301,Partido A,68,Brasília,Educação,28233,2024
+302,Candidato_302,Partido A,38,Fortaleza,Economia,22729,2018
+303,Candidato_303,Partido C,35,Brasília,Meio Ambiente,32131,2022
+304,Candidato_304,Partido B,33,Rio de Janeiro,Economia,34870,2024
+305,Candidato_305,Partido B,58,Salvador,Meio Ambiente,39011,2020
+306,Candidato_306,Partido A,36,Brasília,Infraestrutura,40382,2018
+307,Candidato_307,Partido D,59,São Paulo,Meio Ambiente,42475,2020
+308,Candidato_308,Partido B,59,Fortaleza,Economia,47681,2018
+309,Candidato_309,Partido D,25,São Paulo,Economia,22607,2024
+310,Candidato_310,Partido B,64,Manaus,Meio Ambiente,25968,2022
+311,Candidato_311,Partido D,46,Salvador,Segurança,34398,2022
+312,Candidato_312,Partido C,53,Brasília,Infraestrutura,12908,2022
+313,Candidato_313,Partido D,32,São Paulo,Saúde,27423,2018
+314,Candidato_314,Partido C,35,Salvador,Educação,44615,2024
+315,Candidato_315,Partido C,65,Manaus,Economia,10171,2020
+316,Candidato_316,Partido D,61,Rio de Janeiro,Educação,13721,2024
+317,Candidato_317,Partido C,38,Fortaleza,Saúde,17616,2020
+318,Candidato_318,Partido A,54,Salvador,Educação,43512,2018
+319,Candidato_319,Partido C,59,Salvador,Saúde,39458,2018
+320,Candidato_320,Partido B,45,Rio de Janeiro,Meio Ambiente,47169,2020
+321,Candidato_321,Partido D,61,Salvador,Segurança,8659,2020
+322,Candidato_322,Partido A,29,Manaus,Economia,44369,2020
+323,Candidato_323,Partido D,43,Manaus,Saúde,12704,2024
+324,Candidato_324,Partido B,38,Rio de Janeiro,Educação,33793,2020
+325,Candidato_325,Partido B,50,Fortaleza,Economia,49152,2018
+326,Candidato_326,Partido B,28,Brasília,Segurança,47473,2018
+327,Candidato_327,Partido C,49,São Paulo,Meio Ambiente,32226,2022
+328,Candidato_328,Partido C,69,Brasília,Economia,24852,2020
+329,Candidato_329,Partido D,66,Salvador,Saúde,33082,2024
+330,Candidato_330,Partido D,49,São Paulo,Segurança,23794,2024
+331,Candidato_331,Partido A,42,Rio de Janeiro,Educação,42420,2024
+332,Candidato_332,Partido A,64,Rio de Janeiro,Segurança,14379,2022
+333,Candidato_333,Partido D,32,Fortaleza,Segurança,8006,2018
+334,Candidato_334,Partido C,63,São Paulo,Infraestrutura,9682,2024
+335,Candidato_335,Partido B,64,Manaus,Segurança,34840,2018
+336,Candidato_336,Partido D,38,São Paulo,Segurança,33430,2022
+337,Candidato_337,Partido A,56,Salvador,Economia,24091,2020
+338,Candidato_338,Partido C,62,Manaus,Educação,33983,2020
+339,Candidato_339,Partido D,57,Rio de Janeiro,Economia,24989,2020
+340,Candidato_340,Partido D,47,São Paulo,Economia,10915,2024
+341,Candidato_341,Partido C,39,Brasília,Saúde,43552,2020
+342,Candidato_342,Partido D,57,Fortaleza,Economia,19990,2024
+343,Candidato_343,Partido C,49,Brasília,Infraestrutura,25734,2022
+344,Candidato_344,Partido B,41,Fortaleza,Infraestrutura,15824,2022
+345,Candidato_345,Partido C,57,Salvador,Saúde,37081,2024
+346,Candidato_346,Partido C,26,Brasília,Meio Ambiente,12033,2018
+347,Candidato_347,Partido C,38,São Paulo,Educação,43736,2020
+348,Candidato_348,Partido D,64,São Paulo,Educação,17241,2020
+349,Candidato_349,Partido D,64,Brasília,Economia,6939,2020
+350,Candidato_350,Partido C,63,São Paulo,Economia,48464,2024
+351,Candidato_351,Partido D,30,Salvador,Meio Ambiente,48562,2022
+352,Candidato_352,Partido A,30,Manaus,Economia,36063,2020
+353,Candidato_353,Partido A,27,Salvador,Educação,35464,2022
+354,Candidato_354,Partido D,31,Fortaleza,Segurança,12185,2020
+355,Candidato_355,Partido D,32,Salvador,Infraestrutura,28045,2020
+356,Candidato_356,Partido C,66,Fortaleza,Segurança,45769,2024
+357,Candidato_357,Partido B,39,São Paulo,Segurança,48118,2018
+358,Candidato_358,Partido D,53,Manaus,Educação,20167,2024
+359,Candidato_359,Partido A,57,São Paulo,Segurança,37412,2020
+360,Candidato_360,Partido C,54,Rio de Janeiro,Meio Ambiente,22625,2020
+361,Candidato_361,Partido D,63,São Paulo,Saúde,40188,2018
+362,Candidato_362,Partido A,51,Fortaleza,Economia,28076,2022
+363,Candidato_363,Partido A,60,São Paulo,Saúde,45605,2022
+364,Candidato_364,Partido B,53,São Paulo,Infraestrutura,20029,2020
+365,Candidato_365,Partido C,62,Manaus,Economia,23973,2022
+366,Candidato_366,Partido C,57,São Paulo,Segurança,40121,2020
+367,Candidato_367,Partido B,61,Manaus,Infraestrutura,32433,2018
+368,Candidato_368,Partido B,51,Brasília,Economia,44309,2018
+369,Candidato_369,Partido C,57,Rio de Janeiro,Meio Ambiente,2932,2020
+370,Candidato_370,Partido C,28,Manaus,Meio Ambiente,45254,2018
+371,Candidato_371,Partido D,46,Fortaleza,Meio Ambiente,2757,2024
+372,Candidato_372,Partido D,26,Brasília,Meio Ambiente,31722,2024
+373,Candidato_373,Partido B,34,Manaus,Segurança,38853,2018
+374,Candidato_374,Partido D,29,Manaus,Saúde,39405,2020
+375,Candidato_375,Partido A,34,Rio de Janeiro,Economia,2116,2020
+376,Candidato_376,Partido D,57,Fortaleza,Segurança,44527,2018
+377,Candidato_377,Partido D,62,Salvador,Meio Ambiente,12691,2022
+378,Candidato_378,Partido A,37,Salvador,Saúde,1492,2024
+379,Candidato_379,Partido B,55,Manaus,Infraestrutura,28882,2022
+380,Candidato_380,Partido A,60,São Paulo,Infraestrutura,9811,2020
+381,Candidato_381,Partido D,69,Fortaleza,Infraestrutura,28808,2020
+382,Candidato_382,Partido B,48,Brasília,Meio Ambiente,25272,2022
+383,Candidato_383,Partido D,39,São Paulo,Infraestrutura,29399,2018
+384,Candidato_384,Partido A,53,São Paulo,Educação,7474,2022
+385,Candidato_385,Partido A,32,Fortaleza,Economia,27956,2022
+386,Candidato_386,Partido D,29,Manaus,Economia,48153,2024
+387,Candidato_387,Partido C,53,Manaus,Meio Ambiente,43506,2024
+388,Candidato_388,Partido C,28,Manaus,Educação,14979,2022
+389,Candidato_389,Partido A,36,Manaus,Segurança,45523,2022
+390,Candidato_390,Partido A,69,Salvador,Segurança,43565,2020
+391,Candidato_391,Partido C,26,Manaus,Infraestrutura,29328,2024
+392,Candidato_392,Partido C,51,Salvador,Saúde,48375,2024
+393,Candidato_393,Partido D,55,Salvador,Segurança,13867,2020
+394,Candidato_394,Partido D,60,Manaus,Saúde,26851,2018
+395,Candidato_395,Partido C,60,Rio de Janeiro,Economia,32279,2024
+396,Candidato_396,Partido D,50,Brasília,Saúde,31527,2024
+397,Candidato_397,Partido D,67,São Paulo,Economia,8866,2018
+398,Candidato_398,Partido B,51,Salvador,Educação,16449,2024
+399,Candidato_399,Partido D,29,Fortaleza,Educação,11685,2024
+400,Candidato_400,Partido A,44,Fortaleza,Meio Ambiente,24544,2018
+401,Candidato_401,Partido D,35,Brasília,Meio Ambiente,6451,2018
+402,Candidato_402,Partido D,34,Fortaleza,Infraestrutura,22642,2022
+403,Candidato_403,Partido C,64,Rio de Janeiro,Segurança,42316,2020
+404,Candidato_404,Partido A,62,Fortaleza,Infraestrutura,40954,2020
+405,Candidato_405,Partido D,30,São Paulo,Economia,39870,2018
+406,Candidato_406,Partido D,32,São Paulo,Infraestrutura,32030,2018
+407,Candidato_407,Partido B,47,Salvador,Saúde,31873,2024
+408,Candidato_408,Partido D,50,Manaus,Economia,1619,2022
+409,Candidato_409,Partido D,67,Rio de Janeiro,Meio Ambiente,34650,2022
+410,Candidato_410,Partido B,36,Salvador,Educação,26372,2018
+411,Candidato_411,Partido C,50,Rio de Janeiro,Meio Ambiente,4642,2024
+412,Candidato_412,Partido D,37,Manaus,Segurança,29001,2024
+413,Candidato_413,Partido B,64,Fortaleza,Economia,35064,2020
+414,Candidato_414,Partido A,42,Fortaleza,Economia,30290,2020
+415,Candidato_415,Partido C,49,Manaus,Saúde,15122,2024
+416,Candidato_416,Partido A,57,Salvador,Segurança,25820,2020
+417,Candidato_417,Partido A,64,Manaus,Educação,3895,2018
+418,Candidato_418,Partido B,67,Brasília,Economia,6366,2024
+419,Candidato_419,Partido D,36,São Paulo,Economia,9711,2020
+420,Candidato_420,Partido B,68,Salvador,Saúde,20596,2022
+421,Candidato_421,Partido B,60,Rio de Janeiro,Infraestrutura,19793,2024
+422,Candidato_422,Partido B,28,Brasília,Educação,9199,2024
+423,Candidato_423,Partido B,29,Salvador,Meio Ambiente,11717,2022
+424,Candidato_424,Partido C,61,Manaus,Segurança,37191,2018
+425,Candidato_425,Partido D,32,Manaus,Economia,11211,2022
+426,Candidato_426,Partido A,66,Manaus,Economia,46550,2024
+427,Candidato_427,Partido A,52,Manaus,Meio Ambiente,24360,2018
+428,Candidato_428,Partido D,55,Rio de Janeiro,Educação,22542,2020
+429,Candidato_429,Partido A,33,Brasília,Infraestrutura,32312,2020
+430,Candidato_430,Partido D,53,Fortaleza,Economia,46242,2020
+431,Candidato_431,Partido A,38,São Paulo,Educação,37435,2024
+432,Candidato_432,Partido B,64,Rio de Janeiro,Meio Ambiente,29247,2022
+433,Candidato_433,Partido A,65,Rio de Janeiro,Saúde,23357,2018
+434,Candidato_434,Partido D,46,Fortaleza,Infraestrutura,42045,2020
+435,Candidato_435,Partido D,35,Fortaleza,Segurança,28691,2018
+436,Candidato_436,Partido D,47,São Paulo,Economia,13424,2024
+437,Candidato_437,Partido D,25,São Paulo,Educação,19852,2020
+438,Candidato_438,Partido D,61,Fortaleza,Saúde,23601,2024
+439,Candidato_439,Partido C,45,Manaus,Segurança,19020,2022
+440,Candidato_440,Partido C,50,Rio de Janeiro,Educação,9155,2024
+441,Candidato_441,Partido A,60,Salvador,Educação,4583,2024
+442,Candidato_442,Partido D,47,São Paulo,Segurança,16515,2022
+443,Candidato_443,Partido A,25,São Paulo,Saúde,37777,2018
+444,Candidato_444,Partido D,64,Fortaleza,Meio Ambiente,20710,2022
+445,Candidato_445,Partido D,39,Brasília,Saúde,44178,2022
+446,Candidato_446,Partido C,45,Salvador,Infraestrutura,25532,2024
+447,Candidato_447,Partido C,33,Salvador,Economia,19601,2018
+448,Candidato_448,Partido B,33,São Paulo,Segurança,5967,2020
+449,Candidato_449,Partido C,34,Manaus,Meio Ambiente,19753,2022
+450,Candidato_450,Partido B,50,Brasília,Segurança,21022,2018
+451,Candidato_451,Partido B,65,Salvador,Segurança,44463,2022
+452,Candidato_452,Partido B,59,São Paulo,Saúde,10135,2022
+453,Candidato_453,Partido B,49,Salvador,Economia,6722,2022
+454,Candidato_454,Partido B,50,Brasília,Infraestrutura,28413,2022
+455,Candidato_455,Partido A,35,Brasília,Educação,28236,2024
+456,Candidato_456,Partido C,62,Rio de Janeiro,Educação,16514,2018
+457,Candidato_457,Partido B,26,Fortaleza,Segurança,44896,2018
+458,Candidato_458,Partido D,31,Fortaleza,Economia,38212,2018
+459,Candidato_459,Partido C,42,São Paulo,Meio Ambiente,41386,2022
+460,Candidato_460,Partido C,51,Brasília,Saúde,21331,2024
+461,Candidato_461,Partido B,58,Rio de Janeiro,Economia,19060,2022
+462,Candidato_462,Partido A,51,Rio de Janeiro,Economia,2196,2022
+463,Candidato_463,Partido B,41,Salvador,Saúde,13297,2018
+464,Candidato_464,Partido A,67,Salvador,Segurança,3787,2022
+465,Candidato_465,Partido D,68,Rio de Janeiro,Economia,24816,2020
+466,Candidato_466,Partido C,48,Salvador,Educação,41695,2022
+467,Candidato_467,Partido D,49,Brasília,Saúde,20702,2020
+468,Candidato_468,Partido A,31,Manaus,Meio Ambiente,26242,2022
+469,Candidato_469,Partido A,30,Brasília,Infraestrutura,3176,2024
+470,Candidato_470,Partido D,48,Rio de Janeiro,Segurança,21127,2024
+471,Candidato_471,Partido A,57,Rio de Janeiro,Saúde,42560,2018
+472,Candidato_472,Partido D,53,Brasília,Infraestrutura,28228,2022
+473,Candidato_473,Partido C,67,Salvador,Infraestrutura,21208,2020
+474,Candidato_474,Partido D,46,Salvador,Meio Ambiente,29482,2020
+475,Candidato_475,Partido C,50,Fortaleza,Economia,10171,2022
+476,Candidato_476,Partido D,52,Rio de Janeiro,Meio Ambiente,36219,2020
+477,Candidato_477,Partido A,45,São Paulo,Economia,34396,2024
+478,Candidato_478,Partido D,31,Fortaleza,Economia,43589,2020
+479,Candidato_479,Partido A,41,Salvador,Saúde,41546,2018
+480,Candidato_480,Partido D,44,Brasília,Saúde,4696,2024
+481,Candidato_481,Partido D,65,Salvador,Segurança,21058,2024
+482,Candidato_482,Partido B,44,Brasília,Economia,21313,2024
+483,Candidato_483,Partido A,46,Fortaleza,Infraestrutura,20149,2022
+484,Candidato_484,Partido B,52,Rio de Janeiro,Educação,46740,2022
+485,Candidato_485,Partido A,64,Salvador,Segurança,42075,2024
+486,Candidato_486,Partido B,31,Brasília,Saúde,5956,2022
+487,Candidato_487,Partido C,25,Rio de Janeiro,Meio Ambiente,11195,2020
+488,Candidato_488,Partido D,56,São Paulo,Segurança,18076,2022
+489,Candidato_489,Partido A,37,Brasília,Segurança,2105,2022
+490,Candidato_490,Partido A,54,Fortaleza,Segurança,16417,2024
+491,Candidato_491,Partido D,47,São Paulo,Segurança,25729,2018
+492,Candidato_492,Partido A,43,São Paulo,Educação,47956,2018
+493,Candidato_493,Partido A,56,Manaus,Meio Ambiente,31099,2018
+494,Candidato_494,Partido B,54,Salvador,Meio Ambiente,33598,2020
+495,Candidato_495,Partido A,53,Brasília,Meio Ambiente,30961,2022
+496,Candidato_496,Partido C,69,São Paulo,Economia,13602,2018
+497,Candidato_497,Partido C,53,Manaus,Infraestrutura,10256,2024
+498,Candidato_498,Partido D,54,Fortaleza,Meio Ambiente,21584,2018
+499,Candidato_499,Partido A,40,Rio de Janeiro,Segurança,47980,2018
+500,Candidato_500,Partido D,64,Brasília,Segurança,35681,2022
+501,Candidato_501,Partido C,43,São Paulo,Meio Ambiente,26792,2022
+502,Candidato_502,Partido A,42,Salvador,Meio Ambiente,22904,2022
+503,Candidato_503,Partido A,25,Manaus,Segurança,44361,2020
+504,Candidato_504,Partido D,38,São Paulo,Economia,35540,2020
+505,Candidato_505,Partido C,26,Salvador,Saúde,27536,2018
+506,Candidato_506,Partido A,52,São Paulo,Saúde,20164,2022
+507,Candidato_507,Partido D,54,Brasília,Meio Ambiente,13996,2018
+508,Candidato_508,Partido C,62,Brasília,Educação,3871,2024
+509,Candidato_509,Partido D,28,Brasília,Meio Ambiente,47002,2024
+510,Candidato_510,Partido B,25,Fortaleza,Meio Ambiente,23626,2022
+511,Candidato_511,Partido A,32,Fortaleza,Saúde,11521,2022
+512,Candidato_512,Partido B,53,Manaus,Segurança,44410,2024
+513,Candidato_513,Partido C,63,Brasília,Meio Ambiente,2132,2022
+514,Candidato_514,Partido B,27,Salvador,Segurança,34467,2020
+515,Candidato_515,Partido B,56,São Paulo,Segurança,15534,2020
+516,Candidato_516,Partido C,34,Rio de Janeiro,Educação,24854,2022
+517,Candidato_517,Partido D,34,Salvador,Segurança,43998,2024
+518,Candidato_518,Partido B,43,Fortaleza,Saúde,40065,2018
+519,Candidato_519,Partido D,58,Fortaleza,Economia,46607,2022
+520,Candidato_520,Partido B,57,Salvador,Economia,8812,2022
+521,Candidato_521,Partido D,47,Fortaleza,Infraestrutura,5557,2018
+522,Candidato_522,Partido C,52,Brasília,Meio Ambiente,3179,2022
+523,Candidato_523,Partido B,56,Manaus,Saúde,44798,2018
+524,Candidato_524,Partido C,31,São Paulo,Segurança,10065,2024
+525,Candidato_525,Partido B,53,Manaus,Economia,9275,2020
+526,Candidato_526,Partido C,32,São Paulo,Saúde,48857,2024
+527,Candidato_527,Partido C,25,São Paulo,Economia,36948,2020
+528,Candidato_528,Partido B,27,Manaus,Segurança,21700,2018
+529,Candidato_529,Partido B,48,Salvador,Economia,40464,2020
+530,Candidato_530,Partido B,47,São Paulo,Meio Ambiente,43351,2024
+531,Candidato_531,Partido A,32,Manaus,Meio Ambiente,28794,2020
+532,Candidato_532,Partido D,61,São Paulo,Infraestrutura,29783,2018
+533,Candidato_533,Partido A,27,Rio de Janeiro,Infraestrutura,17998,2020
+534,Candidato_534,Partido A,57,Salvador,Economia,14869,2022
+535,Candidato_535,Partido C,52,Brasília,Saúde,45525,2024
+536,Candidato_536,Partido B,32,São Paulo,Meio Ambiente,29152,2022
+537,Candidato_537,Partido D,58,Rio de Janeiro,Saúde,21954,2018
+538,Candidato_538,Partido C,59,Brasília,Saúde,32555,2020
+539,Candidato_539,Partido A,56,Brasília,Economia,17654,2022
+540,Candidato_540,Partido B,48,São Paulo,Saúde,46026,2022
+541,Candidato_541,Partido C,38,Manaus,Meio Ambiente,36236,2020
+542,Candidato_542,Partido B,56,São Paulo,Segurança,47976,2020
+543,Candidato_543,Partido C,67,Rio de Janeiro,Infraestrutura,16042,2024
+544,Candidato_544,Partido B,40,Brasília,Segurança,26966,2022
+545,Candidato_545,Partido A,28,São Paulo,Saúde,49407,2022
+546,Candidato_546,Partido D,61,Manaus,Segurança,45314,2018
+547,Candidato_547,Partido A,45,São Paulo,Meio Ambiente,46095,2024
+548,Candidato_548,Partido D,38,Salvador,Meio Ambiente,15270,2018
+549,Candidato_549,Partido B,55,Manaus,Saúde,31908,2022
+550,Candidato_550,Partido C,42,Rio de Janeiro,Economia,16523,2018
+551,Candidato_551,Partido A,31,Brasília,Segurança,48068,2022
+552,Candidato_552,Partido D,34,São Paulo,Economia,20991,2022
+553,Candidato_553,Partido A,31,Manaus,Economia,11775,2018
+554,Candidato_554,Partido D,57,Salvador,Educação,13265,2018
+555,Candidato_555,Partido A,47,Manaus,Saúde,20459,2020
+556,Candidato_556,Partido D,45,Fortaleza,Infraestrutura,17673,2020
+557,Candidato_557,Partido D,43,Salvador,Meio Ambiente,28056,2020
+558,Candidato_558,Partido B,43,Rio de Janeiro,Meio Ambiente,7614,2022
+559,Candidato_559,Partido D,60,Brasília,Saúde,37020,2018
+560,Candidato_560,Partido B,53,Rio de Janeiro,Infraestrutura,8415,2024
+561,Candidato_561,Partido D,42,São Paulo,Meio Ambiente,24155,2022
+562,Candidato_562,Partido C,26,Manaus,Saúde,44884,2024
+563,Candidato_563,Partido C,25,Fortaleza,Meio Ambiente,17964,2018
+564,Candidato_564,Partido C,29,Salvador,Economia,38726,2022
+565,Candidato_565,Partido D,44,Salvador,Segurança,38044,2024
+566,Candidato_566,Partido B,35,Manaus,Segurança,38544,2024
+567,Candidato_567,Partido B,66,Fortaleza,Meio Ambiente,33252,2020
+568,Candidato_568,Partido D,26,Manaus,Educação,4832,2020
+569,Candidato_569,Partido C,27,São Paulo,Infraestrutura,26275,2020
+570,Candidato_570,Partido C,47,Rio de Janeiro,Infraestrutura,15901,2022
+571,Candidato_571,Partido B,36,Salvador,Infraestrutura,39213,2018
+572,Candidato_572,Partido C,44,São Paulo,Economia,35148,2018
+573,Candidato_573,Partido A,29,Rio de Janeiro,Infraestrutura,43633,2020
+574,Candidato_574,Partido B,61,São Paulo,Segurança,23918,2020
+575,Candidato_575,Partido C,62,Fortaleza,Economia,47694,2020
+576,Candidato_576,Partido B,54,Salvador,Saúde,20540,2024
+577,Candidato_577,Partido A,33,Manaus,Infraestrutura,12580,2020
+578,Candidato_578,Partido B,58,Manaus,Infraestrutura,39402,2024
+579,Candidato_579,Partido B,68,Rio de Janeiro,Saúde,39578,2018
+580,Candidato_580,Partido B,59,Brasília,Infraestrutura,25917,2022
+581,Candidato_581,Partido B,46,Fortaleza,Saúde,23318,2022
+582,Candidato_582,Partido A,68,Rio de Janeiro,Economia,11179,2022
+583,Candidato_583,Partido D,48,Brasília,Segurança,13251,2022
+584,Candidato_584,Partido B,41,São Paulo,Saúde,46899,2024
+585,Candidato_585,Partido B,34,Fortaleza,Educação,20493,2024
+586,Candidato_586,Partido C,54,São Paulo,Saúde,21466,2020
+587,Candidato_587,Partido B,47,Salvador,Infraestrutura,31206,2024
+588,Candidato_588,Partido C,56,Fortaleza,Economia,46475,2020
+589,Candidato_589,Partido D,41,Brasília,Meio Ambiente,20624,2020
+590,Candidato_590,Partido A,41,Salvador,Economia,27564,2022
+591,Candidato_591,Partido A,38,Manaus,Meio Ambiente,23412,2024
+592,Candidato_592,Partido D,33,Brasília,Saúde,28990,2024
+593,Candidato_593,Partido A,64,Rio de Janeiro,Segurança,36517,2020
+594,Candidato_594,Partido D,26,Manaus,Educação,14156,2020
+595,Candidato_595,Partido D,69,Manaus,Economia,24064,2018
+596,Candidato_596,Partido D,49,Rio de Janeiro,Infraestrutura,26711,2018
+597,Candidato_597,Partido A,63,Fortaleza,Meio Ambiente,31106,2020
+598,Candidato_598,Partido C,33,Manaus,Infraestrutura,17589,2018
+599,Candidato_599,Partido D,46,Brasília,Segurança,24736,2018
+600,Candidato_600,Partido B,67,Salvador,Meio Ambiente,21975,2020
+601,Candidato_601,Partido A,28,Manaus,Economia,37218,2020
+602,Candidato_602,Partido D,50,Brasília,Saúde,8214,2024
+603,Candidato_603,Partido D,53,São Paulo,Infraestrutura,31581,2020
+604,Candidato_604,Partido B,69,Brasília,Segurança,21195,2020
+605,Candidato_605,Partido C,58,Salvador,Economia,45582,2022
+606,Candidato_606,Partido C,47,Brasília,Economia,28127,2024
+607,Candidato_607,Partido C,61,Rio de Janeiro,Economia,6141,2024
+608,Candidato_608,Partido D,35,Salvador,Economia,29884,2024
+609,Candidato_609,Partido D,30,Fortaleza,Meio Ambiente,25885,2022
+610,Candidato_610,Partido D,42,São Paulo,Economia,3708,2020
+611,Candidato_611,Partido A,45,Rio de Janeiro,Infraestrutura,19375,2024
+612,Candidato_612,Partido B,66,Fortaleza,Segurança,16088,2024
+613,Candidato_613,Partido D,60,Brasília,Meio Ambiente,45602,2018
+614,Candidato_614,Partido B,65,Salvador,Economia,46046,2024
+615,Candidato_615,Partido B,62,São Paulo,Educação,11014,2020
+616,Candidato_616,Partido C,58,Rio de Janeiro,Educação,4273,2020
+617,Candidato_617,Partido A,41,Fortaleza,Segurança,48135,2018
+618,Candidato_618,Partido D,61,Fortaleza,Saúde,38306,2024
+619,Candidato_619,Partido C,49,São Paulo,Saúde,31881,2024
+620,Candidato_620,Partido C,62,Brasília,Meio Ambiente,32486,2024
+621,Candidato_621,Partido D,36,São Paulo,Meio Ambiente,13541,2022
+622,Candidato_622,Partido B,47,Fortaleza,Meio Ambiente,9712,2024
+623,Candidato_623,Partido C,66,Manaus,Saúde,10168,2020
+624,Candidato_624,Partido B,46,Rio de Janeiro,Educação,4551,2020
+625,Candidato_625,Partido A,45,São Paulo,Saúde,13297,2022
+626,Candidato_626,Partido B,51,Fortaleza,Infraestrutura,44733,2022
+627,Candidato_627,Partido A,55,Brasília,Economia,28128,2024
+628,Candidato_628,Partido B,30,Fortaleza,Meio Ambiente,3832,2018
+629,Candidato_629,Partido C,51,Brasília,Educação,29483,2022
+630,Candidato_630,Partido C,64,São Paulo,Segurança,23063,2022
+631,Candidato_631,Partido A,58,Brasília,Segurança,23963,2024
+632,Candidato_632,Partido D,36,Salvador,Economia,14422,2024
+633,Candidato_633,Partido A,69,Salvador,Educação,33920,2022
+634,Candidato_634,Partido A,31,Salvador,Saúde,12156,2018
+635,Candidato_635,Partido B,34,Manaus,Saúde,12108,2022
+636,Candidato_636,Partido B,69,São Paulo,Infraestrutura,32845,2024
+637,Candidato_637,Partido A,41,Fortaleza,Infraestrutura,3800,2024
+638,Candidato_638,Partido C,50,Fortaleza,Saúde,39078,2022
+639,Candidato_639,Partido B,45,Manaus,Segurança,43712,2018
+640,Candidato_640,Partido D,52,Brasília,Meio Ambiente,3610,2022
+641,Candidato_641,Partido B,26,Manaus,Segurança,13067,2022
+642,Candidato_642,Partido B,67,Brasília,Infraestrutura,34872,2024
+643,Candidato_643,Partido D,25,Brasília,Economia,11728,2018
+644,Candidato_644,Partido A,60,Rio de Janeiro,Saúde,30566,2020
+645,Candidato_645,Partido D,50,Fortaleza,Infraestrutura,30783,2018
+646,Candidato_646,Partido A,53,Salvador,Infraestrutura,21583,2022
+647,Candidato_647,Partido A,45,Brasília,Meio Ambiente,21238,2022
+648,Candidato_648,Partido A,35,Rio de Janeiro,Saúde,8263,2022
+649,Candidato_649,Partido D,64,Fortaleza,Meio Ambiente,2914,2018
+650,Candidato_650,Partido A,35,Salvador,Saúde,24749,2024
+651,Candidato_651,Partido C,60,Brasília,Meio Ambiente,20456,2022
+652,Candidato_652,Partido D,63,Brasília,Segurança,26582,2022
+653,Candidato_653,Partido C,64,Manaus,Economia,1406,2018
+654,Candidato_654,Partido A,59,Manaus,Economia,14689,2020
+655,Candidato_655,Partido B,58,Fortaleza,Saúde,33934,2020
+656,Candidato_656,Partido A,48,Salvador,Educação,34276,2024
+657,Candidato_657,Partido C,46,Brasília,Infraestrutura,37432,2024
+658,Candidato_658,Partido C,29,Fortaleza,Infraestrutura,20873,2022
+659,Candidato_659,Partido D,57,Fortaleza,Saúde,14050,2018
+660,Candidato_660,Partido B,60,São Paulo,Meio Ambiente,1680,2022
+661,Candidato_661,Partido D,44,Manaus,Educação,19908,2024
+662,Candidato_662,Partido C,43,Salvador,Segurança,19504,2018
+663,Candidato_663,Partido A,59,Brasília,Meio Ambiente,22644,2018
+664,Candidato_664,Partido B,67,Fortaleza,Meio Ambiente,38125,2024
+665,Candidato_665,Partido A,41,Brasília,Saúde,2363,2020
+666,Candidato_666,Partido A,69,São Paulo,Saúde,43291,2020
+667,Candidato_667,Partido B,67,Salvador,Infraestrutura,36060,2018
+668,Candidato_668,Partido D,58,Fortaleza,Saúde,2538,2022
+669,Candidato_669,Partido A,33,Brasília,Saúde,37176,2020
+670,Candidato_670,Partido C,50,Manaus,Saúde,42520,2022
+671,Candidato_671,Partido A,26,São Paulo,Infraestrutura,26675,2020
+672,Candidato_672,Partido B,33,Salvador,Segurança,19287,2020
+673,Candidato_673,Partido B,33,São Paulo,Segurança,1174,2022
+674,Candidato_674,Partido B,64,Manaus,Saúde,27732,2024
+675,Candidato_675,Partido D,41,Salvador,Infraestrutura,35998,2020
+676,Candidato_676,Partido A,25,São Paulo,Segurança,38055,2020
+677,Candidato_677,Partido D,49,Rio de Janeiro,Meio Ambiente,13112,2022
+678,Candidato_678,Partido D,67,Manaus,Segurança,40874,2024
+679,Candidato_679,Partido B,64,Manaus,Segurança,10689,2020
+680,Candidato_680,Partido B,66,Manaus,Infraestrutura,45814,2020
+681,Candidato_681,Partido D,49,Rio de Janeiro,Meio Ambiente,20555,2024
+682,Candidato_682,Partido A,63,Rio de Janeiro,Infraestrutura,34919,2020
+683,Candidato_683,Partido C,59,Brasília,Saúde,8619,2024
+684,Candidato_684,Partido D,27,Fortaleza,Economia,7033,2024
+685,Candidato_685,Partido A,61,São Paulo,Segurança,42328,2022
+686,Candidato_686,Partido B,68,Brasília,Economia,5946,2018
+687,Candidato_687,Partido B,68,São Paulo,Infraestrutura,25618,2024
+688,Candidato_688,Partido A,54,Fortaleza,Infraestrutura,35675,2022
+689,Candidato_689,Partido C,62,Rio de Janeiro,Infraestrutura,37258,2018
+690,Candidato_690,Partido B,58,Fortaleza,Economia,19919,2020
+691,Candidato_691,Partido B,36,Rio de Janeiro,Infraestrutura,5173,2018
+692,Candidato_692,Partido B,43,Fortaleza,Saúde,44833,2024
+693,Candidato_693,Partido A,61,Brasília,Infraestrutura,27400,2024
+694,Candidato_694,Partido D,68,Salvador,Educação,5769,2024
+695,Candidato_695,Partido B,41,Brasília,Economia,38564,2024
+696,Candidato_696,Partido D,34,São Paulo,Educação,46814,2024
+697,Candidato_697,Partido C,36,Brasília,Infraestrutura,15211,2022
+698,Candidato_698,Partido B,40,Manaus,Saúde,24255,2024
+699,Candidato_699,Partido B,48,São Paulo,Segurança,28962,2022
+700,Candidato_700,Partido C,43,Fortaleza,Meio Ambiente,20356,2020
+701,Candidato_701,Partido B,32,São Paulo,Meio Ambiente,21306,2024
+702,Candidato_702,Partido D,55,Salvador,Infraestrutura,5997,2024
+703,Candidato_703,Partido A,45,Rio de Janeiro,Saúde,18376,2018
+704,Candidato_704,Partido D,41,Fortaleza,Economia,41880,2020
+705,Candidato_705,Partido A,47,São Paulo,Educação,39055,2024
+706,Candidato_706,Partido A,61,Fortaleza,Educação,11578,2024
+707,Candidato_707,Partido D,40,Fortaleza,Educação,19624,2020
+708,Candidato_708,Partido D,30,Fortaleza,Economia,40194,2022
+709,Candidato_709,Partido D,32,Rio de Janeiro,Meio Ambiente,45367,2024
+710,Candidato_710,Partido D,49,Brasília,Saúde,1389,2018
+711,Candidato_711,Partido C,42,Fortaleza,Economia,34767,2024
+712,Candidato_712,Partido B,49,Manaus,Educação,46580,2018
+713,Candidato_713,Partido A,36,Salvador,Infraestrutura,49367,2018
+714,Candidato_714,Partido D,39,Rio de Janeiro,Segurança,2855,2024
+715,Candidato_715,Partido D,50,São Paulo,Economia,41893,2024
+716,Candidato_716,Partido D,65,Rio de Janeiro,Economia,14794,2018
+717,Candidato_717,Partido C,69,São Paulo,Saúde,36531,2020
+718,Candidato_718,Partido D,50,Rio de Janeiro,Saúde,5986,2020
+719,Candidato_719,Partido D,56,São Paulo,Economia,33298,2024
+720,Candidato_720,Partido D,34,Fortaleza,Educação,2481,2022
+721,Candidato_721,Partido B,40,Brasília,Segurança,4731,2020
+722,Candidato_722,Partido C,31,São Paulo,Saúde,17835,2024
+723,Candidato_723,Partido D,41,São Paulo,Educação,28798,2020
+724,Candidato_724,Partido A,47,Manaus,Infraestrutura,27113,2022
+725,Candidato_725,Partido A,50,São Paulo,Saúde,20477,2024
+726,Candidato_726,Partido A,45,Manaus,Educação,18266,2022
+727,Candidato_727,Partido C,46,Salvador,Educação,21792,2024
+728,Candidato_728,Partido C,31,Fortaleza,Segurança,21452,2022
+729,Candidato_729,Partido A,38,Manaus,Segurança,44526,2020
+730,Candidato_730,Partido D,39,Brasília,Infraestrutura,42334,2020
+731,Candidato_731,Partido C,31,Fortaleza,Educação,12889,2022
+732,Candidato_732,Partido A,33,Manaus,Meio Ambiente,25335,2022
+733,Candidato_733,Partido A,32,Fortaleza,Educação,12254,2022
+734,Candidato_734,Partido D,47,Fortaleza,Segurança,22074,2024
+735,Candidato_735,Partido B,53,Fortaleza,Meio Ambiente,12442,2020
+736,Candidato_736,Partido C,42,Salvador,Saúde,47289,2024
+737,Candidato_737,Partido D,55,Brasília,Saúde,38327,2020
+738,Candidato_738,Partido A,54,Rio de Janeiro,Economia,17199,2018
+739,Candidato_739,Partido A,63,Rio de Janeiro,Segurança,8291,2024
+740,Candidato_740,Partido D,59,Manaus,Economia,41928,2020
+741,Candidato_741,Partido C,42,Fortaleza,Meio Ambiente,1112,2020
+742,Candidato_742,Partido B,66,Manaus,Segurança,22515,2024
+743,Candidato_743,Partido B,63,Salvador,Infraestrutura,20581,2024
+744,Candidato_744,Partido A,41,Salvador,Educação,49692,2020
+745,Candidato_745,Partido C,38,São Paulo,Infraestrutura,27500,2024
+746,Candidato_746,Partido B,55,Salvador,Meio Ambiente,33026,2022
+747,Candidato_747,Partido C,48,São Paulo,Segurança,17523,2024
+748,Candidato_748,Partido C,59,Brasília,Meio Ambiente,2424,2024
+749,Candidato_749,Partido A,68,Manaus,Educação,20552,2024
+750,Candidato_750,Partido B,69,Brasília,Saúde,11808,2020
+751,Candidato_751,Partido D,58,Salvador,Saúde,39811,2022
+752,Candidato_752,Partido A,27,Brasília,Meio Ambiente,7989,2018
+753,Candidato_753,Partido B,61,Brasília,Economia,24620,2018
+754,Candidato_754,Partido B,67,Brasília,Segurança,40029,2022
+755,Candidato_755,Partido B,64,Salvador,Segurança,1887,2022
+756,Candidato_756,Partido B,50,Fortaleza,Saúde,32802,2022
+757,Candidato_757,Partido B,47,Brasília,Infraestrutura,20488,2020
+758,Candidato_758,Partido C,68,São Paulo,Educação,31013,2018
+759,Candidato_759,Partido A,63,Salvador,Infraestrutura,17402,2022
+760,Candidato_760,Partido C,39,Brasília,Infraestrutura,22205,2020
+761,Candidato_761,Partido D,28,Fortaleza,Meio Ambiente,27049,2018
+762,Candidato_762,Partido B,53,Salvador,Saúde,13253,2024
+763,Candidato_763,Partido A,46,Rio de Janeiro,Saúde,19990,2020
+764,Candidato_764,Partido B,49,Fortaleza,Saúde,8846,2018
+765,Candidato_765,Partido A,37,São Paulo,Meio Ambiente,26027,2020
+766,Candidato_766,Partido C,42,Brasília,Economia,40200,2018
+767,Candidato_767,Partido A,57,Rio de Janeiro,Infraestrutura,47220,2018
+768,Candidato_768,Partido D,40,Rio de Janeiro,Meio Ambiente,47163,2024
+769,Candidato_769,Partido D,69,Salvador,Segurança,4765,2020
+770,Candidato_770,Partido A,66,Rio de Janeiro,Educação,16950,2022
+771,Candidato_771,Partido A,68,São Paulo,Economia,46270,2024
+772,Candidato_772,Partido A,26,São Paulo,Segurança,10741,2024
+773,Candidato_773,Partido A,59,Manaus,Infraestrutura,23742,2018
+774,Candidato_774,Partido D,66,São Paulo,Saúde,25703,2022
+775,Candidato_775,Partido B,58,Fortaleza,Infraestrutura,39709,2020
+776,Candidato_776,Partido A,54,Rio de Janeiro,Meio Ambiente,38623,2022
+777,Candidato_777,Partido A,37,São Paulo,Educação,23931,2022
+778,Candidato_778,Partido D,37,Salvador,Meio Ambiente,24580,2022
+779,Candidato_779,Partido D,42,Manaus,Economia,16166,2022
+780,Candidato_780,Partido C,56,Rio de Janeiro,Economia,30240,2022
+781,Candidato_781,Partido A,56,Manaus,Educação,26991,2018
+782,Candidato_782,Partido C,59,Rio de Janeiro,Segurança,39556,2018
+783,Candidato_783,Partido D,63,Salvador,Segurança,33969,2024
+784,Candidato_784,Partido D,53,Manaus,Economia,11561,2018
+785,Candidato_785,Partido B,53,Brasília,Economia,17901,2024
+786,Candidato_786,Partido A,68,Fortaleza,Saúde,41505,2024
+787,Candidato_787,Partido C,40,Fortaleza,Segurança,31020,2020
+788,Candidato_788,Partido D,68,Rio de Janeiro,Educação,26917,2022
+789,Candidato_789,Partido D,34,Brasília,Segurança,2988,2018
+790,Candidato_790,Partido C,54,Manaus,Saúde,49209,2020
+791,Candidato_791,Partido B,49,Brasília,Meio Ambiente,45505,2018
+792,Candidato_792,Partido D,63,Brasília,Economia,15256,2024
+793,Candidato_793,Partido A,44,Manaus,Economia,23192,2018
+794,Candidato_794,Partido D,29,Salvador,Saúde,29230,2022
+795,Candidato_795,Partido A,25,Brasília,Educação,40930,2024
+796,Candidato_796,Partido C,54,Brasília,Economia,46833,2024
+797,Candidato_797,Partido A,27,Salvador,Infraestrutura,23625,2020
+798,Candidato_798,Partido C,69,Brasília,Economia,33088,2022
+799,Candidato_799,Partido A,38,Brasília,Infraestrutura,15114,2024
+800,Candidato_800,Partido C,54,Brasília,Saúde,42167,2022
+801,Candidato_801,Partido A,28,Fortaleza,Saúde,39401,2018
+802,Candidato_802,Partido B,42,São Paulo,Economia,6755,2022
+803,Candidato_803,Partido A,61,Salvador,Segurança,11825,2024
+804,Candidato_804,Partido A,49,Brasília,Infraestrutura,23693,2020
+805,Candidato_805,Partido B,25,Fortaleza,Educação,5117,2024
+806,Candidato_806,Partido D,39,Salvador,Economia,25729,2022
+807,Candidato_807,Partido D,33,Rio de Janeiro,Educação,33182,2022
+808,Candidato_808,Partido A,39,Rio de Janeiro,Economia,29890,2024
+809,Candidato_809,Partido B,48,Brasília,Segurança,30340,2022
+810,Candidato_810,Partido A,28,Fortaleza,Segurança,2518,2018
+811,Candidato_811,Partido C,36,Fortaleza,Segurança,31949,2024
+812,Candidato_812,Partido C,61,Salvador,Meio Ambiente,23547,2020
+813,Candidato_813,Partido A,61,Salvador,Segurança,17346,2024
+814,Candidato_814,Partido D,67,Fortaleza,Saúde,3600,2018
+815,Candidato_815,Partido D,30,Salvador,Saúde,47005,2018
+816,Candidato_816,Partido A,63,Fortaleza,Meio Ambiente,30267,2018
+817,Candidato_817,Partido A,48,São Paulo,Infraestrutura,37322,2018
+818,Candidato_818,Partido C,35,Fortaleza,Educação,27990,2018
+819,Candidato_819,Partido D,37,Rio de Janeiro,Economia,17193,2020
+820,Candidato_820,Partido A,58,Salvador,Economia,31109,2022
+821,Candidato_821,Partido C,49,Fortaleza,Meio Ambiente,20233,2018
+822,Candidato_822,Partido D,31,Fortaleza,Saúde,49021,2018
+823,Candidato_823,Partido B,28,Salvador,Economia,17194,2024
+824,Candidato_824,Partido C,32,São Paulo,Saúde,35510,2020
+825,Candidato_825,Partido D,44,São Paulo,Infraestrutura,2306,2020
+826,Candidato_826,Partido D,53,Salvador,Educação,4849,2022
+827,Candidato_827,Partido C,69,Manaus,Infraestrutura,13360,2020
+828,Candidato_828,Partido B,34,Salvador,Meio Ambiente,46536,2024
+829,Candidato_829,Partido C,67,Salvador,Segurança,30231,2024
+830,Candidato_830,Partido D,58,São Paulo,Segurança,46800,2022
+831,Candidato_831,Partido A,50,São Paulo,Segurança,37963,2024
+832,Candidato_832,Partido A,65,Salvador,Infraestrutura,19689,2018
+833,Candidato_833,Partido C,27,Salvador,Economia,30084,2018
+834,Candidato_834,Partido D,30,Salvador,Educação,41387,2024
+835,Candidato_835,Partido A,29,São Paulo,Segurança,10280,2022
+836,Candidato_836,Partido D,29,Salvador,Meio Ambiente,3642,2020
+837,Candidato_837,Partido C,47,Salvador,Meio Ambiente,43137,2022
+838,Candidato_838,Partido A,33,Brasília,Segurança,15296,2020
+839,Candidato_839,Partido D,59,Manaus,Segurança,16438,2024
+840,Candidato_840,Partido A,44,Rio de Janeiro,Educação,49442,2024
+841,Candidato_841,Partido C,66,Manaus,Segurança,38525,2018
+842,Candidato_842,Partido D,59,Brasília,Educação,3994,2020
+843,Candidato_843,Partido A,42,Rio de Janeiro,Meio Ambiente,48994,2022
+844,Candidato_844,Partido C,41,Salvador,Segurança,35039,2024
+845,Candidato_845,Partido A,48,Brasília,Infraestrutura,2813,2022
+846,Candidato_846,Partido A,27,Salvador,Infraestrutura,28491,2018
+847,Candidato_847,Partido B,56,São Paulo,Meio Ambiente,19845,2020
+848,Candidato_848,Partido B,59,Fortaleza,Educação,42243,2020
+849,Candidato_849,Partido C,62,Brasília,Infraestrutura,38164,2024
+850,Candidato_850,Partido B,37,São Paulo,Educação,43051,2020
+851,Candidato_851,Partido C,49,Brasília,Infraestrutura,14318,2024
+852,Candidato_852,Partido B,33,Brasília,Infraestrutura,18200,2018
+853,Candidato_853,Partido A,28,São Paulo,Educação,1082,2020
+854,Candidato_854,Partido C,38,Rio de Janeiro,Economia,2920,2024
+855,Candidato_855,Partido C,61,Manaus,Infraestrutura,41585,2022
+856,Candidato_856,Partido A,58,Salvador,Segurança,12683,2024
+857,Candidato_857,Partido C,35,Brasília,Meio Ambiente,12336,2020
+858,Candidato_858,Partido C,65,Salvador,Economia,16596,2018
+859,Candidato_859,Partido B,27,Fortaleza,Educação,3093,2020
+860,Candidato_860,Partido C,52,São Paulo,Economia,13905,2020
+861,Candidato_861,Partido D,53,Salvador,Saúde,25351,2024
+862,Candidato_862,Partido A,33,São Paulo,Saúde,31981,2022
+863,Candidato_863,Partido B,27,Salvador,Infraestrutura,9367,2020
+864,Candidato_864,Partido B,49,Manaus,Infraestrutura,6285,2022
+865,Candidato_865,Partido D,58,Manaus,Segurança,44664,2024
+866,Candidato_866,Partido A,36,Manaus,Meio Ambiente,38705,2022
+867,Candidato_867,Partido A,66,Manaus,Economia,17753,2024
+868,Candidato_868,Partido B,33,Manaus,Saúde,19485,2018
+869,Candidato_869,Partido C,39,Manaus,Infraestrutura,13977,2022
+870,Candidato_870,Partido B,64,São Paulo,Meio Ambiente,20874,2022
+871,Candidato_871,Partido A,49,Brasília,Economia,8674,2018
+872,Candidato_872,Partido D,29,Salvador,Infraestrutura,30038,2022
+873,Candidato_873,Partido B,35,Manaus,Infraestrutura,30315,2018
+874,Candidato_874,Partido A,58,São Paulo,Saúde,4676,2020
+875,Candidato_875,Partido B,48,São Paulo,Saúde,3426,2024
+876,Candidato_876,Partido C,39,São Paulo,Infraestrutura,25473,2018
+877,Candidato_877,Partido B,62,Brasília,Educação,3962,2022
+878,Candidato_878,Partido B,32,Salvador,Infraestrutura,30943,2018
+879,Candidato_879,Partido A,29,Brasília,Meio Ambiente,1859,2022
+880,Candidato_880,Partido A,50,Rio de Janeiro,Infraestrutura,45816,2020
+881,Candidato_881,Partido A,42,São Paulo,Segurança,5138,2018
+882,Candidato_882,Partido B,30,Rio de Janeiro,Segurança,36192,2020
+883,Candidato_883,Partido C,61,Fortaleza,Segurança,26640,2024
+884,Candidato_884,Partido D,37,Manaus,Educação,11409,2022
+885,Candidato_885,Partido D,52,Manaus,Educação,5017,2022
+886,Candidato_886,Partido A,29,Brasília,Infraestrutura,11451,2020
+887,Candidato_887,Partido A,37,Salvador,Segurança,29327,2024
+888,Candidato_888,Partido B,41,Rio de Janeiro,Educação,11278,2018
+889,Candidato_889,Partido D,64,Salvador,Saúde,25944,2018
+890,Candidato_890,Partido A,69,Brasília,Infraestrutura,44764,2022
+891,Candidato_891,Partido C,56,Manaus,Meio Ambiente,2134,2020
+892,Candidato_892,Partido C,53,Salvador,Economia,31131,2020
+893,Candidato_893,Partido A,27,Salvador,Infraestrutura,38887,2018
+894,Candidato_894,Partido A,64,Manaus,Economia,39462,2024
+895,Candidato_895,Partido D,58,Rio de Janeiro,Segurança,23520,2024
+896,Candidato_896,Partido D,64,Manaus,Economia,22869,2018
+897,Candidato_897,Partido B,51,Salvador,Segurança,37932,2018
+898,Candidato_898,Partido D,37,Rio de Janeiro,Saúde,6039,2020
+899,Candidato_899,Partido C,69,Rio de Janeiro,Economia,22281,2024
+900,Candidato_900,Partido C,57,Manaus,Infraestrutura,48399,2018
+901,Candidato_901,Partido A,30,Salvador,Segurança,11442,2018
+902,Candidato_902,Partido D,48,Brasília,Infraestrutura,9252,2022
+903,Candidato_903,Partido B,43,Salvador,Educação,28586,2018
+904,Candidato_904,Partido C,40,São Paulo,Segurança,18568,2018
+905,Candidato_905,Partido C,64,Fortaleza,Economia,21810,2024
+906,Candidato_906,Partido B,52,Brasília,Segurança,2551,2020
+907,Candidato_907,Partido B,57,Rio de Janeiro,Infraestrutura,13625,2024
+908,Candidato_908,Partido C,65,Brasília,Saúde,35397,2020
+909,Candidato_909,Partido C,37,Rio de Janeiro,Segurança,27249,2022
+910,Candidato_910,Partido B,67,Rio de Janeiro,Economia,2361,2018
+911,Candidato_911,Partido C,69,Brasília,Educação,27149,2022
+912,Candidato_912,Partido A,49,Rio de Janeiro,Meio Ambiente,5370,2020
+913,Candidato_913,Partido A,66,Rio de Janeiro,Saúde,6283,2024
+914,Candidato_914,Partido B,60,São Paulo,Educação,8610,2024
+915,Candidato_915,Partido D,51,Salvador,Segurança,44326,2022
+916,Candidato_916,Partido B,62,Salvador,Infraestrutura,15924,2020
+917,Candidato_917,Partido B,31,Fortaleza,Infraestrutura,48607,2022
+918,Candidato_918,Partido D,29,Fortaleza,Economia,45717,2022
+919,Candidato_919,Partido D,67,São Paulo,Infraestrutura,11626,2018
+920,Candidato_920,Partido D,69,Fortaleza,Saúde,35761,2022
+921,Candidato_921,Partido A,55,Brasília,Infraestrutura,1869,2018
+922,Candidato_922,Partido C,47,Manaus,Economia,32552,2018
+923,Candidato_923,Partido A,66,Manaus,Meio Ambiente,2014,2024
+924,Candidato_924,Partido C,34,Manaus,Segurança,11103,2018
+925,Candidato_925,Partido A,56,São Paulo,Segurança,17986,2018
+926,Candidato_926,Partido C,67,São Paulo,Infraestrutura,45781,2024
+927,Candidato_927,Partido A,54,Rio de Janeiro,Educação,31471,2022
+928,Candidato_928,Partido D,63,Manaus,Segurança,34458,2020
+929,Candidato_929,Partido B,55,Brasília,Meio Ambiente,26069,2020
+930,Candidato_930,Partido A,42,Fortaleza,Infraestrutura,17873,2020
+931,Candidato_931,Partido C,60,Brasília,Economia,24248,2022
+932,Candidato_932,Partido D,26,Fortaleza,Meio Ambiente,24624,2018
+933,Candidato_933,Partido A,38,Manaus,Infraestrutura,44516,2020
+934,Candidato_934,Partido A,37,Manaus,Meio Ambiente,30061,2022
+935,Candidato_935,Partido D,53,Manaus,Segurança,25170,2018
+936,Candidato_936,Partido A,36,São Paulo,Economia,9024,2024
+937,Candidato_937,Partido B,63,Fortaleza,Infraestrutura,17678,2020
+938,Candidato_938,Partido A,26,São Paulo,Saúde,39256,2018
+939,Candidato_939,Partido B,56,São Paulo,Economia,21411,2020
+940,Candidato_940,Partido B,37,Salvador,Saúde,44803,2020
+941,Candidato_941,Partido D,51,Brasília,Meio Ambiente,20296,2020
+942,Candidato_942,Partido A,65,Brasília,Educação,27293,2018
+943,Candidato_943,Partido D,41,Rio de Janeiro,Economia,28172,2022
+944,Candidato_944,Partido A,64,São Paulo,Meio Ambiente,22128,2018
+945,Candidato_945,Partido A,55,Fortaleza,Saúde,19257,2020
+946,Candidato_946,Partido C,58,Salvador,Segurança,13855,2018
+947,Candidato_947,Partido A,48,Salvador,Segurança,20642,2024
+948,Candidato_948,Partido D,69,Brasília,Educação,36585,2022
+949,Candidato_949,Partido B,59,São Paulo,Economia,21025,2018
+950,Candidato_950,Partido A,30,Rio de Janeiro,Economia,5458,2024
+951,Candidato_951,Partido C,43,São Paulo,Economia,6307,2022
+952,Candidato_952,Partido D,54,Manaus,Meio Ambiente,42701,2024
+953,Candidato_953,Partido A,31,São Paulo,Educação,19425,2022
+954,Candidato_954,Partido D,34,Manaus,Economia,44427,2018
+955,Candidato_955,Partido C,65,Manaus,Meio Ambiente,29273,2024
+956,Candidato_956,Partido C,56,Rio de Janeiro,Segurança,39506,2020
+957,Candidato_957,Partido D,58,Fortaleza,Saúde,6668,2024
+958,Candidato_958,Partido A,52,Brasília,Meio Ambiente,26934,2022
+959,Candidato_959,Partido B,39,São Paulo,Segurança,48195,2018
+960,Candidato_960,Partido C,54,Manaus,Segurança,8697,2022
+961,Candidato_961,Partido A,61,São Paulo,Saúde,25417,2024
+962,Candidato_962,Partido A,53,Fortaleza,Segurança,17446,2024
+963,Candidato_963,Partido B,46,Brasília,Educação,41597,2020
+964,Candidato_964,Partido C,28,Fortaleza,Saúde,11751,2018
+965,Candidato_965,Partido C,44,Brasília,Segurança,47218,2018
+966,Candidato_966,Partido A,56,Salvador,Infraestrutura,8352,2024
+967,Candidato_967,Partido A,60,Brasília,Meio Ambiente,14516,2018
+968,Candidato_968,Partido B,28,Rio de Janeiro,Segurança,24299,2020
+969,Candidato_969,Partido B,51,Fortaleza,Educação,32957,2022
+970,Candidato_970,Partido C,41,Manaus,Economia,29927,2018
+971,Candidato_971,Partido D,36,Salvador,Segurança,42094,2024
+972,Candidato_972,Partido C,46,Rio de Janeiro,Economia,37412,2022
+973,Candidato_973,Partido A,41,São Paulo,Infraestrutura,30493,2022
+974,Candidato_974,Partido C,34,Fortaleza,Segurança,27711,2020
+975,Candidato_975,Partido D,25,Manaus,Saúde,9003,2024
+976,Candidato_976,Partido B,46,Brasília,Economia,32707,2018
+977,Candidato_977,Partido D,50,Manaus,Infraestrutura,4278,2024
+978,Candidato_978,Partido D,42,São Paulo,Saúde,8296,2022
+979,Candidato_979,Partido D,38,Salvador,Saúde,26398,2024
+980,Candidato_980,Partido B,53,Salvador,Saúde,36842,2018
+981,Candidato_981,Partido D,36,Fortaleza,Saúde,14261,2018
+982,Candidato_982,Partido D,60,Salvador,Segurança,12173,2020
+983,Candidato_983,Partido D,59,Fortaleza,Meio Ambiente,31449,2018
+984,Candidato_984,Partido A,36,Fortaleza,Segurança,42080,2018
+985,Candidato_985,Partido D,31,Fortaleza,Segurança,2637,2024
+986,Candidato_986,Partido B,53,Brasília,Infraestrutura,32781,2024
+987,Candidato_987,Partido D,35,Rio de Janeiro,Infraestrutura,14652,2022
+988,Candidato_988,Partido D,57,Fortaleza,Meio Ambiente,6103,2020
+989,Candidato_989,Partido B,30,Fortaleza,Infraestrutura,26500,2024
+990,Candidato_990,Partido D,39,Rio de Janeiro,Educação,35800,2018
+991,Candidato_991,Partido B,56,Manaus,Meio Ambiente,36529,2022
+992,Candidato_992,Partido D,35,Fortaleza,Infraestrutura,48963,2024
+993,Candidato_993,Partido B,47,Brasília,Meio Ambiente,19452,2020
+994,Candidato_994,Partido D,50,Salvador,Segurança,32174,2020
+995,Candidato_995,Partido D,58,Salvador,Segurança,36436,2022
+996,Candidato_996,Partido A,58,São Paulo,Meio Ambiente,48406,2022
+997,Candidato_997,Partido A,53,São Paulo,Educação,16954,2022
+998,Candidato_998,Partido D,28,Salvador,Educação,18186,2022
+999,Candidato_999,Partido D,41,Salvador,Meio Ambiente,13356,2022
+1000,Candidato_1000,Partido C,59,Brasília,Infraestrutura,33963,2018
