@@ -1,0 +1,1001 @@
+id_evento;cidade;tema;participantes;ano
+1;Rio de Janeiro;Transporte;132;2021
+2;Rio de Janeiro;Habitação;429;2023
+3;Rio de Janeiro;Saúde;117;2023
+4;Curitiba;Educação;413;2021
+5;Brasília;Habitação;371;2022
+6;São Paulo;Habitação;124;2021
+7;Rio de Janeiro;Saúde;497;2023
+8;São Paulo;Segurança;199;2024
+9;Belo Horizonte;Saúde;227;2025
+10;Rio de Janeiro;Educação;221;2021
+11;Rio de Janeiro;Segurança;375;2021
+12;Rio de Janeiro;Segurança;318;2021
+13;Belo Horizonte;Saúde;455;2025
+14;Brasília;Educação;466;2025
+15;Brasília;Habitação;115;2023
+16;Belo Horizonte;Educação;372;2023
+17;São Paulo;Transporte;178;2025
+18;Belo Horizonte;Saúde;311;2023
+19;São Paulo;Educação;235;2021
+20;Curitiba;Habitação;462;2024
+21;Curitiba;Educação;289;2021
+22;Belo Horizonte;Transporte;340;2023
+23;São Paulo;Segurança;204;2022
+24;Brasília;Transporte;351;2025
+25;Belo Horizonte;Saúde;339;2022
+26;Belo Horizonte;Saúde;270;2024
+27;São Paulo;Educação;322;2025
+28;São Paulo;Segurança;90;2025
+29;Belo Horizonte;Saúde;496;2022
+30;Brasília;Saúde;489;2024
+31;Brasília;Transporte;320;2025
+32;Brasília;Educação;220;2023
+33;Curitiba;Saúde;175;2023
+34;Brasília;Segurança;228;2025
+35;Belo Horizonte;Habitação;204;2021
+36;Rio de Janeiro;Transporte;177;2022
+37;São Paulo;Educação;485;2022
+38;São Paulo;Saúde;324;2025
+39;São Paulo;Educação;113;2023
+40;Brasília;Saúde;143;2025
+41;Rio de Janeiro;Transporte;352;2022
+42;Brasília;Habitação;406;2023
+43;São Paulo;Habitação;185;2025
+44;Belo Horizonte;Segurança;359;2022
+45;São Paulo;Segurança;428;2025
+46;Belo Horizonte;Segurança;140;2021
+47;Curitiba;Saúde;295;2024
+48;Rio de Janeiro;Segurança;68;2023
+49;Belo Horizonte;Transporte;88;2025
+50;Belo Horizonte;Educação;366;2023
+51;Rio de Janeiro;Segurança;300;2024
+52;Curitiba;Educação;159;2022
+53;Rio de Janeiro;Segurança;324;2023
+54;São Paulo;Transporte;210;2023
+55;Rio de Janeiro;Segurança;380;2024
+56;São Paulo;Transporte;156;2022
+57;São Paulo;Educação;152;2024
+58;São Paulo;Habitação;124;2025
+59;Brasília;Saúde;388;2024
+60;Belo Horizonte;Transporte;81;2022
+61;Brasília;Transporte;138;2021
+62;Rio de Janeiro;Transporte;123;2021
+63;São Paulo;Educação;334;2022
+64;Brasília;Segurança;213;2023
+65;Brasília;Segurança;397;2025
+66;Rio de Janeiro;Transporte;195;2025
+67;São Paulo;Saúde;397;2021
+68;São Paulo;Segurança;253;2025
+69;São Paulo;Habitação;343;2021
+70;Rio de Janeiro;Habitação;27;2025
+71;São Paulo;Saúde;278;2021
+72;Brasília;Habitação;419;2022
+73;Curitiba;Transporte;410;2022
+74;Curitiba;Transporte;342;2022
+75;Brasília;Segurança;210;2022
+76;São Paulo;Educação;286;2023
+77;Brasília;Transporte;273;2024
+78;Curitiba;Habitação;275;2023
+79;Belo Horizonte;Educação;110;2024
+80;Brasília;Habitação;384;2024
+81;Curitiba;Saúde;190;2021
+82;Belo Horizonte;Educação;151;2021
+83;Curitiba;Habitação;429;2022
+84;Curitiba;Habitação;372;2025
+85;Brasília;Transporte;31;2025
+86;Brasília;Transporte;332;2024
+87;Rio de Janeiro;Transporte;51;2022
+88;Curitiba;Transporte;166;2022
+89;Curitiba;Habitação;365;2023
+90;Belo Horizonte;Transporte;321;2025
+91;Belo Horizonte;Habitação;181;2022
+92;Belo Horizonte;Segurança;252;2024
+93;Rio de Janeiro;Transporte;54;2023
+94;Curitiba;Habitação;238;2022
+95;São Paulo;Segurança;161;2025
+96;Rio de Janeiro;Habitação;175;2022
+97;Brasília;Transporte;184;2023
+98;São Paulo;Habitação;429;2022
+99;Belo Horizonte;Saúde;244;2021
+100;Belo Horizonte;Habitação;272;2021
+101;Curitiba;Transporte;100;2025
+102;São Paulo;Saúde;103;2025
+103;Curitiba;Educação;78;2022
+104;Curitiba;Educação;378;2021
+105;Brasília;Segurança;94;2023
+106;Curitiba;Educação;46;2023
+107;São Paulo;Educação;205;2021
+108;São Paulo;Segurança;293;2021
+109;Rio de Janeiro;Segurança;205;2025
+110;Rio de Janeiro;Educação;349;2022
+111;Rio de Janeiro;Segurança;343;2025
+112;Rio de Janeiro;Habitação;406;2023
+113;Brasília;Transporte;388;2023
+114;Curitiba;Habitação;233;2023
+115;Rio de Janeiro;Educação;50;2023
+116;Rio de Janeiro;Educação;70;2025
+117;Curitiba;Saúde;221;2023
+118;Curitiba;Transporte;295;2023
+119;São Paulo;Educação;286;2022
+120;Curitiba;Segurança;399;2025
+121;São Paulo;Segurança;232;2021
+122;São Paulo;Saúde;84;2022
+123;Curitiba;Transporte;119;2024
+124;São Paulo;Habitação;449;2024
+125;São Paulo;Transporte;449;2022
+126;Rio de Janeiro;Transporte;374;2023
+127;Belo Horizonte;Transporte;373;2025
+128;Belo Horizonte;Habitação;313;2025
+129;Rio de Janeiro;Transporte;58;2023
+130;Belo Horizonte;Transporte;405;2024
+131;São Paulo;Segurança;327;2023
+132;Rio de Janeiro;Saúde;58;2025
+133;São Paulo;Segurança;36;2024
+134;Rio de Janeiro;Saúde;385;2023
+135;Belo Horizonte;Transporte;192;2025
+136;Brasília;Segurança;85;2022
+137;Curitiba;Segurança;137;2022
+138;Brasília;Transporte;174;2025
+139;Belo Horizonte;Segurança;300;2021
+140;Rio de Janeiro;Transporte;380;2021
+141;Curitiba;Habitação;441;2024
+142;Belo Horizonte;Transporte;208;2024
+143;Belo Horizonte;Saúde;78;2025
+144;Curitiba;Segurança;456;2021
+145;São Paulo;Transporte;453;2024
+146;Brasília;Educação;316;2023
+147;Curitiba;Transporte;335;2024
+148;Rio de Janeiro;Saúde;69;2024
+149;Brasília;Segurança;438;2022
+150;Belo Horizonte;Educação;433;2023
+151;Brasília;Transporte;68;2021
+152;Curitiba;Transporte;200;2023
+153;Brasília;Saúde;99;2023
+154;Rio de Janeiro;Transporte;155;2024
+155;Belo Horizonte;Transporte;111;2023
+156;Rio de Janeiro;Transporte;32;2022
+157;São Paulo;Educação;292;2025
+158;Rio de Janeiro;Saúde;456;2021
+159;São Paulo;Saúde;75;2024
+160;Belo Horizonte;Transporte;445;2025
+161;Rio de Janeiro;Saúde;439;2023
+162;Curitiba;Saúde;262;2025
+163;Brasília;Segurança;48;2025
+164;Brasília;Habitação;244;2025
+165;Rio de Janeiro;Segurança;125;2023
+166;São Paulo;Habitação;500;2025
+167;São Paulo;Segurança;152;2022
+168;Curitiba;Habitação;177;2023
+169;São Paulo;Transporte;441;2021
+170;Belo Horizonte;Transporte;476;2024
+171;Belo Horizonte;Segurança;131;2024
+172;Curitiba;Habitação;406;2023
+173;São Paulo;Saúde;291;2022
+174;São Paulo;Segurança;448;2025
+175;Belo Horizonte;Transporte;409;2025
+176;Curitiba;Saúde;67;2024
+177;Brasília;Habitação;136;2021
+178;Curitiba;Habitação;288;2025
+179;Brasília;Transporte;81;2025
+180;Rio de Janeiro;Transporte;45;2025
+181;Rio de Janeiro;Segurança;476;2021
+182;Rio de Janeiro;Transporte;274;2022
+183;Brasília;Transporte;376;2025
+184;Curitiba;Segurança;61;2022
+185;São Paulo;Segurança;217;2025
+186;Belo Horizonte;Transporte;394;2023
+187;Belo Horizonte;Transporte;439;2021
+188;Curitiba;Educação;367;2022
+189;Curitiba;Segurança;88;2022
+190;São Paulo;Educação;168;2021
+191;São Paulo;Segurança;270;2023
+192;Rio de Janeiro;Habitação;367;2021
+193;Rio de Janeiro;Segurança;72;2021
+194;São Paulo;Educação;156;2022
+195;Curitiba;Habitação;393;2022
+196;Belo Horizonte;Segurança;348;2023
+197;São Paulo;Habitação;137;2023
+198;Belo Horizonte;Transporte;394;2025
+199;Brasília;Transporte;351;2024
+200;Rio de Janeiro;Educação;367;2021
+201;Curitiba;Segurança;243;2023
+202;Belo Horizonte;Habitação;42;2025
+203;Brasília;Habitação;294;2025
+204;Rio de Janeiro;Habitação;395;2025
+205;São Paulo;Transporte;319;2022
+206;Rio de Janeiro;Transporte;264;2023
+207;Brasília;Saúde;376;2025
+208;Brasília;Educação;344;2022
+209;Brasília;Habitação;492;2024
+210;São Paulo;Habitação;487;2025
+211;Curitiba;Educação;95;2022
+212;Curitiba;Segurança;113;2024
+213;Curitiba;Segurança;90;2022
+214;São Paulo;Educação;486;2022
+215;Brasília;Saúde;387;2025
+216;Rio de Janeiro;Saúde;184;2022
+217;Curitiba;Educação;329;2025
+218;Belo Horizonte;Transporte;86;2024
+219;São Paulo;Saúde;473;2023
+220;Rio de Janeiro;Educação;140;2025
+221;Curitiba;Segurança;396;2022
+222;São Paulo;Saúde;367;2021
+223;Brasília;Educação;220;2024
+224;Curitiba;Transporte;294;2021
+225;Rio de Janeiro;Segurança;23;2021
+226;Rio de Janeiro;Transporte;434;2021
+227;Belo Horizonte;Saúde;25;2023
+228;Curitiba;Educação;266;2022
+229;Brasília;Habitação;300;2025
+230;São Paulo;Segurança;305;2021
+231;Brasília;Educação;385;2021
+232;Brasília;Habitação;248;2023
+233;Rio de Janeiro;Habitação;343;2021
+234;São Paulo;Saúde;311;2024
+235;São Paulo;Transporte;332;2023
+236;São Paulo;Transporte;102;2023
+237;Curitiba;Educação;471;2025
+238;Rio de Janeiro;Habitação;209;2023
+239;Rio de Janeiro;Habitação;381;2025
+240;Rio de Janeiro;Educação;162;2025
+241;Rio de Janeiro;Habitação;240;2025
+242;Rio de Janeiro;Segurança;244;2025
+243;Rio de Janeiro;Segurança;363;2025
+244;Rio de Janeiro;Habitação;433;2023
+245;Brasília;Educação;480;2023
+246;Brasília;Habitação;447;2023
+247;Brasília;Habitação;439;2023
+248;Rio de Janeiro;Habitação;451;2022
+249;Curitiba;Segurança;283;2021
+250;Curitiba;Educação;305;2021
+251;Rio de Janeiro;Habitação;108;2025
+252;Rio de Janeiro;Transporte;443;2021
+253;Rio de Janeiro;Transporte;214;2024
+254;Rio de Janeiro;Habitação;90;2025
+255;Rio de Janeiro;Educação;351;2025
+256;Rio de Janeiro;Saúde;70;2024
+257;Belo Horizonte;Habitação;339;2025
+258;São Paulo;Saúde;269;2024
+259;Belo Horizonte;Transporte;56;2021
+260;Brasília;Saúde;232;2023
+261;São Paulo;Habitação;206;2023
+262;Rio de Janeiro;Habitação;131;2024
+263;Belo Horizonte;Transporte;187;2023
+264;Curitiba;Educação;41;2023
+265;Curitiba;Educação;398;2022
+266;Belo Horizonte;Saúde;497;2025
+267;Curitiba;Educação;293;2022
+268;São Paulo;Transporte;77;2023
+269;Brasília;Segurança;335;2021
+270;Curitiba;Transporte;242;2022
+271;Rio de Janeiro;Habitação;21;2021
+272;Rio de Janeiro;Educação;217;2022
+273;Belo Horizonte;Educação;117;2023
+274;São Paulo;Segurança;167;2023
+275;Belo Horizonte;Transporte;392;2024
+276;São Paulo;Saúde;387;2022
+277;Rio de Janeiro;Saúde;478;2022
+278;São Paulo;Educação;130;2025
+279;Brasília;Transporte;230;2024
+280;Rio de Janeiro;Saúde;185;2024
+281;São Paulo;Habitação;337;2022
+282;São Paulo;Saúde;479;2021
+283;Curitiba;Educação;301;2021
+284;São Paulo;Educação;103;2024
+285;Curitiba;Saúde;306;2021
+286;Brasília;Educação;223;2022
+287;Rio de Janeiro;Habitação;450;2021
+288;Curitiba;Segurança;444;2021
+289;Brasília;Habitação;51;2021
+290;Curitiba;Habitação;180;2024
+291;Brasília;Transporte;145;2021
+292;Brasília;Educação;228;2023
+293;Rio de Janeiro;Transporte;444;2021
+294;Belo Horizonte;Educação;166;2024
+295;São Paulo;Transporte;79;2021
+296;São Paulo;Segurança;230;2025
+297;Belo Horizonte;Educação;211;2024
+298;Curitiba;Educação;468;2025
+299;Belo Horizonte;Transporte;185;2024
+300;Belo Horizonte;Transporte;477;2021
+301;São Paulo;Transporte;113;2025
+302;Curitiba;Educação;285;2025
+303;São Paulo;Educação;444;2023
+304;Curitiba;Segurança;211;2022
+305;Rio de Janeiro;Saúde;279;2024
+306;São Paulo;Transporte;475;2024
+307;Belo Horizonte;Transporte;450;2022
+308;Belo Horizonte;Habitação;333;2021
+309;São Paulo;Transporte;344;2024
+310;Rio de Janeiro;Segurança;83;2025
+311;Brasília;Habitação;163;2022
+312;Rio de Janeiro;Transporte;66;2024
+313;Brasília;Educação;274;2023
+314;Brasília;Transporte;244;2024
+315;Curitiba;Segurança;267;2025
+316;Rio de Janeiro;Educação;53;2023
+317;Belo Horizonte;Transporte;209;2024
+318;Rio de Janeiro;Transporte;298;2024
+319;Rio de Janeiro;Segurança;359;2025
+320;São Paulo;Saúde;62;2021
+321;Belo Horizonte;Transporte;300;2025
+322;Brasília;Habitação;365;2021
+323;Curitiba;Segurança;450;2023
+324;Rio de Janeiro;Saúde;452;2022
+325;Brasília;Habitação;183;2023
+326;Brasília;Transporte;262;2023
+327;Brasília;Segurança;412;2024
+328;São Paulo;Educação;299;2022
+329;Belo Horizonte;Educação;270;2025
+330;São Paulo;Transporte;39;2024
+331;Rio de Janeiro;Saúde;403;2025
+332;Brasília;Transporte;88;2021
+333;São Paulo;Habitação;315;2022
+334;Rio de Janeiro;Habitação;317;2023
+335;Rio de Janeiro;Transporte;86;2021
+336;Brasília;Saúde;453;2022
+337;Curitiba;Educação;461;2021
+338;Rio de Janeiro;Transporte;301;2022
+339;Curitiba;Habitação;164;2022
+340;Rio de Janeiro;Transporte;156;2023
+341;Brasília;Habitação;285;2023
+342;Belo Horizonte;Segurança;362;2023
+343;São Paulo;Habitação;244;2024
+344;Curitiba;Habitação;447;2024
+345;Curitiba;Saúde;49;2023
+346;Curitiba;Transporte;194;2024
+347;Belo Horizonte;Transporte;23;2024
+348;Belo Horizonte;Habitação;204;2025
+349;Rio de Janeiro;Habitação;87;2022
+350;São Paulo;Habitação;205;2022
+351;São Paulo;Educação;119;2024
+352;Rio de Janeiro;Saúde;162;2023
+353;Rio de Janeiro;Transporte;301;2025
+354;São Paulo;Habitação;489;2023
+355;Belo Horizonte;Educação;420;2024
+356;Belo Horizonte;Educação;497;2023
+357;Belo Horizonte;Habitação;445;2022
+358;Belo Horizonte;Transporte;207;2024
+359;São Paulo;Transporte;468;2021
+360;Belo Horizonte;Habitação;60;2024
+361;São Paulo;Habitação;26;2025
+362;Rio de Janeiro;Educação;435;2023
+363;Brasília;Educação;233;2025
+364;Belo Horizonte;Saúde;35;2023
+365;Brasília;Saúde;248;2023
+366;Brasília;Habitação;333;2024
+367;Brasília;Saúde;470;2024
+368;Belo Horizonte;Educação;329;2023
+369;Rio de Janeiro;Transporte;87;2024
+370;Belo Horizonte;Saúde;112;2022
+371;São Paulo;Transporte;242;2022
+372;Curitiba;Segurança;94;2022
+373;Brasília;Segurança;299;2025
+374;Curitiba;Saúde;269;2022
+375;Belo Horizonte;Transporte;407;2023
+376;São Paulo;Segurança;105;2021
+377;São Paulo;Educação;279;2021
+378;Curitiba;Educação;77;2024
+379;São Paulo;Saúde;447;2023
+380;Curitiba;Saúde;411;2023
+381;Brasília;Habitação;59;2023
+382;Brasília;Habitação;231;2024
+383;Rio de Janeiro;Saúde;280;2022
+384;Belo Horizonte;Saúde;103;2021
+385;Belo Horizonte;Segurança;55;2022
+386;Curitiba;Saúde;432;2025
+387;Rio de Janeiro;Educação;255;2021
+388;Rio de Janeiro;Educação;165;2023
+389;Brasília;Habitação;173;2024
+390;Rio de Janeiro;Transporte;453;2024
+391;Belo Horizonte;Educação;65;2021
+392;Belo Horizonte;Transporte;472;2022
+393;Brasília;Segurança;381;2024
+394;Belo Horizonte;Educação;299;2021
+395;São Paulo;Transporte;395;2022
+396;Belo Horizonte;Saúde;90;2024
+397;Belo Horizonte;Educação;245;2023
+398;Curitiba;Saúde;98;2022
+399;Brasília;Saúde;118;2025
+400;Curitiba;Saúde;275;2023
+401;Brasília;Habitação;128;2024
+402;Belo Horizonte;Habitação;308;2025
+403;Rio de Janeiro;Habitação;81;2021
+404;Brasília;Segurança;102;2021
+405;Curitiba;Educação;287;2021
+406;Rio de Janeiro;Saúde;148;2025
+407;Rio de Janeiro;Segurança;304;2021
+408;Belo Horizonte;Transporte;175;2021
+409;Rio de Janeiro;Saúde;469;2021
+410;Rio de Janeiro;Habitação;233;2024
+411;Curitiba;Saúde;397;2024
+412;Curitiba;Segurança;381;2025
+413;Curitiba;Transporte;136;2023
+414;Rio de Janeiro;Educação;485;2024
+415;Belo Horizonte;Segurança;205;2024
+416;São Paulo;Transporte;109;2022
+417;São Paulo;Transporte;109;2025
+418;São Paulo;Saúde;86;2021
+419;Rio de Janeiro;Transporte;459;2024
+420;Rio de Janeiro;Educação;238;2025
+421;Brasília;Habitação;353;2024
+422;São Paulo;Segurança;454;2023
+423;Brasília;Saúde;339;2021
+424;Brasília;Saúde;186;2024
+425;Belo Horizonte;Transporte;37;2024
+426;São Paulo;Educação;265;2024
+427;Belo Horizonte;Habitação;22;2022
+428;Belo Horizonte;Transporte;250;2023
+429;Rio de Janeiro;Educação;320;2025
+430;Curitiba;Transporte;213;2021
+431;Curitiba;Educação;431;2023
+432;Rio de Janeiro;Habitação;384;2024
+433;Rio de Janeiro;Segurança;92;2024
+434;Curitiba;Transporte;482;2025
+435;Brasília;Transporte;201;2022
+436;Brasília;Educação;410;2024
+437;Belo Horizonte;Saúde;184;2023
+438;São Paulo;Saúde;252;2024
+439;Belo Horizonte;Saúde;202;2025
+440;São Paulo;Habitação;332;2025
+441;São Paulo;Educação;65;2025
+442;Belo Horizonte;Saúde;28;2024
+443;Belo Horizonte;Segurança;296;2025
+444;Rio de Janeiro;Saúde;126;2025
+445;São Paulo;Transporte;103;2022
+446;Rio de Janeiro;Saúde;397;2022
+447;Curitiba;Habitação;270;2025
+448;São Paulo;Segurança;87;2023
+449;Belo Horizonte;Educação;325;2025
+450;Curitiba;Segurança;150;2023
+451;São Paulo;Habitação;448;2021
+452;Rio de Janeiro;Segurança;150;2024
+453;Belo Horizonte;Segurança;320;2024
+454;Brasília;Habitação;71;2025
+455;Belo Horizonte;Segurança;74;2024
+456;Rio de Janeiro;Segurança;243;2023
+457;Brasília;Educação;352;2025
+458;Brasília;Educação;356;2024
+459;Belo Horizonte;Saúde;140;2021
+460;Curitiba;Educação;76;2025
+461;São Paulo;Transporte;74;2021
+462;São Paulo;Habitação;312;2022
+463;São Paulo;Habitação;497;2021
+464;Belo Horizonte;Educação;216;2022
+465;Rio de Janeiro;Transporte;158;2023
+466;Brasília;Saúde;207;2022
+467;Rio de Janeiro;Educação;282;2022
+468;Rio de Janeiro;Habitação;190;2024
+469;São Paulo;Segurança;216;2024
+470;Belo Horizonte;Educação;378;2024
+471;Rio de Janeiro;Transporte;231;2025
+472;Belo Horizonte;Segurança;326;2024
+473;São Paulo;Habitação;348;2021
+474;Belo Horizonte;Saúde;263;2022
+475;São Paulo;Habitação;185;2023
+476;Rio de Janeiro;Educação;437;2021
+477;Rio de Janeiro;Habitação;236;2025
+478;São Paulo;Segurança;279;2022
+479;Curitiba;Transporte;313;2025
+480;São Paulo;Transporte;415;2022
+481;Belo Horizonte;Transporte;500;2021
+482;Rio de Janeiro;Saúde;230;2024
+483;Rio de Janeiro;Saúde;218;2021
+484;Brasília;Habitação;128;2025
+485;Brasília;Transporte;57;2025
+486;Belo Horizonte;Segurança;380;2023
+487;Belo Horizonte;Transporte;419;2021
+488;São Paulo;Transporte;353;2025
+489;Rio de Janeiro;Saúde;143;2021
+490;Curitiba;Saúde;132;2022
+491;Curitiba;Educação;335;2021
+492;Belo Horizonte;Habitação;222;2023
+493;Brasília;Segurança;57;2024
+494;São Paulo;Saúde;496;2024
+495;Curitiba;Educação;224;2024
+496;São Paulo;Segurança;283;2022
+497;Brasília;Educação;456;2025
+498;São Paulo;Transporte;248;2023
+499;Curitiba;Educação;407;2022
+500;Brasília;Educação;404;2021
+501;Curitiba;Saúde;333;2024
+502;São Paulo;Transporte;203;2023
+503;Belo Horizonte;Transporte;32;2023
+504;Curitiba;Saúde;346;2025
+505;Curitiba;Saúde;434;2023
+506;Rio de Janeiro;Transporte;175;2023
+507;Brasília;Segurança;152;2021
+508;Brasília;Habitação;255;2022
+509;Rio de Janeiro;Saúde;102;2025
+510;Belo Horizonte;Transporte;67;2021
+511;Rio de Janeiro;Saúde;416;2025
+512;São Paulo;Saúde;332;2024
+513;São Paulo;Habitação;173;2025
+514;Belo Horizonte;Saúde;118;2021
+515;Curitiba;Habitação;438;2023
+516;Brasília;Transporte;414;2024
+517;Rio de Janeiro;Saúde;321;2024
+518;Brasília;Transporte;482;2022
+519;Brasília;Educação;291;2025
+520;Rio de Janeiro;Transporte;449;2023
+521;São Paulo;Saúde;38;2023
+522;Curitiba;Segurança;394;2024
+523;Belo Horizonte;Transporte;136;2022
+524;Belo Horizonte;Segurança;350;2025
+525;Brasília;Transporte;496;2024
+526;Belo Horizonte;Transporte;32;2024
+527;São Paulo;Segurança;119;2023
+528;Brasília;Educação;294;2023
+529;Curitiba;Segurança;307;2024
+530;Curitiba;Segurança;345;2022
+531;Curitiba;Segurança;172;2024
+532;Belo Horizonte;Segurança;374;2021
+533;Rio de Janeiro;Saúde;37;2024
+534;Belo Horizonte;Transporte;423;2023
+535;Rio de Janeiro;Segurança;477;2023
+536;Curitiba;Segurança;241;2022
+537;Rio de Janeiro;Segurança;229;2025
+538;Rio de Janeiro;Saúde;170;2025
+539;Rio de Janeiro;Educação;165;2023
+540;São Paulo;Transporte;62;2025
+541;São Paulo;Transporte;356;2021
+542;Brasília;Saúde;433;2022
+543;Rio de Janeiro;Saúde;351;2021
+544;Belo Horizonte;Educação;167;2023
+545;Belo Horizonte;Saúde;73;2024
+546;Curitiba;Transporte;83;2025
+547;Brasília;Saúde;134;2023
+548;Rio de Janeiro;Transporte;418;2024
+549;Rio de Janeiro;Transporte;142;2024
+550;Belo Horizonte;Transporte;141;2024
+551;Curitiba;Educação;430;2022
+552;Belo Horizonte;Educação;254;2025
+553;Curitiba;Saúde;196;2022
+554;Belo Horizonte;Habitação;254;2021
+555;Belo Horizonte;Educação;213;2022
+556;Rio de Janeiro;Segurança;395;2022
+557;Belo Horizonte;Educação;145;2023
+558;São Paulo;Segurança;128;2021
+559;Brasília;Segurança;471;2025
+560;Brasília;Transporte;36;2025
+561;São Paulo;Transporte;316;2024
+562;Brasília;Habitação;450;2025
+563;Brasília;Educação;183;2025
+564;Curitiba;Transporte;422;2023
+565;São Paulo;Transporte;430;2024
+566;Rio de Janeiro;Habitação;235;2023
+567;Curitiba;Transporte;115;2024
+568;Brasília;Transporte;348;2024
+569;Curitiba;Saúde;375;2023
+570;Curitiba;Transporte;403;2022
+571;Belo Horizonte;Segurança;409;2023
+572;Belo Horizonte;Educação;171;2021
+573;Brasília;Segurança;336;2021
+574;Brasília;Educação;360;2023
+575;Curitiba;Transporte;462;2021
+576;Curitiba;Educação;260;2021
+577;Brasília;Transporte;311;2021
+578;Brasília;Educação;106;2024
+579;Rio de Janeiro;Segurança;181;2025
+580;São Paulo;Saúde;446;2022
+581;Curitiba;Transporte;40;2023
+582;Brasília;Educação;223;2024
+583;São Paulo;Saúde;261;2024
+584;Rio de Janeiro;Segurança;288;2023
+585;Rio de Janeiro;Transporte;92;2021
+586;Rio de Janeiro;Saúde;63;2022
+587;Rio de Janeiro;Segurança;304;2024
+588;Belo Horizonte;Educação;274;2024
+589;São Paulo;Saúde;495;2024
+590;Brasília;Habitação;81;2021
+591;Rio de Janeiro;Habitação;366;2025
+592;São Paulo;Segurança;349;2021
+593;Belo Horizonte;Habitação;409;2021
+594;Curitiba;Segurança;98;2025
+595;São Paulo;Habitação;418;2025
+596;Brasília;Saúde;265;2022
+597;Belo Horizonte;Saúde;428;2021
+598;São Paulo;Educação;147;2025
+599;Belo Horizonte;Segurança;200;2025
+600;Curitiba;Segurança;66;2022
+601;Belo Horizonte;Saúde;159;2023
+602;Belo Horizonte;Segurança;133;2023
+603;Brasília;Transporte;476;2025
+604;Brasília;Habitação;335;2022
+605;Rio de Janeiro;Segurança;356;2025
+606;Belo Horizonte;Habitação;300;2021
+607;Brasília;Educação;356;2025
+608;Belo Horizonte;Educação;422;2023
+609;Curitiba;Educação;95;2024
+610;São Paulo;Segurança;160;2022
+611;Rio de Janeiro;Educação;85;2022
+612;Curitiba;Habitação;412;2023
+613;Belo Horizonte;Transporte;456;2025
+614;Brasília;Educação;145;2022
+615;Rio de Janeiro;Habitação;113;2022
+616;Curitiba;Habitação;453;2021
+617;Brasília;Habitação;232;2023
+618;Rio de Janeiro;Educação;473;2025
+619;Curitiba;Segurança;136;2025
+620;São Paulo;Transporte;416;2025
+621;Curitiba;Saúde;201;2022
+622;Rio de Janeiro;Transporte;301;2025
+623;Rio de Janeiro;Habitação;484;2022
+624;São Paulo;Segurança;30;2021
+625;São Paulo;Educação;422;2021
+626;Rio de Janeiro;Saúde;317;2022
+627;Rio de Janeiro;Saúde;190;2022
+628;Rio de Janeiro;Transporte;433;2025
+629;Curitiba;Habitação;409;2024
+630;São Paulo;Habitação;124;2021
+631;Brasília;Educação;225;2023
+632;Belo Horizonte;Educação;21;2024
+633;Brasília;Segurança;206;2023
+634;São Paulo;Transporte;215;2022
+635;São Paulo;Educação;249;2025
+636;Brasília;Educação;162;2025
+637;Belo Horizonte;Educação;268;2023
+638;Curitiba;Habitação;182;2022
+639;Belo Horizonte;Transporte;161;2021
+640;São Paulo;Segurança;286;2023
+641;Curitiba;Saúde;270;2022
+642;Belo Horizonte;Transporte;125;2024
+643;Brasília;Segurança;495;2022
+644;Belo Horizonte;Educação;489;2023
+645;Rio de Janeiro;Educação;316;2022
+646;Rio de Janeiro;Educação;169;2022
+647;Brasília;Saúde;158;2021
+648;São Paulo;Transporte;82;2025
+649;Rio de Janeiro;Habitação;307;2025
+650;Belo Horizonte;Educação;208;2023
+651;São Paulo;Segurança;88;2021
+652;Curitiba;Habitação;44;2022
+653;Rio de Janeiro;Saúde;97;2025
+654;São Paulo;Transporte;435;2023
+655;Brasília;Saúde;342;2024
+656;Curitiba;Saúde;84;2024
+657;Brasília;Segurança;84;2025
+658;Brasília;Habitação;103;2021
+659;Brasília;Segurança;198;2021
+660;Curitiba;Educação;82;2023
+661;Brasília;Transporte;481;2023
+662;Rio de Janeiro;Transporte;323;2021
+663;São Paulo;Saúde;497;2025
+664;Belo Horizonte;Habitação;273;2021
+665;Brasília;Educação;103;2021
+666;Belo Horizonte;Saúde;465;2024
+667;Rio de Janeiro;Transporte;163;2025
+668;Curitiba;Segurança;194;2025
+669;Belo Horizonte;Saúde;107;2022
+670;Rio de Janeiro;Habitação;59;2022
+671;Curitiba;Transporte;34;2021
+672;Curitiba;Educação;351;2025
+673;São Paulo;Saúde;126;2025
+674;Curitiba;Saúde;54;2021
+675;Rio de Janeiro;Habitação;316;2021
+676;Rio de Janeiro;Transporte;109;2022
+677;São Paulo;Segurança;95;2022
+678;Curitiba;Segurança;143;2022
+679;Belo Horizonte;Habitação;341;2023
+680;São Paulo;Educação;160;2023
+681;Curitiba;Habitação;101;2025
+682;Belo Horizonte;Saúde;493;2021
+683;Brasília;Transporte;445;2021
+684;Rio de Janeiro;Habitação;217;2021
+685;Belo Horizonte;Segurança;76;2025
+686;Belo Horizonte;Saúde;431;2024
+687;São Paulo;Transporte;153;2023
+688;São Paulo;Habitação;187;2025
+689;São Paulo;Educação;286;2023
+690;São Paulo;Transporte;170;2023
+691;Curitiba;Habitação;423;2021
+692;Rio de Janeiro;Educação;53;2024
+693;Curitiba;Habitação;444;2022
+694;Belo Horizonte;Transporte;335;2021
+695;São Paulo;Habitação;402;2023
+696;São Paulo;Habitação;348;2021
+697;Brasília;Segurança;31;2023
+698;São Paulo;Habitação;221;2023
+699;São Paulo;Saúde;493;2023
+700;Belo Horizonte;Educação;65;2022
+701;Belo Horizonte;Saúde;307;2021
+702;Rio de Janeiro;Educação;414;2021
+703;Belo Horizonte;Saúde;181;2021
+704;Belo Horizonte;Habitação;209;2025
+705;Belo Horizonte;Segurança;56;2021
+706;Belo Horizonte;Saúde;492;2023
+707;Curitiba;Educação;167;2024
+708;São Paulo;Saúde;447;2022
+709;Brasília;Segurança;417;2021
+710;Belo Horizonte;Saúde;224;2023
+711;São Paulo;Habitação;414;2024
+712;São Paulo;Educação;396;2022
+713;Belo Horizonte;Segurança;79;2021
+714;Brasília;Habitação;135;2024
+715;Curitiba;Transporte;171;2023
+716;Belo Horizonte;Saúde;337;2021
+717;Curitiba;Saúde;279;2022
+718;Brasília;Saúde;304;2022
+719;São Paulo;Educação;257;2024
+720;Belo Horizonte;Educação;200;2024
+721;São Paulo;Segurança;459;2024
+722;Curitiba;Transporte;167;2021
+723;Belo Horizonte;Educação;369;2022
+724;Brasília;Saúde;51;2023
+725;São Paulo;Educação;348;2023
+726;Belo Horizonte;Habitação;152;2021
+727;Rio de Janeiro;Segurança;109;2024
+728;Belo Horizonte;Saúde;467;2022
+729;Curitiba;Saúde;288;2025
+730;Curitiba;Transporte;440;2025
+731;Brasília;Transporte;237;2024
+732;Curitiba;Saúde;115;2025
+733;Belo Horizonte;Habitação;474;2021
+734;São Paulo;Segurança;445;2024
+735;São Paulo;Saúde;239;2024
+736;Curitiba;Transporte;347;2022
+737;Rio de Janeiro;Educação;388;2023
+738;São Paulo;Segurança;233;2022
+739;São Paulo;Segurança;487;2022
+740;Curitiba;Saúde;218;2022
+741;Curitiba;Educação;371;2024
+742;São Paulo;Educação;226;2024
+743;São Paulo;Educação;388;2024
+744;Brasília;Saúde;247;2024
+745;Belo Horizonte;Educação;500;2025
+746;Curitiba;Habitação;65;2023
+747;Curitiba;Habitação;131;2024
+748;Belo Horizonte;Transporte;301;2022
+749;Rio de Janeiro;Saúde;441;2021
+750;Belo Horizonte;Saúde;156;2025
+751;Rio de Janeiro;Habitação;417;2024
+752;São Paulo;Segurança;422;2023
+753;Belo Horizonte;Habitação;247;2022
+754;Rio de Janeiro;Transporte;385;2025
+755;São Paulo;Transporte;233;2022
+756;Curitiba;Habitação;290;2022
+757;Rio de Janeiro;Habitação;203;2024
+758;Brasília;Educação;495;2023
+759;Curitiba;Educação;293;2021
+760;Belo Horizonte;Segurança;51;2021
+761;Curitiba;Educação;133;2023
+762;São Paulo;Educação;26;2023
+763;São Paulo;Transporte;216;2023
+764;Curitiba;Transporte;327;2021
+765;Brasília;Educação;334;2022
+766;Brasília;Educação;126;2025
+767;Brasília;Transporte;272;2022
+768;São Paulo;Habitação;142;2023
+769;Belo Horizonte;Habitação;241;2024
+770;Rio de Janeiro;Transporte;194;2023
+771;São Paulo;Transporte;262;2021
+772;Curitiba;Segurança;385;2021
+773;Rio de Janeiro;Transporte;456;2025
+774;Curitiba;Habitação;432;2025
+775;Rio de Janeiro;Transporte;272;2024
+776;Rio de Janeiro;Transporte;211;2021
+777;Curitiba;Segurança;216;2022
+778;Belo Horizonte;Transporte;373;2022
+779;Brasília;Segurança;80;2025
+780;São Paulo;Segurança;64;2025
+781;Curitiba;Segurança;404;2023
+782;São Paulo;Saúde;397;2024
+783;Belo Horizonte;Segurança;103;2022
+784;Belo Horizonte;Habitação;475;2025
+785;Curitiba;Educação;476;2024
+786;Brasília;Segurança;86;2021
+787;São Paulo;Segurança;337;2021
+788;São Paulo;Habitação;102;2024
+789;São Paulo;Habitação;461;2025
+790;Brasília;Saúde;184;2025
+791;Rio de Janeiro;Transporte;48;2021
+792;Rio de Janeiro;Educação;234;2022
+793;Rio de Janeiro;Segurança;206;2025
+794;Belo Horizonte;Habitação;363;2022
+795;Curitiba;Habitação;40;2024
+796;Brasília;Habitação;129;2025
+797;Rio de Janeiro;Habitação;342;2023
+798;São Paulo;Educação;77;2025
+799;Brasília;Transporte;481;2025
+800;Belo Horizonte;Habitação;188;2023
+801;Brasília;Habitação;477;2021
+802;Rio de Janeiro;Saúde;74;2023
+803;Rio de Janeiro;Segurança;497;2023
+804;Curitiba;Transporte;29;2022
+805;Brasília;Saúde;366;2023
+806;Belo Horizonte;Segurança;303;2024
+807;Belo Horizonte;Transporte;108;2025
+808;Belo Horizonte;Transporte;428;2024
+809;São Paulo;Habitação;494;2023
+810;Brasília;Segurança;391;2022
+811;Rio de Janeiro;Transporte;47;2025
+812;Brasília;Saúde;297;2021
+813;Belo Horizonte;Segurança;53;2024
+814;Belo Horizonte;Educação;90;2025
+815;São Paulo;Habitação;215;2024
+816;Brasília;Habitação;100;2023
+817;São Paulo;Saúde;337;2024
+818;Rio de Janeiro;Segurança;293;2024
+819;Rio de Janeiro;Educação;132;2021
+820;Belo Horizonte;Educação;136;2025
+821;Rio de Janeiro;Saúde;33;2021
+822;Rio de Janeiro;Segurança;310;2022
+823;Rio de Janeiro;Transporte;203;2022
+824;Rio de Janeiro;Saúde;267;2021
+825;Belo Horizonte;Educação;83;2022
+826;São Paulo;Transporte;473;2024
+827;Brasília;Transporte;134;2022
+828;Rio de Janeiro;Segurança;445;2024
+829;Rio de Janeiro;Segurança;256;2021
+830;Belo Horizonte;Transporte;220;2023
+831;São Paulo;Saúde;465;2025
+832;Belo Horizonte;Saúde;410;2024
+833;Brasília;Transporte;180;2023
+834;São Paulo;Segurança;38;2022
+835;São Paulo;Segurança;148;2025
+836;Brasília;Saúde;128;2025
+837;Brasília;Educação;48;2021
+838;Curitiba;Transporte;39;2023
+839;Curitiba;Educação;289;2023
+840;Curitiba;Segurança;370;2023
+841;Curitiba;Habitação;376;2023
+842;Brasília;Saúde;146;2023
+843;Belo Horizonte;Saúde;256;2025
+844;Rio de Janeiro;Transporte;93;2025
+845;Belo Horizonte;Transporte;203;2021
+846;Belo Horizonte;Educação;360;2025
+847;São Paulo;Educação;55;2021
+848;Curitiba;Habitação;500;2023
+849;Brasília;Segurança;246;2023
+850;Curitiba;Habitação;27;2025
+851;Curitiba;Segurança;185;2024
+852;Curitiba;Transporte;147;2022
+853;São Paulo;Habitação;173;2023
+854;Brasília;Segurança;96;2024
+855;Curitiba;Saúde;479;2025
+856;Brasília;Segurança;27;2024
+857;São Paulo;Transporte;351;2021
+858;Brasília;Habitação;360;2022
+859;Rio de Janeiro;Transporte;168;2021
+860;Curitiba;Transporte;419;2022
+861;Curitiba;Educação;291;2023
+862;Curitiba;Habitação;361;2024
+863;Brasília;Educação;498;2025
+864;Brasília;Saúde;342;2021
+865;Curitiba;Habitação;113;2021
+866;Belo Horizonte;Educação;433;2021
+867;Brasília;Habitação;318;2024
+868;Brasília;Transporte;191;2025
+869;Curitiba;Segurança;181;2021
+870;Belo Horizonte;Transporte;131;2024
+871;Curitiba;Segurança;474;2025
+872;Curitiba;Saúde;258;2022
+873;Belo Horizonte;Educação;34;2022
+874;São Paulo;Habitação;305;2024
+875;Brasília;Educação;79;2021
+876;Curitiba;Transporte;114;2025
+877;Rio de Janeiro;Habitação;66;2021
+878;Belo Horizonte;Habitação;86;2025
+879;Brasília;Transporte;68;2022
+880;Brasília;Segurança;185;2024
+881;Belo Horizonte;Transporte;495;2023
+882;São Paulo;Segurança;316;2022
+883;Belo Horizonte;Segurança;445;2024
+884;São Paulo;Educação;247;2024
+885;Curitiba;Saúde;464;2024
+886;São Paulo;Transporte;25;2022
+887;Brasília;Saúde;45;2025
+888;Curitiba;Educação;331;2024
+889;Rio de Janeiro;Habitação;193;2021
+890;Rio de Janeiro;Habitação;149;2024
+891;São Paulo;Educação;350;2024
+892;Belo Horizonte;Transporte;359;2023
+893;Rio de Janeiro;Habitação;457;2022
+894;Brasília;Saúde;421;2024
+895;Brasília;Segurança;88;2022
+896;Rio de Janeiro;Segurança;332;2025
+897;Rio de Janeiro;Saúde;369;2022
+898;Brasília;Educação;254;2025
+899;Curitiba;Educação;208;2022
+900;Brasília;Transporte;93;2021
+901;São Paulo;Educação;88;2023
+902;Brasília;Transporte;204;2021
+903;Brasília;Saúde;500;2021
+904;Curitiba;Habitação;489;2023
+905;Belo Horizonte;Habitação;318;2024
+906;Brasília;Saúde;197;2025
+907;Rio de Janeiro;Educação;397;2024
+908;Belo Horizonte;Habitação;304;2021
+909;Belo Horizonte;Segurança;137;2022
+910;Curitiba;Segurança;177;2021
+911;Rio de Janeiro;Habitação;495;2024
+912;Belo Horizonte;Transporte;473;2023
+913;Brasília;Habitação;343;2021
+914;São Paulo;Habitação;373;2024
+915;Rio de Janeiro;Habitação;123;2025
+916;Belo Horizonte;Saúde;147;2023
+917;Curitiba;Educação;306;2021
+918;São Paulo;Saúde;461;2025
+919;Belo Horizonte;Habitação;488;2022
+920;Rio de Janeiro;Educação;328;2022
+921;Belo Horizonte;Educação;37;2023
+922;Curitiba;Transporte;257;2021
+923;Belo Horizonte;Educação;416;2022
+924;Rio de Janeiro;Habitação;483;2024
+925;Curitiba;Saúde;148;2022
+926;Brasília;Habitação;465;2022
+927;São Paulo;Educação;168;2022
+928;São Paulo;Saúde;477;2025
+929;Curitiba;Saúde;338;2024
+930;São Paulo;Educação;24;2025
+931;Curitiba;Saúde;373;2021
+932;Rio de Janeiro;Transporte;227;2021
+933;Rio de Janeiro;Habitação;154;2023
+934;Rio de Janeiro;Segurança;288;2022
+935;Belo Horizonte;Educação;313;2023
+936;Belo Horizonte;Saúde;448;2024
+937;Rio de Janeiro;Segurança;134;2021
+938;Rio de Janeiro;Transporte;26;2022
+939;Belo Horizonte;Habitação;77;2025
+940;São Paulo;Transporte;412;2025
+941;Belo Horizonte;Segurança;202;2022
+942;Rio de Janeiro;Saúde;309;2025
+943;Curitiba;Habitação;160;2021
+944;Curitiba;Saúde;320;2024
+945;Curitiba;Transporte;205;2021
+946;Rio de Janeiro;Segurança;275;2022
+947;Belo Horizonte;Saúde;489;2022
+948;Belo Horizonte;Transporte;135;2025
+949;Rio de Janeiro;Habitação;156;2023
+950;São Paulo;Educação;126;2025
+951;Rio de Janeiro;Segurança;493;2023
+952;São Paulo;Segurança;498;2022
+953;Belo Horizonte;Segurança;445;2021
+954;Brasília;Saúde;392;2024
+955;Curitiba;Habitação;127;2021
+956;Rio de Janeiro;Segurança;58;2024
+957;Rio de Janeiro;Habitação;379;2024
+958;Belo Horizonte;Segurança;98;2024
+959;Belo Horizonte;Educação;334;2025
+960;Brasília;Saúde;91;2022
+961;Rio de Janeiro;Segurança;396;2025
+962;Brasília;Transporte;378;2021
+963;Curitiba;Habitação;284;2022
+964;São Paulo;Transporte;58;2022
+965;Rio de Janeiro;Habitação;211;2021
+966;Brasília;Habitação;159;2025
+967;Curitiba;Educação;186;2025
+968;Curitiba;Habitação;121;2024
+969;Brasília;Educação;397;2025
+970;Rio de Janeiro;Segurança;415;2025
+971;Belo Horizonte;Segurança;117;2021
+972;Belo Horizonte;Segurança;51;2021
+973;Rio de Janeiro;Habitação;346;2023
+974;Brasília;Saúde;307;2024
+975;Curitiba;Segurança;205;2025
+976;Brasília;Educação;325;2021
+977;São Paulo;Saúde;73;2021
+978;Brasília;Educação;33;2024
+979;Rio de Janeiro;Habitação;487;2025
+980;Curitiba;Saúde;240;2025
+981;Rio de Janeiro;Educação;229;2023
+982;Rio de Janeiro;Segurança;496;2025
+983;Brasília;Educação;39;2021
+984;São Paulo;Habitação;133;2022
+985;Curitiba;Habitação;167;2022
+986;São Paulo;Segurança;394;2022
+987;Curitiba;Educação;201;2022
+988;São Paulo;Habitação;59;2021
+989;Curitiba;Transporte;316;2021
+990;Brasília;Saúde;318;2022
+991;Belo Horizonte;Habitação;384;2023
+992;Belo Horizonte;Saúde;274;2025
+993;Brasília;Segurança;493;2023
+994;Curitiba;Habitação;111;2024
+995;Rio de Janeiro;Educação;240;2024
+996;Brasília;Habitação;455;2025
+997;Rio de Janeiro;Saúde;51;2022
+998;Curitiba;Saúde;247;2021
+999;Rio de Janeiro;Transporte;252;2021
+1000;São Paulo;Segurança;149;2024

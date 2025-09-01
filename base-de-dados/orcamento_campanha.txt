@@ -1,0 +1,1001 @@
+id;partido;candidato;valor_gasto;tipo_gasto;estado
+1;PSDB;Cand_2;498237.51;Eventos;RJ
+2;PSOL;Cand_18;473906.57;Eventos;SP
+3;PSOL;Cand_10;270540.29;Propaganda;MG
+4;MDB;Cand_3;409351.88;Redes Sociais;MG
+5;PSDB;Cand_14;38746.43;Eventos;BA
+6;PSDB;Cand_10;311168.77;Propaganda;SP
+7;PSDB;Cand_15;237305.38;Pesquisa;MG
+8;PL;Cand_15;205474.78;Pesquisa;BA
+9;PSDB;Cand_2;283278.85;Logística;RJ
+10;PL;Cand_3;428882.54;Eventos;MG
+11;PSDB;Cand_3;404955.04;Logística;SP
+12;PL;Cand_7;345257.84;Eventos;SP
+13;MDB;Cand_9;69886.73;Eventos;MG
+14;PSOL;Cand_13;173329.91;Logística;BA
+15;PL;Cand_19;155661.33;Logística;RJ
+16;PSDB;Cand_8;494423.62;Eventos;SP
+17;PT;Cand_3;397518.19;Eventos;BA
+18;PT;Cand_16;403196.82;Eventos;MG
+19;PSOL;Cand_9;230952.47;Propaganda;SP
+20;PL;Cand_20;124284.77;Logística;SP
+21;MDB;Cand_20;92864.85;Redes Sociais;BA
+22;PT;Cand_7;180376.56;Logística;BA
+23;PT;Cand_6;173980.98;Redes Sociais;BA
+24;PSOL;Cand_19;489969.64;Propaganda;SP
+25;PSDB;Cand_2;133325.25;Eventos;SP
+26;PSDB;Cand_15;226029.73;Redes Sociais;BA
+27;PT;Cand_3;114058.38;Logística;RJ
+28;PL;Cand_9;158687.09;Eventos;SP
+29;PL;Cand_6;397793.86;Redes Sociais;RJ
+30;PSDB;Cand_10;273699.57;Pesquisa;RJ
+31;PSOL;Cand_10;376802.95;Pesquisa;RJ
+32;PT;Cand_2;92383.4;Propaganda;RJ
+33;PSOL;Cand_2;91286.31;Logística;MG
+34;PL;Cand_1;111787.94;Propaganda;RJ
+35;PL;Cand_3;439004.86;Logística;AM
+36;PL;Cand_1;423031.31;Logística;BA
+37;PT;Cand_5;92726.44;Eventos;MG
+38;PSDB;Cand_5;21764.84;Eventos;SP
+39;PT;Cand_15;82940.13;Logística;BA
+40;PL;Cand_8;154845.89;Eventos;MG
+41;PSOL;Cand_8;281773.45;Pesquisa;RJ
+42;PSDB;Cand_5;488148.59;Logística;RJ
+43;PL;Cand_2;434121.26;Logística;SP
+44;MDB;Cand_11;67307.86;Eventos;BA
+45;PL;Cand_20;390816.42;Logística;AM
+46;PT;Cand_20;460795.43;Propaganda;RJ
+47;PSOL;Cand_20;228914.39;Propaganda;SP
+48;MDB;Cand_19;480018.93;Logística;SP
+49;PT;Cand_9;433218.33;Pesquisa;MG
+50;MDB;Cand_13;366754.78;Pesquisa;RJ
+51;MDB;Cand_15;388140.42;Pesquisa;BA
+52;MDB;Cand_18;465213.35;Logística;MG
+53;PL;Cand_7;263175.25;Logística;RJ
+54;PSOL;Cand_17;181649.89;Eventos;SP
+55;MDB;Cand_6;353683.53;Logística;RJ
+56;MDB;Cand_19;32141.38;Pesquisa;AM
+57;PSOL;Cand_12;307275.67;Pesquisa;BA
+58;PSDB;Cand_6;180136.77;Propaganda;SP
+59;MDB;Cand_7;183641.65;Logística;RJ
+60;PSDB;Cand_11;459895.94;Propaganda;SP
+61;MDB;Cand_6;167345.13;Pesquisa;MG
+62;PT;Cand_5;114344.49;Propaganda;AM
+63;PSOL;Cand_19;45624.32;Pesquisa;RJ
+64;PL;Cand_2;86107.13;Pesquisa;BA
+65;MDB;Cand_11;13307.18;Eventos;RJ
+66;PT;Cand_16;130178.66;Eventos;BA
+67;PSDB;Cand_20;368813.52;Propaganda;AM
+68;PL;Cand_12;304367.5;Redes Sociais;BA
+69;PL;Cand_8;127570.21;Redes Sociais;MG
+70;PT;Cand_17;189424.85;Propaganda;SP
+71;PSDB;Cand_3;454374.35;Redes Sociais;BA
+72;PL;Cand_2;474752.84;Propaganda;MG
+73;PT;Cand_6;203321.41;Pesquisa;MG
+74;PSDB;Cand_9;316023.48;Pesquisa;SP
+75;PL;Cand_18;158543.56;Eventos;AM
+76;PL;Cand_11;316716.54;Propaganda;AM
+77;PSOL;Cand_13;328211.06;Redes Sociais;AM
+78;MDB;Cand_5;299250.63;Pesquisa;AM
+79;PSOL;Cand_15;61276.66;Logística;BA
+80;PSDB;Cand_20;37230.65;Logística;BA
+81;PSDB;Cand_19;116592.08;Propaganda;BA
+82;MDB;Cand_19;84166.12;Pesquisa;AM
+83;PT;Cand_13;15884.0;Logística;RJ
+84;PL;Cand_5;466537.91;Logística;BA
+85;PT;Cand_9;213347.44;Propaganda;AM
+86;MDB;Cand_18;159258.31;Propaganda;RJ
+87;PT;Cand_16;73580.73;Eventos;AM
+88;PSDB;Cand_4;459293.46;Eventos;MG
+89;PT;Cand_11;118206.6;Pesquisa;SP
+90;PSDB;Cand_5;463553.46;Propaganda;BA
+91;PSDB;Cand_5;434794.09;Eventos;MG
+92;PSOL;Cand_16;15178.78;Pesquisa;RJ
+93;PL;Cand_1;401083.43;Eventos;RJ
+94;PL;Cand_19;289683.99;Logística;AM
+95;PT;Cand_12;473065.12;Logística;MG
+96;MDB;Cand_11;381514.47;Redes Sociais;MG
+97;PL;Cand_19;66964.04;Redes Sociais;MG
+98;PT;Cand_19;109246.34;Propaganda;MG
+99;PSDB;Cand_10;354597.66;Redes Sociais;SP
+100;PSOL;Cand_20;428749.87;Redes Sociais;RJ
+101;PSOL;Cand_13;350493.95;Logística;SP
+102;PL;Cand_8;249995.9;Redes Sociais;RJ
+103;PT;Cand_18;399697.92;Eventos;SP
+104;MDB;Cand_1;84590.78;Propaganda;BA
+105;MDB;Cand_12;153945.77;Propaganda;RJ
+106;PT;Cand_5;482185.21;Propaganda;RJ
+107;PSDB;Cand_7;336012.88;Redes Sociais;AM
+108;PL;Cand_20;66466.73;Pesquisa;RJ
+109;MDB;Cand_10;405460.58;Logística;RJ
+110;PSOL;Cand_9;200504.73;Logística;RJ
+111;PT;Cand_5;260755.41;Propaganda;AM
+112;PL;Cand_20;405102.64;Eventos;AM
+113;PSDB;Cand_1;138934.01;Eventos;MG
+114;PSOL;Cand_11;322187.99;Redes Sociais;MG
+115;PSDB;Cand_20;335172.32;Logística;RJ
+116;PT;Cand_1;459836.49;Pesquisa;AM
+117;PSDB;Cand_15;60505.15;Logística;RJ
+118;MDB;Cand_14;377535.45;Propaganda;MG
+119;MDB;Cand_16;466931.63;Pesquisa;SP
+120;PT;Cand_12;64693.12;Redes Sociais;RJ
+121;PSOL;Cand_3;422602.44;Redes Sociais;SP
+122;PSDB;Cand_9;116983.49;Redes Sociais;RJ
+123;PSDB;Cand_7;411656.17;Logística;MG
+124;MDB;Cand_13;259877.59;Propaganda;SP
+125;PSDB;Cand_18;195956.16;Eventos;AM
+126;PSOL;Cand_11;260055.83;Eventos;SP
+127;PSOL;Cand_14;85498.19;Eventos;AM
+128;PSOL;Cand_15;469906.47;Redes Sociais;MG
+129;PSOL;Cand_8;329161.68;Propaganda;MG
+130;PT;Cand_3;17043.9;Logística;AM
+131;MDB;Cand_14;291672.9;Eventos;SP
+132;PL;Cand_18;304535.82;Logística;RJ
+133;PSOL;Cand_1;133843.27;Propaganda;AM
+134;PSDB;Cand_5;217257.74;Pesquisa;SP
+135;PL;Cand_18;488068.13;Eventos;MG
+136;PL;Cand_6;23123.63;Redes Sociais;MG
+137;MDB;Cand_8;77924.72;Redes Sociais;RJ
+138;MDB;Cand_4;96893.87;Pesquisa;AM
+139;PT;Cand_14;473849.67;Propaganda;SP
+140;MDB;Cand_12;156867.26;Redes Sociais;MG
+141;PT;Cand_8;153052.64;Pesquisa;SP
+142;PL;Cand_4;108181.76;Propaganda;SP
+143;PT;Cand_5;195639.96;Pesquisa;SP
+144;MDB;Cand_13;327216.67;Pesquisa;AM
+145;PSOL;Cand_10;104994.08;Propaganda;RJ
+146;PSDB;Cand_12;247096.26;Logística;AM
+147;MDB;Cand_2;398114.49;Logística;BA
+148;PSOL;Cand_5;95771.71;Pesquisa;BA
+149;PL;Cand_5;96977.09;Logística;MG
+150;PL;Cand_5;454029.23;Logística;RJ
+151;PSDB;Cand_15;300735.78;Propaganda;BA
+152;PT;Cand_2;63166.85;Logística;BA
+153;PL;Cand_17;205529.27;Logística;RJ
+154;PT;Cand_4;487491.76;Logística;MG
+155;PT;Cand_1;472682.51;Logística;BA
+156;PL;Cand_14;324797.98;Logística;BA
+157;PT;Cand_10;186038.84;Logística;SP
+158;MDB;Cand_9;47448.92;Pesquisa;SP
+159;PT;Cand_16;112499.11;Propaganda;AM
+160;MDB;Cand_14;416663.6;Logística;SP
+161;PT;Cand_17;14103.17;Propaganda;RJ
+162;PT;Cand_17;386714.24;Eventos;SP
+163;PT;Cand_12;353249.79;Propaganda;AM
+164;PSOL;Cand_10;359975.8;Logística;SP
+165;PSOL;Cand_7;463408.16;Redes Sociais;AM
+166;MDB;Cand_17;173041.81;Redes Sociais;SP
+167;PL;Cand_9;156395.17;Propaganda;MG
+168;PL;Cand_11;86551.82;Pesquisa;AM
+169;PSDB;Cand_18;457423.33;Logística;BA
+170;PSDB;Cand_9;452964.45;Propaganda;AM
+171;MDB;Cand_8;115625.76;Pesquisa;BA
+172;PSDB;Cand_6;208068.65;Redes Sociais;MG
+173;PSDB;Cand_14;495203.11;Redes Sociais;RJ
+174;PL;Cand_3;288253.0;Eventos;RJ
+175;PL;Cand_4;201550.05;Redes Sociais;RJ
+176;PSDB;Cand_18;380014.23;Pesquisa;RJ
+177;PSDB;Cand_1;376042.73;Logística;AM
+178;PT;Cand_11;473114.54;Eventos;AM
+179;PT;Cand_1;230755.43;Redes Sociais;BA
+180;PL;Cand_5;184561.17;Logística;SP
+181;PT;Cand_14;419804.99;Logística;SP
+182;PL;Cand_12;30243.22;Redes Sociais;BA
+183;PSDB;Cand_18;221185.98;Logística;RJ
+184;PT;Cand_2;231852.75;Logística;BA
+185;PL;Cand_12;400362.97;Eventos;AM
+186;PSOL;Cand_12;213818.88;Pesquisa;RJ
+187;PL;Cand_19;268665.65;Eventos;AM
+188;PL;Cand_9;85270.25;Eventos;SP
+189;MDB;Cand_20;389380.87;Redes Sociais;SP
+190;MDB;Cand_11;340892.84;Logística;BA
+191;MDB;Cand_9;351617.94;Redes Sociais;RJ
+192;PT;Cand_17;407893.02;Redes Sociais;BA
+193;MDB;Cand_1;271106.09;Logística;BA
+194;PL;Cand_2;436724.73;Eventos;AM
+195;PSOL;Cand_8;327777.0;Redes Sociais;BA
+196;PT;Cand_6;497552.92;Eventos;RJ
+197;PL;Cand_13;264719.46;Logística;RJ
+198;PSDB;Cand_5;377316.98;Pesquisa;MG
+199;PT;Cand_11;267018.05;Propaganda;BA
+200;PSOL;Cand_20;67007.36;Pesquisa;BA
+201;MDB;Cand_3;87974.78;Eventos;SP
+202;PSOL;Cand_20;240281.75;Eventos;RJ
+203;PSOL;Cand_15;110938.69;Propaganda;MG
+204;PT;Cand_1;266852.62;Redes Sociais;SP
+205;PL;Cand_9;237327.75;Logística;RJ
+206;MDB;Cand_15;347680.09;Logística;AM
+207;PSOL;Cand_5;483095.13;Logística;SP
+208;MDB;Cand_8;346761.32;Eventos;BA
+209;PSDB;Cand_6;418213.79;Pesquisa;SP
+210;MDB;Cand_16;143466.2;Eventos;SP
+211;PL;Cand_5;462289.7;Pesquisa;RJ
+212;MDB;Cand_16;444519.28;Propaganda;RJ
+213;PSDB;Cand_2;132199.32;Propaganda;MG
+214;PSDB;Cand_2;461835.99;Pesquisa;SP
+215;PT;Cand_14;101469.97;Eventos;MG
+216;PT;Cand_8;233315.39;Logística;BA
+217;PSOL;Cand_13;233961.62;Pesquisa;AM
+218;PT;Cand_17;299347.15;Redes Sociais;SP
+219;PSOL;Cand_14;431493.63;Propaganda;BA
+220;MDB;Cand_4;474232.75;Propaganda;RJ
+221;PT;Cand_6;152736.29;Eventos;SP
+222;MDB;Cand_1;125025.31;Eventos;SP
+223;PL;Cand_16;227976.41;Propaganda;AM
+224;PSDB;Cand_17;96705.9;Eventos;BA
+225;PSDB;Cand_11;394413.63;Redes Sociais;AM
+226;PL;Cand_10;59361.35;Propaganda;RJ
+227;PL;Cand_19;176727.66;Pesquisa;AM
+228;PT;Cand_2;442026.66;Eventos;BA
+229;PSOL;Cand_4;304730.0;Propaganda;BA
+230;PL;Cand_9;476465.84;Propaganda;RJ
+231;MDB;Cand_11;412257.44;Pesquisa;BA
+232;PL;Cand_14;425489.81;Pesquisa;BA
+233;PT;Cand_11;475467.79;Propaganda;AM
+234;PSDB;Cand_12;26897.51;Propaganda;MG
+235;PT;Cand_8;233692.81;Eventos;AM
+236;PSOL;Cand_14;452016.57;Logística;AM
+237;PL;Cand_5;123028.45;Redes Sociais;RJ
+238;PL;Cand_15;227672.63;Pesquisa;BA
+239;PL;Cand_18;182675.19;Propaganda;MG
+240;PT;Cand_13;184701.29;Redes Sociais;BA
+241;PT;Cand_9;486827.01;Logística;BA
+242;PSDB;Cand_18;289866.13;Eventos;BA
+243;PSDB;Cand_9;68005.79;Logística;MG
+244;MDB;Cand_13;234926.02;Propaganda;AM
+245;PSOL;Cand_18;60012.82;Eventos;BA
+246;PSOL;Cand_15;138777.47;Eventos;BA
+247;PT;Cand_2;98579.87;Redes Sociais;RJ
+248;PT;Cand_4;366886.45;Logística;SP
+249;PT;Cand_15;321570.84;Redes Sociais;RJ
+250;PL;Cand_6;464409.68;Eventos;RJ
+251;PSDB;Cand_15;422759.38;Propaganda;AM
+252;PT;Cand_7;236229.51;Eventos;SP
+253;PSOL;Cand_3;124772.13;Redes Sociais;RJ
+254;PSDB;Cand_17;101852.92;Eventos;SP
+255;MDB;Cand_4;433342.34;Logística;BA
+256;MDB;Cand_12;116215.95;Eventos;SP
+257;PSOL;Cand_7;35069.3;Redes Sociais;SP
+258;PSDB;Cand_11;145980.3;Pesquisa;AM
+259;PT;Cand_12;65687.25;Pesquisa;BA
+260;PL;Cand_4;469773.24;Logística;BA
+261;PT;Cand_2;326580.49;Redes Sociais;MG
+262;MDB;Cand_7;134837.73;Pesquisa;AM
+263;PSOL;Cand_20;394950.27;Eventos;RJ
+264;PSOL;Cand_20;454331.8;Logística;MG
+265;PL;Cand_18;483121.78;Redes Sociais;SP
+266;PT;Cand_16;419663.48;Logística;MG
+267;PL;Cand_15;474418.44;Logística;BA
+268;PSOL;Cand_13;425210.95;Logística;RJ
+269;PL;Cand_12;484571.92;Pesquisa;BA
+270;PSDB;Cand_20;64461.54;Eventos;MG
+271;PSDB;Cand_15;58427.82;Pesquisa;AM
+272;PSOL;Cand_20;204562.13;Redes Sociais;RJ
+273;MDB;Cand_9;176118.46;Logística;SP
+274;PSOL;Cand_4;406751.27;Logística;AM
+275;PSDB;Cand_7;99883.0;Propaganda;BA
+276;MDB;Cand_1;185294.06;Logística;SP
+277;PSOL;Cand_2;4883.14;Pesquisa;RJ
+278;MDB;Cand_18;156605.55;Redes Sociais;RJ
+279;PL;Cand_9;2716.55;Logística;AM
+280;PL;Cand_6;375598.42;Eventos;BA
+281;PSDB;Cand_15;351657.9;Logística;MG
+282;MDB;Cand_4;159306.88;Logística;AM
+283;PT;Cand_1;428804.21;Logística;SP
+284;PT;Cand_16;153580.35;Propaganda;SP
+285;PT;Cand_9;80053.74;Logística;RJ
+286;MDB;Cand_12;87722.43;Logística;BA
+287;PL;Cand_5;477189.48;Eventos;RJ
+288;PSOL;Cand_18;22854.17;Propaganda;MG
+289;PT;Cand_15;50707.55;Redes Sociais;RJ
+290;PL;Cand_9;271611.07;Propaganda;AM
+291;PT;Cand_19;168393.51;Propaganda;BA
+292;PSOL;Cand_5;85111.45;Propaganda;MG
+293;MDB;Cand_13;136291.57;Eventos;AM
+294;MDB;Cand_8;497883.82;Redes Sociais;RJ
+295;PT;Cand_4;272915.3;Pesquisa;SP
+296;PL;Cand_1;217628.76;Pesquisa;MG
+297;PT;Cand_12;128169.35;Pesquisa;RJ
+298;MDB;Cand_17;9176.53;Logística;AM
+299;PSOL;Cand_10;355428.39;Redes Sociais;AM
+300;MDB;Cand_20;315712.19;Eventos;RJ
+301;PL;Cand_12;48354.95;Logística;SP
+302;MDB;Cand_5;323970.19;Propaganda;SP
+303;PSDB;Cand_5;146666.53;Logística;MG
+304;PSDB;Cand_1;413359.98;Propaganda;SP
+305;PSOL;Cand_17;222313.84;Redes Sociais;AM
+306;PL;Cand_17;165509.7;Pesquisa;SP
+307;PL;Cand_12;257731.31;Redes Sociais;AM
+308;MDB;Cand_8;357854.69;Logística;SP
+309;PL;Cand_18;265990.46;Redes Sociais;AM
+310;PL;Cand_18;208171.31;Pesquisa;BA
+311;MDB;Cand_8;315556.07;Pesquisa;MG
+312;PT;Cand_10;137355.1;Redes Sociais;MG
+313;PT;Cand_14;440174.27;Pesquisa;BA
+314;PSOL;Cand_18;185358.72;Pesquisa;RJ
+315;PL;Cand_6;382325.1;Propaganda;RJ
+316;PSDB;Cand_1;225179.91;Redes Sociais;AM
+317;PL;Cand_13;129288.95;Redes Sociais;BA
+318;PL;Cand_13;5968.07;Eventos;SP
+319;PT;Cand_5;463155.48;Propaganda;BA
+320;PT;Cand_20;330224.77;Pesquisa;AM
+321;PSOL;Cand_12;391109.9;Eventos;MG
+322;MDB;Cand_14;439381.23;Eventos;RJ
+323;PL;Cand_3;155936.13;Eventos;RJ
+324;PSDB;Cand_4;32960.52;Propaganda;BA
+325;PL;Cand_8;491531.61;Redes Sociais;MG
+326;PSOL;Cand_7;234544.64;Pesquisa;BA
+327;PT;Cand_10;200901.84;Pesquisa;AM
+328;PSDB;Cand_12;223099.62;Redes Sociais;RJ
+329;PSDB;Cand_13;406781.74;Eventos;RJ
+330;PSDB;Cand_5;230296.68;Redes Sociais;RJ
+331;PSOL;Cand_5;154985.74;Eventos;AM
+332;PL;Cand_2;321208.91;Propaganda;MG
+333;PSOL;Cand_2;285111.88;Logística;SP
+334;PSOL;Cand_20;465268.7;Logística;RJ
+335;PSOL;Cand_12;31535.53;Eventos;RJ
+336;PT;Cand_16;259858.81;Logística;AM
+337;PSOL;Cand_16;153517.74;Eventos;SP
+338;PT;Cand_6;464041.25;Propaganda;SP
+339;PL;Cand_16;292798.39;Pesquisa;BA
+340;PSDB;Cand_18;454931.31;Eventos;AM
+341;PL;Cand_5;65787.37;Logística;MG
+342;PSOL;Cand_4;461315.74;Eventos;RJ
+343;PSOL;Cand_11;365297.96;Redes Sociais;BA
+344;PSOL;Cand_5;8177.79;Redes Sociais;MG
+345;PL;Cand_17;7286.38;Logística;RJ
+346;PL;Cand_19;215630.22;Propaganda;SP
+347;MDB;Cand_2;377097.09;Pesquisa;BA
+348;PSDB;Cand_3;169745.78;Redes Sociais;BA
+349;PSDB;Cand_9;129670.0;Pesquisa;AM
+350;PL;Cand_12;42643.48;Redes Sociais;AM
+351;PSDB;Cand_6;18213.52;Logística;RJ
+352;PL;Cand_19;454794.0;Pesquisa;SP
+353;MDB;Cand_1;293568.01;Propaganda;AM
+354;MDB;Cand_2;127665.63;Eventos;RJ
+355;PSOL;Cand_8;301970.72;Pesquisa;AM
+356;PL;Cand_15;98468.94;Redes Sociais;RJ
+357;MDB;Cand_20;24747.52;Eventos;RJ
+358;PT;Cand_13;290223.13;Logística;MG
+359;PL;Cand_13;234141.79;Eventos;SP
+360;PSOL;Cand_4;374580.64;Eventos;BA
+361;PSOL;Cand_2;227823.67;Redes Sociais;RJ
+362;MDB;Cand_13;230157.18;Logística;AM
+363;PL;Cand_18;361492.98;Redes Sociais;MG
+364;PT;Cand_17;419934.94;Propaganda;BA
+365;PSOL;Cand_10;56557.33;Logística;BA
+366;PL;Cand_11;238855.53;Redes Sociais;RJ
+367;PT;Cand_20;114005.67;Logística;RJ
+368;PSDB;Cand_13;316810.22;Redes Sociais;BA
+369;PSOL;Cand_16;466380.34;Propaganda;BA
+370;PL;Cand_3;22648.97;Eventos;RJ
+371;PL;Cand_11;354169.58;Pesquisa;BA
+372;PT;Cand_10;3778.12;Pesquisa;SP
+373;MDB;Cand_14;270530.97;Logística;BA
+374;PSOL;Cand_4;4806.45;Pesquisa;MG
+375;PL;Cand_13;74166.26;Redes Sociais;AM
+376;PSDB;Cand_7;372522.26;Eventos;AM
+377;PL;Cand_20;32914.4;Eventos;AM
+378;PSDB;Cand_3;477367.53;Redes Sociais;AM
+379;PSOL;Cand_9;205025.36;Eventos;AM
+380;MDB;Cand_8;183272.51;Logística;MG
+381;MDB;Cand_5;241473.06;Propaganda;SP
+382;PL;Cand_10;87247.29;Propaganda;SP
+383;MDB;Cand_6;401879.88;Propaganda;SP
+384;PT;Cand_13;59415.76;Pesquisa;MG
+385;MDB;Cand_1;317296.92;Pesquisa;BA
+386;PT;Cand_3;90568.44;Pesquisa;MG
+387;PSOL;Cand_8;246275.96;Propaganda;RJ
+388;PT;Cand_18;407306.54;Redes Sociais;RJ
+389;PSDB;Cand_13;201717.25;Redes Sociais;BA
+390;MDB;Cand_6;282535.46;Redes Sociais;AM
+391;PL;Cand_5;160176.26;Redes Sociais;AM
+392;MDB;Cand_3;238947.23;Eventos;AM
+393;PT;Cand_3;480519.09;Logística;MG
+394;PSOL;Cand_1;255675.54;Propaganda;AM
+395;PL;Cand_15;138551.62;Eventos;AM
+396;MDB;Cand_7;484713.27;Propaganda;RJ
+397;PSOL;Cand_17;24153.84;Redes Sociais;BA
+398;PSOL;Cand_12;37373.76;Logística;BA
+399;PL;Cand_11;156213.23;Eventos;BA
+400;PT;Cand_20;68316.3;Eventos;MG
+401;PSOL;Cand_9;122404.85;Redes Sociais;BA
+402;PT;Cand_15;351576.59;Redes Sociais;SP
+403;PSDB;Cand_17;460262.08;Eventos;MG
+404;MDB;Cand_20;220245.41;Pesquisa;RJ
+405;MDB;Cand_13;462717.57;Eventos;RJ
+406;PSDB;Cand_20;311159.0;Pesquisa;SP
+407;PL;Cand_17;449990.05;Eventos;AM
+408;PL;Cand_4;423555.87;Pesquisa;BA
+409;PSDB;Cand_18;264239.48;Propaganda;RJ
+410;PSOL;Cand_7;168331.01;Logística;BA
+411;PL;Cand_8;196883.99;Pesquisa;SP
+412;PL;Cand_11;239295.35;Eventos;AM
+413;MDB;Cand_14;308579.58;Redes Sociais;AM
+414;PSOL;Cand_13;345544.69;Pesquisa;BA
+415;PT;Cand_12;339350.98;Pesquisa;AM
+416;PL;Cand_12;406163.5;Pesquisa;SP
+417;PSDB;Cand_13;84716.78;Logística;BA
+418;PSDB;Cand_7;79358.31;Propaganda;RJ
+419;MDB;Cand_10;110556.94;Logística;RJ
+420;PL;Cand_17;358052.76;Logística;SP
+421;PSOL;Cand_13;437493.57;Propaganda;SP
+422;PSDB;Cand_2;394433.15;Pesquisa;AM
+423;PL;Cand_13;250919.97;Logística;BA
+424;PSDB;Cand_12;283072.17;Eventos;AM
+425;PSDB;Cand_9;42105.98;Eventos;MG
+426;PSOL;Cand_8;51120.3;Propaganda;RJ
+427;PSOL;Cand_1;368225.5;Eventos;MG
+428;MDB;Cand_2;459324.23;Logística;BA
+429;PT;Cand_18;396423.21;Redes Sociais;AM
+430;PT;Cand_10;126125.56;Propaganda;MG
+431;PSDB;Cand_2;143507.33;Propaganda;AM
+432;MDB;Cand_10;433817.9;Redes Sociais;AM
+433;PL;Cand_18;205988.76;Redes Sociais;BA
+434;PL;Cand_16;167211.39;Redes Sociais;RJ
+435;PSDB;Cand_20;195088.22;Redes Sociais;RJ
+436;PSOL;Cand_19;313150.75;Propaganda;RJ
+437;MDB;Cand_17;132652.9;Logística;MG
+438;PSDB;Cand_4;36427.22;Pesquisa;BA
+439;PSOL;Cand_6;73737.39;Logística;MG
+440;PSDB;Cand_16;472997.62;Propaganda;BA
+441;PSDB;Cand_18;499353.25;Eventos;RJ
+442;MDB;Cand_11;321528.4;Redes Sociais;SP
+443;PSOL;Cand_15;385055.18;Redes Sociais;SP
+444;MDB;Cand_17;79714.97;Logística;BA
+445;PSOL;Cand_12;6629.37;Eventos;AM
+446;PT;Cand_8;287901.45;Logística;MG
+447;PSDB;Cand_16;343316.57;Propaganda;SP
+448;PSOL;Cand_3;29075.6;Redes Sociais;RJ
+449;PSOL;Cand_9;356523.62;Propaganda;RJ
+450;PSOL;Cand_15;130693.91;Eventos;AM
+451;PL;Cand_10;483446.25;Propaganda;AM
+452;MDB;Cand_13;72117.79;Redes Sociais;MG
+453;PSOL;Cand_6;189961.27;Redes Sociais;MG
+454;PSOL;Cand_4;258026.51;Eventos;SP
+455;PL;Cand_15;254733.29;Redes Sociais;BA
+456;MDB;Cand_1;39321.72;Eventos;MG
+457;PSOL;Cand_15;217281.29;Pesquisa;AM
+458;PSDB;Cand_3;384763.85;Redes Sociais;AM
+459;PSDB;Cand_15;413964.21;Propaganda;BA
+460;PT;Cand_4;291717.24;Eventos;AM
+461;MDB;Cand_18;454136.19;Pesquisa;RJ
+462;PSDB;Cand_14;348809.38;Logística;MG
+463;PT;Cand_4;197993.48;Pesquisa;SP
+464;PT;Cand_16;39007.06;Pesquisa;SP
+465;PL;Cand_20;87437.46;Logística;RJ
+466;PSOL;Cand_6;278836.62;Eventos;AM
+467;PT;Cand_15;440796.91;Propaganda;SP
+468;MDB;Cand_18;81827.15;Redes Sociais;MG
+469;PL;Cand_8;240136.48;Propaganda;AM
+470;PSOL;Cand_12;242218.95;Eventos;RJ
+471;PSOL;Cand_15;318885.25;Eventos;AM
+472;PSDB;Cand_12;446137.77;Redes Sociais;AM
+473;PSDB;Cand_10;288109.39;Propaganda;RJ
+474;MDB;Cand_9;261155.16;Eventos;RJ
+475;MDB;Cand_5;425153.96;Redes Sociais;MG
+476;PL;Cand_14;153881.36;Eventos;SP
+477;PSDB;Cand_1;20493.36;Redes Sociais;MG
+478;MDB;Cand_13;423166.3;Propaganda;RJ
+479;MDB;Cand_17;486767.72;Redes Sociais;MG
+480;PSDB;Cand_7;23184.74;Pesquisa;AM
+481;PL;Cand_6;405978.16;Eventos;SP
+482;PSOL;Cand_9;95392.22;Eventos;MG
+483;PT;Cand_10;134074.56;Logística;SP
+484;PL;Cand_20;237135.39;Eventos;BA
+485;PSOL;Cand_8;270679.38;Eventos;SP
+486;PSDB;Cand_15;315764.57;Eventos;RJ
+487;PL;Cand_5;149067.04;Eventos;BA
+488;PSDB;Cand_18;214504.16;Propaganda;SP
+489;PSOL;Cand_18;180018.63;Logística;SP
+490;PL;Cand_18;303828.37;Logística;MG
+491;PSOL;Cand_15;236148.52;Logística;RJ
+492;PSDB;Cand_2;244343.39;Pesquisa;AM
+493;PSDB;Cand_4;219015.35;Propaganda;MG
+494;PSOL;Cand_4;426792.69;Logística;RJ
+495;PSDB;Cand_18;142073.4;Logística;RJ
+496;MDB;Cand_20;92241.96;Redes Sociais;AM
+497;PSDB;Cand_12;136021.5;Logística;RJ
+498;PSDB;Cand_17;285275.67;Pesquisa;AM
+499;PL;Cand_15;206936.6;Pesquisa;AM
+500;PSDB;Cand_6;105792.02;Redes Sociais;RJ
+501;PL;Cand_7;350206.61;Propaganda;MG
+502;MDB;Cand_9;396886.89;Eventos;RJ
+503;MDB;Cand_4;232531.75;Propaganda;RJ
+504;PSDB;Cand_16;468820.24;Propaganda;RJ
+505;PL;Cand_19;302223.43;Redes Sociais;SP
+506;MDB;Cand_12;379445.08;Logística;MG
+507;PL;Cand_1;156737.02;Eventos;MG
+508;PT;Cand_18;166868.24;Logística;BA
+509;PT;Cand_5;443827.91;Logística;SP
+510;PSDB;Cand_3;462255.68;Redes Sociais;AM
+511;PT;Cand_15;126202.06;Redes Sociais;AM
+512;PT;Cand_7;361433.27;Redes Sociais;BA
+513;PSDB;Cand_17;148708.41;Eventos;MG
+514;PT;Cand_11;246347.83;Redes Sociais;BA
+515;MDB;Cand_16;190168.16;Eventos;BA
+516;MDB;Cand_15;320500.44;Logística;BA
+517;PL;Cand_8;171696.3;Pesquisa;RJ
+518;PSOL;Cand_8;123730.85;Logística;SP
+519;PSDB;Cand_6;86358.08;Redes Sociais;BA
+520;PL;Cand_8;246010.67;Eventos;SP
+521;PT;Cand_19;251306.51;Propaganda;SP
+522;MDB;Cand_16;419947.92;Redes Sociais;BA
+523;PSOL;Cand_13;327727.68;Redes Sociais;SP
+524;PL;Cand_19;144840.25;Logística;MG
+525;PT;Cand_6;184600.5;Propaganda;AM
+526;PL;Cand_3;55095.45;Eventos;BA
+527;PSDB;Cand_9;146157.81;Propaganda;AM
+528;PSOL;Cand_17;207193.25;Logística;AM
+529;MDB;Cand_13;164559.7;Redes Sociais;SP
+530;PSDB;Cand_13;174050.56;Eventos;MG
+531;PT;Cand_19;125236.55;Propaganda;MG
+532;MDB;Cand_8;443005.06;Redes Sociais;BA
+533;PL;Cand_17;368533.63;Propaganda;MG
+534;PSOL;Cand_3;283397.03;Pesquisa;MG
+535;PL;Cand_13;150983.68;Logística;AM
+536;PT;Cand_5;65761.05;Logística;SP
+537;PSOL;Cand_10;380132.37;Logística;BA
+538;PSOL;Cand_7;283287.47;Propaganda;MG
+539;PT;Cand_7;475861.54;Redes Sociais;BA
+540;PSOL;Cand_8;288747.47;Propaganda;MG
+541;PSDB;Cand_9;115429.58;Redes Sociais;AM
+542;PSDB;Cand_20;15407.7;Logística;SP
+543;PSDB;Cand_10;120232.95;Propaganda;BA
+544;PSOL;Cand_5;347001.29;Eventos;SP
+545;PT;Cand_8;433373.56;Pesquisa;BA
+546;MDB;Cand_5;411412.99;Redes Sociais;RJ
+547;PL;Cand_4;135554.5;Redes Sociais;BA
+548;PSDB;Cand_11;2479.91;Logística;BA
+549;PSDB;Cand_6;286116.13;Redes Sociais;SP
+550;MDB;Cand_4;66693.38;Eventos;MG
+551;MDB;Cand_13;18149.85;Propaganda;RJ
+552;MDB;Cand_15;303516.39;Pesquisa;RJ
+553;PSOL;Cand_17;322057.23;Propaganda;BA
+554;PSDB;Cand_16;219014.29;Propaganda;RJ
+555;MDB;Cand_18;194461.78;Eventos;SP
+556;PT;Cand_8;57392.18;Logística;AM
+557;PT;Cand_3;224215.48;Logística;AM
+558;PT;Cand_3;143249.79;Propaganda;RJ
+559;PT;Cand_8;481545.89;Redes Sociais;SP
+560;PSDB;Cand_3;30457.78;Logística;MG
+561;MDB;Cand_19;168553.6;Pesquisa;AM
+562;MDB;Cand_7;141214.11;Pesquisa;AM
+563;MDB;Cand_14;89376.41;Logística;BA
+564;MDB;Cand_16;111322.75;Propaganda;SP
+565;PL;Cand_15;153282.44;Redes Sociais;AM
+566;PT;Cand_10;375892.64;Logística;SP
+567;PT;Cand_20;321798.7;Pesquisa;AM
+568;PT;Cand_7;107420.95;Redes Sociais;AM
+569;PSDB;Cand_12;102508.09;Redes Sociais;RJ
+570;PSOL;Cand_12;325100.68;Pesquisa;AM
+571;PSDB;Cand_2;228944.94;Propaganda;MG
+572;MDB;Cand_10;187223.62;Logística;SP
+573;PL;Cand_19;379905.64;Redes Sociais;AM
+574;PSDB;Cand_9;413756.21;Redes Sociais;BA
+575;PL;Cand_16;433605.8;Pesquisa;SP
+576;PL;Cand_19;463245.86;Logística;BA
+577;PT;Cand_6;336472.9;Propaganda;BA
+578;PSOL;Cand_13;481621.36;Propaganda;AM
+579;PL;Cand_7;263856.42;Eventos;BA
+580;PL;Cand_11;327640.73;Redes Sociais;RJ
+581;MDB;Cand_15;337470.09;Eventos;AM
+582;MDB;Cand_17;259780.89;Pesquisa;AM
+583;PSDB;Cand_8;46503.03;Pesquisa;RJ
+584;PL;Cand_12;497066.58;Logística;MG
+585;PL;Cand_11;389868.46;Logística;BA
+586;MDB;Cand_11;21516.31;Eventos;BA
+587;PSOL;Cand_15;310188.89;Eventos;BA
+588;PT;Cand_16;317547.54;Logística;BA
+589;MDB;Cand_8;456277.06;Propaganda;MG
+590;PSDB;Cand_15;75262.6;Pesquisa;MG
+591;PT;Cand_6;390554.47;Redes Sociais;BA
+592;PL;Cand_10;134909.1;Logística;AM
+593;PL;Cand_9;319269.19;Eventos;AM
+594;PSDB;Cand_5;474333.39;Redes Sociais;MG
+595;PSDB;Cand_5;109281.3;Eventos;MG
+596;PL;Cand_13;239088.08;Logística;MG
+597;PSOL;Cand_15;348642.46;Redes Sociais;SP
+598;PSDB;Cand_9;91654.45;Propaganda;RJ
+599;PL;Cand_12;263671.02;Propaganda;AM
+600;MDB;Cand_14;62464.64;Propaganda;BA
+601;MDB;Cand_7;393197.27;Pesquisa;SP
+602;PSDB;Cand_13;439591.42;Pesquisa;BA
+603;PSOL;Cand_7;102992.92;Logística;SP
+604;PT;Cand_7;279194.09;Redes Sociais;SP
+605;PT;Cand_18;317426.68;Propaganda;SP
+606;MDB;Cand_7;491469.22;Propaganda;SP
+607;PT;Cand_8;277744.77;Propaganda;SP
+608;PSDB;Cand_9;298872.24;Propaganda;BA
+609;MDB;Cand_12;445639.3;Redes Sociais;RJ
+610;PL;Cand_16;295289.86;Redes Sociais;MG
+611;PSOL;Cand_10;63151.28;Pesquisa;BA
+612;PT;Cand_20;28037.1;Logística;MG
+613;PL;Cand_3;461386.61;Propaganda;BA
+614;PL;Cand_2;69502.02;Eventos;BA
+615;PSDB;Cand_11;274638.36;Eventos;SP
+616;PSOL;Cand_16;408157.87;Logística;RJ
+617;PSDB;Cand_3;210465.56;Eventos;SP
+618;PSDB;Cand_14;352833.73;Eventos;RJ
+619;PSOL;Cand_2;455428.43;Propaganda;AM
+620;PSDB;Cand_11;184941.05;Redes Sociais;BA
+621;MDB;Cand_15;425083.18;Pesquisa;AM
+622;PT;Cand_3;188969.57;Pesquisa;BA
+623;PL;Cand_9;186148.24;Pesquisa;SP
+624;PSOL;Cand_14;377762.08;Redes Sociais;RJ
+625;MDB;Cand_18;1452.61;Pesquisa;MG
+626;MDB;Cand_7;430124.37;Propaganda;BA
+627;MDB;Cand_13;160917.85;Logística;SP
+628;MDB;Cand_11;181867.63;Pesquisa;MG
+629;PL;Cand_19;327948.43;Pesquisa;AM
+630;PT;Cand_1;72347.99;Redes Sociais;RJ
+631;PSOL;Cand_2;168232.75;Eventos;AM
+632;PL;Cand_3;309842.33;Redes Sociais;AM
+633;PSOL;Cand_12;236761.38;Logística;AM
+634;MDB;Cand_14;386899.35;Eventos;RJ
+635;PSDB;Cand_5;388521.9;Pesquisa;SP
+636;PSOL;Cand_13;67911.41;Eventos;MG
+637;MDB;Cand_7;374568.63;Redes Sociais;SP
+638;PT;Cand_6;95490.01;Pesquisa;SP
+639;PSDB;Cand_10;101708.66;Pesquisa;BA
+640;PSDB;Cand_8;69638.43;Propaganda;AM
+641;PSDB;Cand_9;319523.48;Pesquisa;RJ
+642;PL;Cand_11;321332.93;Pesquisa;BA
+643;MDB;Cand_8;78473.97;Propaganda;BA
+644;PSOL;Cand_10;364537.67;Pesquisa;BA
+645;PT;Cand_5;166534.49;Eventos;AM
+646;MDB;Cand_8;362058.74;Pesquisa;AM
+647;PSDB;Cand_13;359949.41;Propaganda;MG
+648;PSOL;Cand_5;238145.26;Logística;SP
+649;MDB;Cand_20;171439.5;Eventos;AM
+650;PSOL;Cand_1;262992.77;Eventos;RJ
+651;PSDB;Cand_20;212079.37;Eventos;AM
+652;PSOL;Cand_12;269549.76;Logística;RJ
+653;PSDB;Cand_17;12040.06;Eventos;BA
+654;PSOL;Cand_14;89242.07;Redes Sociais;BA
+655;PT;Cand_17;326583.58;Eventos;RJ
+656;PT;Cand_1;335067.7;Eventos;BA
+657;MDB;Cand_8;408018.6;Pesquisa;SP
+658;PT;Cand_2;276820.96;Eventos;RJ
+659;PL;Cand_12;177004.85;Logística;BA
+660;PT;Cand_3;443085.96;Propaganda;RJ
+661;PL;Cand_14;48893.8;Redes Sociais;RJ
+662;PSDB;Cand_17;347734.93;Redes Sociais;RJ
+663;PSDB;Cand_16;179063.2;Propaganda;MG
+664;PL;Cand_10;73441.64;Propaganda;RJ
+665;PL;Cand_14;297261.65;Redes Sociais;MG
+666;PL;Cand_17;243017.39;Eventos;MG
+667;PSDB;Cand_6;357187.76;Eventos;SP
+668;PSOL;Cand_18;140109.34;Redes Sociais;RJ
+669;MDB;Cand_12;430262.04;Pesquisa;SP
+670;PT;Cand_11;413389.83;Redes Sociais;RJ
+671;PT;Cand_9;276808.79;Eventos;AM
+672;PL;Cand_4;418144.21;Pesquisa;BA
+673;PT;Cand_7;169447.44;Eventos;AM
+674;PL;Cand_20;395919.9;Redes Sociais;BA
+675;PSDB;Cand_4;190421.0;Pesquisa;AM
+676;PSDB;Cand_12;242677.37;Pesquisa;MG
+677;PSOL;Cand_16;2336.27;Redes Sociais;BA
+678;PSDB;Cand_6;337784.82;Pesquisa;RJ
+679;PSDB;Cand_17;126662.68;Propaganda;SP
+680;PT;Cand_5;18071.41;Pesquisa;SP
+681;PSOL;Cand_2;168541.3;Propaganda;AM
+682;PSDB;Cand_4;410598.49;Eventos;MG
+683;PL;Cand_10;362343.11;Redes Sociais;RJ
+684;PL;Cand_15;91633.68;Eventos;AM
+685;MDB;Cand_5;4069.27;Pesquisa;RJ
+686;MDB;Cand_6;318168.23;Logística;MG
+687;PT;Cand_14;268112.69;Propaganda;SP
+688;PSDB;Cand_14;235811.15;Eventos;AM
+689;PSOL;Cand_1;185649.46;Eventos;AM
+690;PL;Cand_3;155707.32;Logística;SP
+691;PSDB;Cand_8;142383.42;Redes Sociais;MG
+692;PT;Cand_20;127283.35;Propaganda;MG
+693;PSOL;Cand_2;121535.73;Pesquisa;MG
+694;MDB;Cand_17;39146.94;Redes Sociais;SP
+695;MDB;Cand_15;443623.58;Eventos;AM
+696;PSOL;Cand_16;448701.25;Logística;AM
+697;PL;Cand_19;323136.36;Pesquisa;BA
+698;PT;Cand_7;132298.68;Propaganda;BA
+699;PL;Cand_6;483263.69;Redes Sociais;BA
+700;PSDB;Cand_16;325540.49;Logística;RJ
+701;MDB;Cand_12;102979.89;Redes Sociais;RJ
+702;PL;Cand_16;63939.87;Pesquisa;RJ
+703;PL;Cand_4;371916.77;Redes Sociais;MG
+704;MDB;Cand_10;284156.83;Pesquisa;AM
+705;PSDB;Cand_13;364391.72;Eventos;BA
+706;PSOL;Cand_3;292951.17;Eventos;RJ
+707;PSDB;Cand_12;455054.08;Pesquisa;AM
+708;MDB;Cand_13;68047.59;Redes Sociais;MG
+709;PT;Cand_19;43230.17;Eventos;MG
+710;PSOL;Cand_10;58304.09;Pesquisa;RJ
+711;PSOL;Cand_16;52330.22;Eventos;RJ
+712;MDB;Cand_14;280338.04;Eventos;SP
+713;PT;Cand_19;12791.84;Logística;SP
+714;PT;Cand_4;100218.08;Pesquisa;SP
+715;PSOL;Cand_8;494400.39;Pesquisa;RJ
+716;PSOL;Cand_11;94672.71;Eventos;SP
+717;PT;Cand_16;430264.56;Redes Sociais;AM
+718;PL;Cand_13;368796.81;Pesquisa;SP
+719;PT;Cand_12;43654.48;Eventos;AM
+720;PSOL;Cand_19;4073.68;Pesquisa;SP
+721;MDB;Cand_8;146486.77;Propaganda;RJ
+722;PSDB;Cand_16;283862.07;Redes Sociais;MG
+723;PT;Cand_11;347432.66;Logística;AM
+724;PSOL;Cand_4;71114.44;Eventos;AM
+725;PSOL;Cand_16;303845.64;Pesquisa;AM
+726;PSOL;Cand_6;27907.67;Pesquisa;MG
+727;PL;Cand_18;208110.51;Pesquisa;MG
+728;MDB;Cand_9;492404.2;Propaganda;AM
+729;PT;Cand_9;443892.99;Pesquisa;AM
+730;MDB;Cand_17;54191.31;Propaganda;SP
+731;PL;Cand_15;53894.57;Eventos;MG
+732;PT;Cand_10;272705.97;Eventos;RJ
+733;PSOL;Cand_2;475517.1;Pesquisa;MG
+734;PSDB;Cand_7;245957.04;Propaganda;SP
+735;PL;Cand_10;194189.59;Propaganda;BA
+736;PT;Cand_18;405349.53;Propaganda;BA
+737;PSOL;Cand_10;350753.73;Pesquisa;AM
+738;PSDB;Cand_10;442078.91;Eventos;AM
+739;PSDB;Cand_20;109734.53;Pesquisa;RJ
+740;PT;Cand_9;455278.7;Redes Sociais;MG
+741;PSOL;Cand_6;247082.35;Logística;RJ
+742;PT;Cand_6;419507.5;Pesquisa;RJ
+743;PSDB;Cand_11;36075.24;Propaganda;RJ
+744;PSOL;Cand_11;38430.13;Logística;RJ
+745;PSOL;Cand_19;46041.4;Redes Sociais;BA
+746;PT;Cand_18;470644.34;Logística;RJ
+747;PT;Cand_18;67064.26;Propaganda;SP
+748;PT;Cand_3;417789.17;Pesquisa;MG
+749;PL;Cand_7;392518.74;Logística;RJ
+750;PT;Cand_8;107102.34;Propaganda;AM
+751;MDB;Cand_9;384572.88;Pesquisa;SP
+752;PT;Cand_19;71092.24;Redes Sociais;MG
+753;PSDB;Cand_6;203982.13;Redes Sociais;AM
+754;PL;Cand_13;196000.74;Redes Sociais;BA
+755;PSOL;Cand_19;355901.14;Eventos;MG
+756;PL;Cand_19;455535.64;Pesquisa;SP
+757;PSOL;Cand_18;430534.25;Eventos;SP
+758;PSDB;Cand_9;464537.65;Logística;BA
+759;PL;Cand_17;320475.66;Redes Sociais;AM
+760;PL;Cand_3;463629.52;Pesquisa;AM
+761;PSOL;Cand_6;149492.07;Propaganda;SP
+762;PSDB;Cand_19;74569.18;Propaganda;SP
+763;MDB;Cand_12;254035.62;Propaganda;SP
+764;MDB;Cand_19;77041.5;Eventos;MG
+765;PSDB;Cand_13;222239.31;Logística;AM
+766;PL;Cand_2;342508.57;Logística;RJ
+767;PSDB;Cand_13;291055.71;Propaganda;AM
+768;PL;Cand_5;133465.81;Pesquisa;MG
+769;PSDB;Cand_3;91515.06;Pesquisa;BA
+770;MDB;Cand_20;491776.6;Pesquisa;MG
+771;PT;Cand_13;424249.36;Redes Sociais;BA
+772;PL;Cand_19;371411.7;Pesquisa;RJ
+773;PSDB;Cand_19;257072.79;Logística;SP
+774;MDB;Cand_5;197890.47;Logística;RJ
+775;MDB;Cand_14;22642.64;Logística;BA
+776;PL;Cand_5;212008.01;Eventos;SP
+777;MDB;Cand_7;223753.79;Eventos;RJ
+778;PSDB;Cand_8;217568.97;Logística;SP
+779;PSOL;Cand_12;137608.41;Eventos;MG
+780;PL;Cand_15;407082.69;Propaganda;MG
+781;PT;Cand_18;426326.65;Propaganda;RJ
+782;PL;Cand_6;224370.56;Redes Sociais;BA
+783;PL;Cand_13;18072.64;Pesquisa;MG
+784;PL;Cand_8;445771.46;Redes Sociais;MG
+785;PL;Cand_5;215145.45;Pesquisa;BA
+786;PT;Cand_6;16670.04;Logística;AM
+787;PT;Cand_8;481878.99;Redes Sociais;AM
+788;PSOL;Cand_4;44633.68;Logística;SP
+789;PSDB;Cand_8;499509.06;Redes Sociais;AM
+790;PT;Cand_19;48659.58;Logística;MG
+791;PSDB;Cand_7;271278.22;Redes Sociais;BA
+792;PL;Cand_1;463220.84;Propaganda;SP
+793;PSOL;Cand_2;90401.16;Propaganda;SP
+794;MDB;Cand_15;136746.86;Eventos;RJ
+795;PSDB;Cand_9;354855.32;Pesquisa;SP
+796;PSOL;Cand_4;200109.87;Propaganda;SP
+797;PL;Cand_15;105577.12;Redes Sociais;BA
+798;MDB;Cand_4;189694.28;Redes Sociais;AM
+799;MDB;Cand_14;461029.5;Logística;RJ
+800;PSDB;Cand_8;150768.81;Logística;MG
+801;PSOL;Cand_7;78668.6;Pesquisa;AM
+802;PL;Cand_5;287426.71;Eventos;AM
+803;PSDB;Cand_4;481715.08;Redes Sociais;BA
+804;PT;Cand_3;314398.02;Pesquisa;SP
+805;PL;Cand_8;298543.73;Propaganda;RJ
+806;PSOL;Cand_19;379242.94;Propaganda;SP
+807;PSDB;Cand_2;364460.73;Logística;AM
+808;PSDB;Cand_9;455335.18;Pesquisa;AM
+809;PL;Cand_4;122613.32;Redes Sociais;AM
+810;MDB;Cand_6;134762.13;Propaganda;BA
+811;PSDB;Cand_8;110167.59;Logística;MG
+812;PT;Cand_18;474120.1;Pesquisa;SP
+813;PL;Cand_5;472572.63;Eventos;AM
+814;PT;Cand_19;159781.51;Pesquisa;BA
+815;PL;Cand_11;352711.73;Logística;RJ
+816;PSDB;Cand_9;128263.42;Redes Sociais;BA
+817;PSOL;Cand_20;154313.76;Pesquisa;MG
+818;PT;Cand_9;235533.48;Eventos;BA
+819;PL;Cand_10;278655.1;Propaganda;AM
+820;PL;Cand_11;181263.6;Redes Sociais;AM
+821;PL;Cand_15;232687.84;Logística;MG
+822;PT;Cand_14;309389.1;Propaganda;RJ
+823;MDB;Cand_16;146163.29;Propaganda;RJ
+824;MDB;Cand_17;108222.52;Pesquisa;SP
+825;PSDB;Cand_10;61628.79;Redes Sociais;RJ
+826;PT;Cand_11;297865.47;Eventos;SP
+827;PSDB;Cand_13;428898.69;Redes Sociais;AM
+828;PSDB;Cand_1;386643.52;Propaganda;MG
+829;PSDB;Cand_5;318141.07;Pesquisa;BA
+830;PSOL;Cand_17;24097.71;Redes Sociais;SP
+831;MDB;Cand_4;453215.19;Pesquisa;AM
+832;PT;Cand_18;163750.83;Logística;RJ
+833;MDB;Cand_12;372004.3;Redes Sociais;RJ
+834;MDB;Cand_10;372652.64;Logística;SP
+835;MDB;Cand_14;349149.89;Redes Sociais;RJ
+836;PSDB;Cand_2;487338.39;Pesquisa;MG
+837;PSOL;Cand_20;63349.34;Redes Sociais;MG
+838;PSOL;Cand_17;255216.61;Propaganda;SP
+839;MDB;Cand_11;189717.83;Propaganda;RJ
+840;PL;Cand_7;415146.43;Redes Sociais;AM
+841;PSDB;Cand_13;475945.67;Propaganda;BA
+842;MDB;Cand_4;24259.16;Pesquisa;BA
+843;PSDB;Cand_4;268043.12;Redes Sociais;RJ
+844;PSDB;Cand_5;225979.41;Pesquisa;BA
+845;PSOL;Cand_5;220886.69;Redes Sociais;MG
+846;MDB;Cand_1;221857.22;Logística;AM
+847;MDB;Cand_17;348575.89;Eventos;RJ
+848;PSDB;Cand_1;221347.47;Pesquisa;AM
+849;PL;Cand_11;318023.89;Pesquisa;SP
+850;MDB;Cand_20;247284.47;Eventos;MG
+851;PT;Cand_13;401166.51;Propaganda;BA
+852;MDB;Cand_14;358904.69;Redes Sociais;MG
+853;PSOL;Cand_13;155182.58;Logística;SP
+854;PSDB;Cand_8;208792.49;Logística;SP
+855;PSOL;Cand_16;427962.92;Eventos;MG
+856;PT;Cand_20;52154.11;Propaganda;BA
+857;PT;Cand_9;6567.22;Redes Sociais;RJ
+858;PL;Cand_5;163396.81;Propaganda;RJ
+859;MDB;Cand_13;427491.98;Logística;AM
+860;PSOL;Cand_13;187736.86;Propaganda;BA
+861;PL;Cand_2;276040.63;Logística;RJ
+862;PL;Cand_13;300200.11;Pesquisa;BA
+863;PSOL;Cand_3;430094.22;Logística;SP
+864;PL;Cand_10;340287.12;Propaganda;AM
+865;PSDB;Cand_9;87580.35;Redes Sociais;RJ
+866;PT;Cand_9;268580.82;Propaganda;MG
+867;PL;Cand_11;252306.95;Eventos;SP
+868;MDB;Cand_14;80668.98;Propaganda;AM
+869;PSOL;Cand_2;442891.58;Propaganda;MG
+870;MDB;Cand_10;178362.89;Logística;AM
+871;PT;Cand_12;271637.86;Propaganda;AM
+872;MDB;Cand_4;333348.25;Redes Sociais;RJ
+873;PL;Cand_19;286705.2;Eventos;AM
+874;PSDB;Cand_13;305092.78;Logística;RJ
+875;PT;Cand_2;238472.41;Logística;SP
+876;PL;Cand_8;428363.2;Logística;SP
+877;MDB;Cand_11;209614.54;Redes Sociais;SP
+878;PSOL;Cand_9;316267.88;Eventos;AM
+879;PL;Cand_7;36631.35;Eventos;MG
+880;PSOL;Cand_10;49128.95;Logística;AM
+881;PL;Cand_9;192241.11;Pesquisa;BA
+882;PSDB;Cand_2;297856.88;Redes Sociais;AM
+883;MDB;Cand_20;302601.06;Pesquisa;RJ
+884;PSOL;Cand_10;16255.33;Logística;SP
+885;PSDB;Cand_14;128099.35;Logística;AM
+886;PT;Cand_14;251445.35;Propaganda;BA
+887;MDB;Cand_2;137572.92;Logística;SP
+888;MDB;Cand_5;220713.88;Pesquisa;AM
+889;PL;Cand_12;68070.47;Eventos;AM
+890;PSDB;Cand_14;444338.49;Pesquisa;AM
+891;MDB;Cand_6;116489.01;Redes Sociais;AM
+892;PSOL;Cand_10;183674.19;Eventos;SP
+893;PSOL;Cand_12;364432.61;Eventos;RJ
+894;PSDB;Cand_17;392142.61;Logística;MG
+895;MDB;Cand_12;111081.69;Propaganda;RJ
+896;PSDB;Cand_16;27937.15;Pesquisa;BA
+897;PL;Cand_4;357460.05;Pesquisa;AM
+898;PSOL;Cand_7;342430.33;Eventos;RJ
+899;PT;Cand_10;138533.11;Eventos;AM
+900;MDB;Cand_12;371718.64;Propaganda;SP
+901;PSOL;Cand_16;343517.43;Propaganda;RJ
+902;PSDB;Cand_13;39041.14;Eventos;SP
+903;PSDB;Cand_7;86983.69;Redes Sociais;RJ
+904;PSDB;Cand_20;35728.6;Pesquisa;SP
+905;PSDB;Cand_5;322760.18;Pesquisa;AM
+906;PL;Cand_11;366010.97;Propaganda;MG
+907;PL;Cand_5;245394.75;Logística;SP
+908;PT;Cand_20;125452.25;Logística;SP
+909;PSDB;Cand_7;153126.33;Pesquisa;SP
+910;PT;Cand_4;442273.22;Redes Sociais;RJ
+911;MDB;Cand_11;63090.29;Redes Sociais;SP
+912;PT;Cand_10;449479.92;Pesquisa;SP
+913;PL;Cand_7;302013.87;Propaganda;SP
+914;MDB;Cand_8;197314.61;Eventos;RJ
+915;MDB;Cand_7;16899.44;Pesquisa;SP
+916;PSDB;Cand_6;76652.14;Eventos;SP
+917;PSDB;Cand_7;467689.5;Eventos;MG
+918;MDB;Cand_11;191923.81;Propaganda;SP
+919;PT;Cand_8;147488.68;Logística;BA
+920;PT;Cand_14;39108.66;Eventos;BA
+921;PT;Cand_5;70577.71;Propaganda;AM
+922;PSDB;Cand_1;416949.77;Eventos;SP
+923;PSOL;Cand_2;308758.12;Propaganda;BA
+924;PT;Cand_3;56946.85;Propaganda;AM
+925;PT;Cand_9;386562.08;Redes Sociais;RJ
+926;PSDB;Cand_16;164120.28;Logística;MG
+927;PL;Cand_1;331407.63;Pesquisa;BA
+928;PT;Cand_2;441779.1;Redes Sociais;SP
+929;PSDB;Cand_3;439151.29;Propaganda;RJ
+930;PSOL;Cand_4;141088.36;Redes Sociais;AM
+931;PL;Cand_16;40172.13;Pesquisa;AM
+932;PSDB;Cand_3;391354.92;Propaganda;AM
+933;PL;Cand_3;233359.45;Redes Sociais;RJ
+934;PSDB;Cand_6;268043.14;Pesquisa;SP
+935;PL;Cand_5;484220.42;Logística;RJ
+936;PT;Cand_16;444853.59;Eventos;BA
+937;PT;Cand_4;297635.63;Propaganda;SP
+938;PSOL;Cand_18;441089.62;Logística;SP
+939;PSDB;Cand_11;23602.71;Eventos;MG
+940;PT;Cand_11;135582.05;Redes Sociais;MG
+941;MDB;Cand_9;494355.93;Eventos;SP
+942;PT;Cand_19;213907.44;Redes Sociais;AM
+943;MDB;Cand_2;19848.86;Pesquisa;BA
+944;PSDB;Cand_4;191566.64;Logística;BA
+945;PSOL;Cand_13;382306.83;Logística;SP
+946;PSDB;Cand_14;148059.45;Propaganda;MG
+947;PT;Cand_7;8786.23;Pesquisa;SP
+948;MDB;Cand_10;216825.2;Propaganda;RJ
+949;PSOL;Cand_13;428517.98;Propaganda;RJ
+950;PT;Cand_6;39271.67;Propaganda;SP
+951;MDB;Cand_1;84280.75;Eventos;RJ
+952;PSDB;Cand_10;266226.62;Pesquisa;AM
+953;MDB;Cand_10;491912.92;Redes Sociais;BA
+954;PT;Cand_13;368692.55;Redes Sociais;SP
+955;MDB;Cand_7;432291.82;Eventos;AM
+956;PL;Cand_5;419016.19;Eventos;AM
+957;PSOL;Cand_12;41704.6;Pesquisa;AM
+958;MDB;Cand_5;269823.14;Pesquisa;AM
+959;PSOL;Cand_8;396995.1;Pesquisa;SP
+960;PSDB;Cand_15;471395.1;Eventos;MG
+961;PT;Cand_10;403642.53;Pesquisa;SP
+962;PL;Cand_5;338487.37;Redes Sociais;AM
+963;PL;Cand_19;336630.69;Propaganda;MG
+964;PSOL;Cand_17;221918.8;Eventos;AM
+965;PSDB;Cand_1;267100.67;Propaganda;BA
+966;MDB;Cand_1;385701.08;Logística;AM
+967;PT;Cand_20;229946.37;Logística;AM
+968;PT;Cand_15;144698.41;Redes Sociais;AM
+969;PSOL;Cand_16;282272.22;Logística;RJ
+970;PSOL;Cand_8;208223.82;Eventos;BA
+971;PSOL;Cand_3;467117.45;Eventos;MG
+972;PSDB;Cand_9;412699.41;Logística;MG
+973;PT;Cand_8;170552.77;Pesquisa;SP
+974;PSDB;Cand_3;113310.13;Pesquisa;RJ
+975;PT;Cand_5;35844.58;Propaganda;SP
+976;PSOL;Cand_10;378938.6;Logística;MG
+977;PT;Cand_14;63451.84;Redes Sociais;AM
+978;PT;Cand_15;216837.25;Eventos;BA
+979;PSDB;Cand_8;294865.58;Logística;BA
+980;PT;Cand_4;9239.84;Logística;RJ
+981;PT;Cand_5;176183.12;Pesquisa;MG
+982;PT;Cand_16;107253.53;Redes Sociais;AM
+983;PSOL;Cand_10;173055.89;Logística;BA
+984;PSOL;Cand_7;232396.45;Logística;AM
+985;PT;Cand_2;37899.15;Eventos;SP
+986;PSDB;Cand_16;85828.05;Pesquisa;SP
+987;MDB;Cand_9;178284.14;Pesquisa;MG
+988;MDB;Cand_13;261454.41;Logística;RJ
+989;PL;Cand_16;303027.75;Logística;RJ
+990;PSDB;Cand_6;66813.44;Redes Sociais;SP
+991;MDB;Cand_4;64532.65;Logística;RJ
+992;PT;Cand_18;233119.24;Eventos;MG
+993;PL;Cand_6;284898.53;Logística;MG
+994;PSOL;Cand_11;313286.89;Pesquisa;RJ
+995;PT;Cand_1;148283.55;Redes Sociais;BA
+996;PSDB;Cand_13;458340.01;Logística;SP
+997;PT;Cand_10;490121.36;Redes Sociais;SP
+998;PL;Cand_6;281724.19;Eventos;AM
+999;PT;Cand_19;317361.75;Pesquisa;MG
+1000;PT;Cand_7;201476.82;Eventos;MG
